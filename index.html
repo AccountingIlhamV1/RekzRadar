@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0c1822">
+<title>REKZ RADAR — Intelijen Pasar</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav class="nav" aria-label="Navigasi utama">
+  <div class="brand"><span class="sweep" aria-hidden="true"></span><b>REKZ RADAR</b></div>
+  <a href="#ringkasan">Ringkasan</a>
+  <a href="#aset">Aset</a>
+  <a href="#volatilitas">Volatilitas</a>
+  <a href="#peristiwa">Peristiwa</a>
+  <a href="#lintas">Lintas aset</a>
+  <a href="#pantauan">Pantauan</a>
+  <a href="#sumber">Sumber data</a>
+</nav>
+
+<div class="main">
+<header class="top">
+  <div>
+    <h1>Terminal intelijen pasar</h1>
+    <p class="muted">Pembaruan: <time id="waktu">—</time></p>
+  </div>
+  <div class="top-r">
+    <span class="status"><i></i>Mode simulasi</span>
+    <button id="segarkan" type="button">Segarkan data simulasi</button>
+  </div>
+</header>
+
+<div class="banner" role="note">Seluruh angka di halaman ini adalah <b>SIMULASI</b>. Bukan harga pasar, bukan saran investasi.</div>
+
+<section id="ringkasan" class="panel">
+  <h2>Ringkasan kondisi pasar <span class="tag">SIMULASI</span></h2>
+  <div class="mood">
+    <div><span class="muted">Suasana pasar</span><strong id="mood-label">—</strong></div>
+    <div><span class="muted">Kelas aset naik</span><strong id="mood-naik">—</strong></div>
+    <div><span class="muted">Volatilitas tertinggi</span><strong id="mood-vol">—</strong></div>
+  </div>
+  <p id="mood-teks" class="muted"></p>
+</section>
+
+<section id="aset" class="panel">
+  <h2>Kelas aset <span class="tag">SIMULASI</span></h2>
+  <div id="grid-aset" class="grid"></div>
+</section>
+
+<section id="volatilitas" class="panel">
+  <h2>Volatilitas pasar <span class="tag">SIMULASI</span></h2>
+  <div id="vol" class="vol"></div>
+</section>
+
+<div class="two">
+<section id="peristiwa" class="panel">
+  <h2>Peristiwa ekonomi dan berita <span class="tag">CONTOH</span></h2>
+  <ul id="peristiwa-list" class="events"></ul>
+</section>
+
+<section id="pantauan" class="panel">
+  <h2>Peluang yang dipantau <span class="tag">PROTOTIPE</span></h2>
+  <ul id="pantauan-list" class="watch"></ul>
+  <p class="muted small">Daftar ini contoh tampilan. Belum bisa ditambah atau diubah.</p>
+</section>
+</div>
+
+<section id="lintas" class="panel">
+  <h2>Analisis lintas aset <span class="tag">SIMULASI</span></h2>
+  <p class="muted small">Korelasi simulasi antar kelas aset. Biru: bergerak searah. Oranye: berlawanan.</p>
+  <div class="scroll"><table id="korelasi"></table></div>
+</section>
+
+<section id="sumber" class="panel">
+  <h2>Kesehatan sumber data</h2>
+  <ul id="sumber-list" class="src"></ul>
+  <p class="muted small">Tahap 1 belum memakai sumber data sungguhan.</p>
+</section>
+
+<footer class="foot muted small">REKZ RADAR · Tahap 1 · Biaya operasional Rp0 · Tanpa backend</footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
