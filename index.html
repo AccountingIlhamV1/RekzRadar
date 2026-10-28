@@ -80,7 +80,7 @@
   <div class="ktl"><button id="muat-berita" type="button">Muat ulang berita</button><button id="ganti-berita" type="button">Sumber: Pasar (Indonesia)</button></div>
   <p id="berita-status" class="muted small">Memuat…</p>
   <ul id="peristiwa-list" class="events"></ul>
-  <p class="muted small">Hanya judul dan tautan ke sumber. Pasar dan Makro berbahasa Indonesia (Investortrust), Bisnis berbahasa Inggris (BBC). Diambil lewat layanan rss2json yang gratis dan bisa dibatasi sewaktu-waktu.</p>
+  <p class="muted small">Hanya judul dan tautan. Pasar dan Makro berbahasa Indonesia (Investortrust), Bisnis berbahasa Inggris (BBC). Diambil otomatis tiap ±30 menit oleh GitHub Actions dan disimpan di folder fitur/berita.</p>
 </section>
 
 <section id="pantauan" class="panel">
@@ -247,39 +247,6 @@ var FX=buatSumber({nama:"data forex",st:"forex-status",btn:"muat-forex",cool:600
   ok:function(o){return "Kurs per tanggal "+o.tgl+" (data sejak "+o.awal+")"}
 });
 
-/* BERITA lewat rss2json (RSS Investortrust: pasar & makro, BBC: bisnis) */
-var SRC=[{n:"Pasar (Indonesia)",u:"https://investortrust.id/rss/market.rss",dom:"Investortrust"},
- {n:"Makro (Indonesia)",u:"https://investortrust.id/rss/macro.rss",dom:"Investortrust"},
- {n:"Bisnis (BBC, Inggris)",u:"https://feeds.bbci.co.uk/news/business/rss.xml",dom:"BBC News"}],si=0;
-var NW=buatSumber({nama:"berita",st:"berita-status",btn:"muat-berita",cool:10000,timeout:15000,
-  url:function(){return "https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(SRC[si].u)},
-  parse:function(tx){
-    var js=parseJson(tx);
-    if(!js||js.status!=="ok")throw new Error((js&&js.message)||"sumber menolak permintaan");
-    if(!Array.isArray(js.items))throw new Error("tidak ada berita");
-    var seen={},out=[];
-    js.items.forEach(function(a){
-      var t=String(a.title||"").trim(),u=String(a.link||"");
-      if(!t||!/^https?:\/\//i.test(u))return;
-      var k=t.toLowerCase().slice(0,80);if(seen[k])return;seen[k]=1;
-      var d=a.pubDate?new Date(String(a.pubDate).replace(" ","T")+"Z"):null;
-      out.push({t:t.slice(0,200),u:u,dom:SRC[si].dom,d:d&&!isNaN(d)?d:null});
-    });
-    if(!out.length)throw new Error("tidak ada berita");
-    return out.slice(0,10);
-  },
-  show:function(rows){
-    var ul=$("peristiwa-list");ul.textContent="";
-    rows.forEach(function(r){
-      var li=el("li");
-      li.appendChild(el("div","d",(r.d?r.d.toLocaleString("id-ID",{dateStyle:"medium",timeStyle:"short"}):"waktu tidak diketahui")+" · "+r.dom));
-      var a=el("a",null,r.t);a.href=r.u;a.target="_blank";a.rel="noopener noreferrer";
-      var d=el("div");d.appendChild(a);li.appendChild(d);ul.appendChild(li);
-    });
-  },
-  ok:function(){return "Berita "+SRC[si].n+", dimuat pukul "+new Date().toLocaleTimeString("id-ID",{hour:"2-digit",minute:"2-digit"})}
-});
-
 /* TURUNAN: semua dihitung dari data nyata di atas */
 function kartu(g,nm,v,ch,cls){
   var c=el("div","card");c.appendChild(el("div","nm",nm));
@@ -354,23 +321,17 @@ var dots={};
 ["Data saham & indeks","Data kripto","Data emas & komoditas","Data forex","Data obligasi & makro","Berita ekonomi","Kalender ekonomi"].forEach(function(n){
   var li=el("li");li.appendChild(el("span",null,n));
   var d=el("span","dot",["Data kripto","Data forex","Berita ekonomi"].indexOf(n)>=0?"Memuat…":"Belum tersedia");
-  li.appendChild(d);$("sumber-list").appendChild(li);dots[n]=d;
+  li.appendChild(d);$("sumber-list").appendChild(li);dots[n]=d;d.id="dot-"+n.toLowerCase().replace(/[^a-z]+/g,"-");
 });
-KR.dot=dots["Data kripto"];FX.dot=dots["Data forex"];NW.dot=dots["Berita ekonomi"];
+KR.dot=dots["Data kripto"];FX.dot=dots["Data forex"];
 
 $("muat-kripto").addEventListener("click",KR.muat);
 $("muat-forex").addEventListener("click",FX.muat);
-$("muat-berita").addEventListener("click",NW.muat);
-$("ganti-berita").addEventListener("click",function(){
-  if(NW.busy)return;
-  if(NW.sisa()>0){$("berita-status").textContent="Tunggu "+NW.sisa()+" detik sebelum mengganti sumber.";return}
-  si=(si+1)%SRC.length;NW.data=null;
-  $("ganti-berita").textContent="Sumber: "+SRC[si].n;
-  NW.muat();
-});
-turunan();KR.muat();FX.muat();NW.muat();
+turunan();KR.muat();FX.muat();
 })();
 
 </script>
+<script src="fitur/berita/berita.js"></script>
+<script>setTimeout(function(){var s=document.getElementById("berita-status");if(s&&s.textContent==="Memuat…")s.textContent="Modul berita belum terpasang (file fitur/berita/berita.js tidak ditemukan)."},4000)</script>
 </body>
 </html>
