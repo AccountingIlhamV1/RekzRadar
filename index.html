@@ -250,7 +250,7 @@ var FX=buatSumber({nama:"data forex",st:"forex-status",btn:"muat-forex",cool:600
 /* BERITA lewat rss2json (RSS Investortrust: pasar & makro, BBC: bisnis) */
 var SRC=[{n:"Pasar (Indonesia)",u:"https://investortrust.id/rss/market.rss",dom:"Investortrust"},
  {n:"Makro (Indonesia)",u:"https://investortrust.id/rss/macro.rss",dom:"Investortrust"},
- {n:"Bisnis (BBC, Inggris)",u:"https://feeds.bbci.co.uk/news/business/rss.xml",dom:SRC[si].dom}],si=0;
+ {n:"Bisnis (BBC, Inggris)",u:"https://feeds.bbci.co.uk/news/business/rss.xml",dom:"BBC News"}],si=0;
 var NW=buatSumber({nama:"berita",st:"berita-status",btn:"muat-berita",cool:10000,timeout:15000,
   url:function(){return "https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(SRC[si].u)},
   parse:function(tx){
@@ -263,7 +263,7 @@ var NW=buatSumber({nama:"berita",st:"berita-status",btn:"muat-berita",cool:10000
       if(!t||!/^https?:\/\//i.test(u))return;
       var k=t.toLowerCase().slice(0,80);if(seen[k])return;seen[k]=1;
       var d=a.pubDate?new Date(String(a.pubDate).replace(" ","T")+"Z"):null;
-      out.push({t:t.slice(0,200),u:u,dom:"BBC News",d:d&&!isNaN(d)?d:null});
+      out.push({t:t.slice(0,200),u:u,dom:SRC[si].dom,d:d&&!isNaN(d)?d:null});
     });
     if(!out.length)throw new Error("tidak ada berita");
     return out.slice(0,10);
