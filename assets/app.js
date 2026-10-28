@@ -140,24 +140,26 @@ var FX=buatSumber({nama:"data forex",st:"forex-status",btn:"muat-forex",cool:600
   ok:function(o){return "Kurs per tanggal "+o.tgl+" (data sejak "+o.awal+")"}
 });
 
-/* BERITA */
-var nwLang="en";
-var NWQ={en:'("central bank" OR inflation OR "interest rate" OR "stock market" OR bitcoin OR gold OR "oil price") sourcelang:english',
- id:'(inflasi OR "suku bunga" OR "bank sentral" OR IHSG OR rupiah OR emas OR "harga minyak" OR bitcoin) sourcelang:indonesian'};
-function tglGdelt(s){var m=/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/.exec(s||"");return m?new Date(Date.UTC(+m[1],m[2]-1,+m[3],+m[4],+m[5],+m[6])):null}
+/* BERITA lewat rss2json (RSS Investortrust: pasar & makro, BBC: bisnis) */
+var SRC=[{n:"Pasar (Indonesia)",u:"https://investortrust.id/rss/market.rss",dom:"Investortrust"},
+ {n:"Makro (Indonesia)",u:"https://investortrust.id/rss/macro.rss",dom:"Investortrust"},
+ {n:"Bisnis (BBC, Inggris)",u:"https://feeds.bbci.co.uk/news/business/rss.xml",dom:SRC[si].dom}],si=0;
 var NW=buatSumber({nama:"berita",st:"berita-status",btn:"muat-berita",cool:10000,timeout:15000,
-  url:function(){return "https://api.gdeltproject.org/api/v2/doc/doc?query="+encodeURIComponent(NWQ[nwLang])+"&mode=ArtList&format=json&maxrecords=40&sort=datedesc&timespan=24h"},
+  url:function(){return "https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(SRC[si].u)},
   parse:function(tx){
-    var js=parseJson(tx);if(!js||!Array.isArray(js.articles))throw new Error("tidak ada berita yang cocok");
+    var js=parseJson(tx);
+    if(!js||js.status!=="ok")throw new Error((js&&js.message)||"sumber menolak permintaan");
+    if(!Array.isArray(js.items))throw new Error("tidak ada berita");
     var seen={},out=[];
-    js.articles.forEach(function(a){
-      var t=String(a.title||"").trim(),u=String(a.url||"");
+    js.items.forEach(function(a){
+      var t=String(a.title||"").trim(),u=String(a.link||"");
       if(!t||!/^https?:\/\//i.test(u))return;
       var k=t.toLowerCase().slice(0,80);if(seen[k])return;seen[k]=1;
-      out.push({t:t.slice(0,200),u:u,dom:String(a.domain||"").slice(0,60),d:tglGdelt(a.seendate)});
+      var d=a.pubDate?new Date(String(a.pubDate).replace(" ","T")+"Z"):null;
+      out.push({t:t.slice(0,200),u:u,dom:"BBC News",d:d&&!isNaN(d)?d:null});
     });
-    if(!out.length)throw new Error("tidak ada berita yang cocok");
-    return out.slice(0,12);
+    if(!out.length)throw new Error("tidak ada berita");
+    return out.slice(0,10);
   },
   show:function(rows){
     var ul=$("peristiwa-list");ul.textContent="";
@@ -168,7 +170,7 @@ var NW=buatSumber({nama:"berita",st:"berita-status",btn:"muat-berita",cool:10000
       var d=el("div");d.appendChild(a);li.appendChild(d);ul.appendChild(li);
     });
   },
-  ok:function(){return "Berita 24 jam terakhir dari GDELT, dimuat pukul "+new Date().toLocaleTimeString("id-ID",{hour:"2-digit",minute:"2-digit"})}
+  ok:function(){return "Berita "+SRC[si].n+", dimuat pukul "+new Date().toLocaleTimeString("id-ID",{hour:"2-digit",minute:"2-digit"})}
 });
 
 /* TURUNAN: semua dihitung dari data nyata di atas */
@@ -252,11 +254,11 @@ KR.dot=dots["Data kripto"];FX.dot=dots["Data forex"];NW.dot=dots["Berita ekonomi
 $("muat-kripto").addEventListener("click",KR.muat);
 $("muat-forex").addEventListener("click",FX.muat);
 $("muat-berita").addEventListener("click",NW.muat);
-$("bahasa-berita").addEventListener("click",function(){
+$("ganti-berita").addEventListener("click",function(){
   if(NW.busy)return;
-  if(NW.sisa()>0){$("berita-status").textContent="Tunggu "+NW.sisa()+" detik sebelum mengganti bahasa.";return}
-  nwLang=nwLang==="en"?"id":"en";NW.data=null;
-  $("bahasa-berita").textContent="Bahasa: "+(nwLang==="en"?"English":"Indonesia");
+  if(NW.sisa()>0){$("berita-status").textContent="Tunggu "+NW.sisa()+" detik sebelum mengganti sumber.";return}
+  si=(si+1)%SRC.length;NW.data=null;
+  $("ganti-berita").textContent="Sumber: "+SRC[si].n;
   NW.muat();
 });
 turunan();KR.muat();FX.muat();NW.muat();
