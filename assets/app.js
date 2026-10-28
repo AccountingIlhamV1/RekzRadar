@@ -17,6 +17,7 @@ var PANTAUAN=[
 ];
 var SUMBER=["Data saham & indeks","Data kripto","Data emas & komoditas","Data forex","Data obligasi & makro","Kalender ekonomi & berita"];
 
+var krDot,krBusy=false,krLast=0,krData=null;
 function $(id){return document.getElementById(id)}
 function rnd(a,b){return a+Math.random()*(b-a)}
 function fmt(n,d){return n.toFixed(d).replace(".",",")}
@@ -99,10 +100,59 @@ function statis(){
     var li=el("li");li.appendChild(el("div",null,p.t));li.appendChild(el("div","muted small",p.s));w.appendChild(li);
   });
   var s=$("sumber-list");SUMBER.forEach(function(n){
-    var li=el("li");li.appendChild(el("span",null,n));li.appendChild(el("span","dot","Belum terhubung"));s.appendChild(li);
+    var li=el("li");li.appendChild(el("span",null,n));var dt=el("span","dot","Belum terhubung");if(n==="Data kripto"){krDot=dt}li.appendChild(dt);s.appendChild(li);
   });
 }
 
-statis();tampilkan(buatData());
+
+var KR_URL="https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,solana,binancecoin,ripple,dogecoin,cardano,tron&order=market_cap_desc&sparkline=true&price_change_percentage=24h,7d";
+function volHarian(sp){
+  if(!sp||sp.length<20)return null;var r=[],i;
+  for(i=1;i<sp.length;i++){if(sp[i]>0&&sp[i-1]>0)r.push(Math.log(sp[i]/sp[i-1]))}
+  if(r.length<10)return null;
+  var m=r.reduce(function(a,b){return a+b},0)/r.length;
+  var v=r.reduce(function(a,b){return a+(b-m)*(b-m)},0)/(r.length-1);
+  return Math.sqrt(v)*Math.sqrt(24)*100;
+}
+function pct(x){if(x==null)return ["—",""];return [(x>=0?"+":"")+fmt(x,2)+"%",x>=0?"up":"dn"]}
+function tabelKripto(rows){
+  var t=$("kripto-tbl");t.textContent="";
+  var hr=el("tr");["Aset","Harga (USD)","24 jam","7 hari","Volatilitas/hari"].forEach(function(x){hr.appendChild(el("th",null,x))});t.appendChild(hr);
+  rows.forEach(function(c){
+    var tr=el("tr"),a=pct(c.price_change_percentage_24h_in_currency),b=pct(c.price_change_percentage_7d_in_currency);
+    var vh=volHarian(c.sparkline_in_7d&&c.sparkline_in_7d.price);
+    tr.appendChild(el("td",null,c.name+" ("+String(c.symbol).toUpperCase()+")"));
+    tr.appendChild(el("td",null,c.current_price.toLocaleString("id-ID",{maximumFractionDigits:c.current_price<1?6:2})));
+    tr.appendChild(el("td",a[1],a[0]));tr.appendChild(el("td",b[1],b[0]));
+    tr.appendChild(el("td",null,vh==null?"—":fmt(vh,2)+"%"));
+    t.appendChild(tr);
+  });
+}
+function muatKripto(){
+  var st=$("kripto-status"),btn=$("muat-kripto");
+  if(krBusy)return;
+  var sisa=60000-(Date.now()-krLast);
+  if(krLast&&sisa>0){st.textContent="Tunggu "+Math.ceil(sisa/1000)+" detik sebelum memuat ulang (menjaga batas gratis).";return}
+  krBusy=true;btn.disabled=true;st.textContent="Memuat…";if(krDot)krDot.textContent="Memuat…";
+  var ctl=new AbortController(),to=setTimeout(function(){ctl.abort()},12000);
+  fetch(KR_URL,{signal:ctl.signal}).then(function(r){
+    if(r.status===429)throw new Error("batas gratis tercapai (HTTP 429)");
+    if(!r.ok)throw new Error("HTTP "+r.status);
+    return r.json();
+  }).then(function(rows){
+    if(!Array.isArray(rows)||!rows.length)throw new Error("data kosong");
+    krData=rows;krLast=Date.now();tabelKripto(rows);
+    var tmax=rows.map(function(c){return c.last_updated}).sort().pop();
+    st.textContent="Data CoinGecko per "+new Date(tmax).toLocaleString("id-ID",{dateStyle:"medium",timeStyle:"medium"});
+    if(krDot){krDot.textContent="Terhubung";krDot.className="dot up"}
+  }).catch(function(e){
+    krLast=Date.now();
+    var msg=e.name==="AbortError"?"waktu habis":e.message;
+    st.textContent="Gagal memuat data kripto: "+msg+"."+(krData?" Tabel di bawah adalah data terakhir yang berhasil dimuat.":" Tidak ada data untuk ditampilkan.");
+    if(krDot){krDot.textContent="Gagal";krDot.className="dot dn"}
+  }).then(function(){clearTimeout(to);krBusy=false;btn.disabled=false});
+}
+statis();tampilkan(buatData());muatKripto();
+$("muat-kripto").addEventListener("click",muatKripto);
 $("segarkan").addEventListener("click",function(){tampilkan(buatData())});
 })();
