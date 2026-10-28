@@ -1,1 +1,123 @@
-{"diperbarui":null,"sumber":[]}
+{
+ "diperbarui": "2026-10-28T05:41:21.229Z",
+ "sumber": [
+  {
+   "id": "pasar",
+   "nama": "Pasar (Indonesia)",
+   "bahasa": "id",
+   "status": "gagal",
+   "pesan": "HTTP 429",
+   "diambil": null,
+   "berita": []
+  },
+  {
+   "id": "makro",
+   "nama": "Makro (Indonesia)",
+   "bahasa": "id",
+   "status": "gagal",
+   "pesan": "HTTP 429",
+   "diambil": null,
+   "berita": []
+  },
+  {
+   "id": "bbc",
+   "nama": "Bisnis (BBC, Inggris)",
+   "bahasa": "en",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-10-28T05:41:21.229Z",
+   "berita": [
+    {
+     "judul": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T00:03:05.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-27T15:01:27.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+     "tautan": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T03:43:38.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "China's families are now supporting more old people than kids",
+     "tautan": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-27T23:16:08.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Donald Trump's biggest economic problem looks strangely familiar",
+     "tautan": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-27T06:01:11.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "'An annoying buzz': The search for stealthier drones",
+     "tautan": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T00:01:10.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+     "tautan": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-27T06:33:11.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Landline switchover could cut people off in emergency, minister warned",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-27T20:54:48.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+     "tautan": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-27T13:25:54.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Apple to replace iPhone Duos affected by screen problem",
+     "tautan": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-27T09:37:55.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+     "tautan": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-26T19:57:23.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T00:03:10.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+     "tautan": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-26T16:27:17.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Healey to shield low-income pensioners from income tax in the Budget",
+     "tautan": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-26T10:28:12.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "The Indian workers filming their work to train AI",
+     "tautan": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-23T08:04:17.000Z",
+     "situs": "BBC News"
+    }
+   ]
+  }
+ ]
+}
