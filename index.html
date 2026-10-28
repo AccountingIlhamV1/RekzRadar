@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#0c1822">
 <title>REKZ RADAR — Intelijen Pasar</title>
 <link rel="stylesheet" href="assets/style.css">
-<style>.tag.live{color:#4fc3d9;border-color:#2b6a78}.tbl td,.tbl th{text-align:right;background:none!important;border:0;border-top:1px solid var(--line);padding:8px 6px}.tbl th:first-child,.tbl td:first-child{text-align:left}.tbl{min-width:520px}.events a{text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px}.ktl{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:8px}button[disabled]{opacity:.5;cursor:default}</style>
+<style>.tag.live{color:#4fc3d9;border-color:#2b6a78}.tbl td,.tbl th{text-align:right;background:none!important;border:0;border-top:1px solid var(--line);padding:8px 6px}.tbl th:first-child,.tbl td:first-child{text-align:left}.tbl{min-width:520px}.events a{text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px}.klik{cursor:pointer}.klik:hover td,.klik:focus-visible td{background:#0f1c27!important}.chart{width:100%;height:auto;display:block;margin-bottom:8px}.ktl{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:8px}button[disabled]{opacity:.5;cursor:default}</style>
 </head>
 <body>
 <nav class="nav" aria-label="Navigasi utama">
@@ -15,6 +15,7 @@
   <a href="#aset">Aset</a>
   <a href="#kripto">Kripto</a>
   <a href="#forex">Forex</a>
+  <a href="#detail">Detail</a>
   <a href="#volatilitas">Volatilitas</a>
   <a href="#peristiwa">Berita</a>
   <a href="#lintas">Korelasi</a>
@@ -59,6 +60,12 @@
   <div class="ktl"><button id="muat-forex" type="button">Muat ulang data forex</button><span id="forex-status" class="muted small">Memuat…</span></div>
   <div class="scroll"><table id="forex-tbl" class="tbl"></table></div>
   <p class="muted small">Kurs harian, diperbarui sekitar pukul 16.00 CET, bukan real-time. USD/XXX berarti berapa XXX untuk 1 USD. Naik berarti USD menguat terhadap mata uang itu.</p>
+</section>
+
+<section id="detail" class="panel">
+  <h2>Detail aset <span class="tag live">DARI DATA NYATA</span></h2>
+  <p id="detail-judul" class="muted small">Pilih satu baris di tabel Kripto atau Forex untuk melihat grafiknya.</p>
+  <div id="detail-box"></div>
 </section>
 
 <section id="volatilitas" class="panel">
