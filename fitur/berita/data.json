@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-10-28T11:52:51.851Z",
+ "diperbarui": "2026-10-28T17:41:45.196Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,20 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-28T11:52:51.851Z",
+   "diambil": "2026-10-28T17:41:45.196Z",
    "berita": [
+    {
+     "judul": "Balikkan Rugi Jadi Laba, Pendapatan Indonesia Paradise (INPP) Stabil di Rp 1,3 Triliun",
+     "tautan": "http://investortrust.id/market/120811/balikkan-rugi-jadi-laba-pendapatan-indonesia-paradise-inpp-stabil-di-rp-1-3-triliun",
+     "waktu": "2026-10-28T16:21:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Penjualan Metrodata (MTDL) Tembus Rp 22,1 Triliun, Ditopang Produk Infinix & Itel",
+     "tautan": "http://investortrust.id/market/120791/penjualan-metrodata-mtdl-tembus-rp-22-1-triliun-ditopang-produk-infinix-itel",
+     "waktu": "2026-10-28T13:11:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Astra (ASII) Cetak Laba Bersih Rp 24,6 Triliun hingga Kuartal III-2026",
      "tautan": "http://investortrust.id/market/120784/astra-asii-cetak-laba-bersih-rp-24-6-triliun-di-kuartal-iii-2026",
@@ -56,18 +68,6 @@
      "tautan": "http://investortrust.id/market/120757/ihsg-akhirnya-ditutup-naik-0-31-usai-seharian-dilanda-aksi-jual-bbca-dan-asii-jadi-penopang",
      "waktu": "2026-10-28T09:15:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Jakarta Readies $331M Financing Push to Deploy 10,000 Electric Buses by 2030",
-     "tautan": "http://investortrust.id/market/120755/jakarta-readies-331m-financing-push-to-deploy-10-000-electric-buses-by-2030",
-     "waktu": "2026-10-28T08:57:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Rupiah Meluncur ke Rp 18.184 per Dolar AS, BI Ungkap Pemicunya",
-     "tautan": "http://investortrust.id/market/120752/rupiah-meluncur-ke-rp-18184-per-dolar-as-bi-ungkap-pemicunya",
-     "waktu": "2026-10-28T08:53:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,8 +77,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-28T11:52:51.851Z",
+   "diambil": "2026-10-28T17:41:45.196Z",
    "berita": [
+    {
+     "judul": "BI: Penyaluran Kredit ke UMKM tumbuh Positif pada September 2026",
+     "tautan": "http://investortrust.id/macro/120799/bi-penyaluran-kredit-ke-umkm-tumbuh-positif-pada-september-2026",
+     "waktu": "2026-10-28T14:14:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Indikator Risiko Utang Naik, Pengelolaan Kas Negara Perlu Dioptimalkan",
      "tautan": "http://investortrust.id/macro/120782/indikator-risiko-utang-naik-pengelolaan-kas-negara-perlu-dioptimalkan",
@@ -132,12 +138,6 @@
      "tautan": "http://investortrust.id/macro/120633/cak-imin-akui-serapan-umkm-di-program-mbg-rendah-aturan-belanja-pemerintah-akan-direvisi",
      "waktu": "2026-10-27T09:43:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Pemprov Kalsel Tagih TKD Rp 2 Triliun yang Tertahan di Pemerintah Pusat",
-     "tautan": "http://investortrust.id/macro/120627/pemprov-kalsel-tagih-tkd-rp-2-triliun-yang-tertahan-di-pemerintah-pusat",
-     "waktu": "2026-10-27T09:04:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,18 +147,54 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-28T11:52:51.851Z",
+   "diambil": "2026-10-28T17:41:45.196Z",
    "berita": [
     {
-     "judul": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T11:30:26.000Z",
+     "judul": "Your pay, energy bills and savings: How the Budget affects you",
+     "tautan": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T16:43:35.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
+     "judul": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T17:32:51.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Will I get the £100 energy payment and when will I receive it?",
+     "tautan": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T17:22:00.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Budget 2026: Key points at a glance",
      "tautan": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T09:25:19.000Z",
+     "waktu": "2026-10-28T16:55:27.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "'An annoying buzz': The search for stealthier drones",
+     "tautan": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T00:01:10.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "The one thing that didn't change that will affect your pay the most",
+     "tautan": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T16:55:03.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Healey tells departments to make 1% cuts to fund defence",
+     "tautan": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T17:32:20.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "How much is the minimum wage going up by?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T14:53:29.000Z",
      "situs": "BBC News"
     },
     {
@@ -168,15 +204,9 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-27T15:01:27.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "'An annoying buzz': The search for stealthier drones",
-     "tautan": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T00:01:10.000Z",
+     "judul": "Donald Trump's biggest economic problem looks strangely familiar",
+     "tautan": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-27T06:01:11.000Z",
      "situs": "BBC News"
     },
     {
@@ -189,12 +219,6 @@
      "judul": "China's families are now supporting more old people than kids",
      "tautan": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-27T23:16:08.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Donald Trump's biggest economic problem looks strangely familiar",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-27T06:01:11.000Z",
      "situs": "BBC News"
     },
     {
@@ -213,30 +237,6 @@
      "judul": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
      "tautan": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-27T13:25:54.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Apple to replace iPhone Duos affected by screen problem",
-     "tautan": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-27T09:37:55.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-26T19:57:23.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-     "tautan": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-26T16:27:17.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Healey to shield low-income pensioners from income tax in the Budget",
-     "tautan": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-26T10:28:12.000Z",
      "situs": "BBC News"
     }
    ]
