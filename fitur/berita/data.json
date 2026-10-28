@@ -1,12 +1,12 @@
 {
- "diperbarui": "2026-10-28T17:41:45.196Z",
+ "diperbarui": "2026-10-28T22:02:31.265Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-10-28T17:41:45.196Z",
    "berita": [
     {
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-10-28T17:41:45.196Z",
    "berita": [
     {
@@ -147,8 +147,26 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-28T17:41:45.196Z",
+   "diambil": "2026-10-28T22:02:31.265Z",
    "berita": [
+    {
+     "judul": "Healey unveils £100 for energy bills and bank tax in first Budget",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T18:45:09.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "What we now know about the UK economy in four charts",
+     "tautan": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T20:08:45.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "What the Budget offers for under 25s - and what it leaves out",
+     "tautan": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T20:02:38.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Your pay, energy bills and savings: How the Budget affects you",
      "tautan": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
@@ -158,13 +176,25 @@
     {
      "judul": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
      "tautan": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T17:32:51.000Z",
+     "waktu": "2026-10-28T19:51:01.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "Will I get the £100 energy payment and when will I receive it?",
      "tautan": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T17:22:00.000Z",
+     "waktu": "2026-10-28T17:47:37.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+     "tautan": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T19:15:58.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Tax thresholds remain unchanged - here's what it means for your pay",
+     "tautan": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T18:12:24.000Z",
      "situs": "BBC News"
     },
     {
@@ -174,21 +204,9 @@
      "situs": "BBC News"
     },
     {
-     "judul": "'An annoying buzz': The search for stealthier drones",
-     "tautan": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T00:01:10.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "The one thing that didn't change that will affect your pay the most",
-     "tautan": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T16:55:03.000Z",
-     "situs": "BBC News"
-    },
-    {
      "judul": "Healey tells departments to make 1% cuts to fund defence",
      "tautan": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T17:32:20.000Z",
+     "waktu": "2026-10-28T19:01:34.000Z",
      "situs": "BBC News"
     },
     {
@@ -219,24 +237,6 @@
      "judul": "China's families are now supporting more old people than kids",
      "tautan": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-27T23:16:08.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-     "tautan": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-27T06:33:11.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Landline switchover could cut people off in emergency, minister warned",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-27T20:54:48.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-     "tautan": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-27T13:25:54.000Z",
      "situs": "BBC News"
     }
    ]
