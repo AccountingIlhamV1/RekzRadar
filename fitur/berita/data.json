@@ -1,12 +1,12 @@
 {
- "diperbarui": "2026-10-29T14:49:51.608Z",
+ "diperbarui": "2026-10-29T19:58:53.294Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-10-29T14:49:51.608Z",
    "berita": [
     {
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-10-29T14:49:51.608Z",
    "berita": [
     {
@@ -147,12 +147,18 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-29T14:49:51.608Z",
+   "diambil": "2026-10-29T19:58:53.294Z",
    "berita": [
     {
-     "judul": "Poundland's future hangs in the balance as chain edges towards collapse",
+     "judul": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
      "tautan": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-29T14:22:34.000Z",
+     "waktu": "2026-10-29T19:11:10.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "US interest rates held steady and economy grows - what it means for you",
+     "tautan": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T17:15:05.000Z",
      "situs": "BBC News"
     },
     {
@@ -162,9 +168,33 @@
      "situs": "BBC News"
     },
     {
+     "judul": "Faisal Islam: This Budget was micro and that was deliberate",
+     "tautan": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T15:48:44.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Bereaved families will not face tax bill over pension delays under new rules",
+     "tautan": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T15:18:04.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T09:30:03.000Z",
+     "situs": "BBC News"
+    },
+    {
      "judul": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
      "tautan": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-29T11:52:55.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T15:05:15.000Z",
      "situs": "BBC News"
     },
     {
@@ -180,15 +210,9 @@
      "situs": "BBC News"
     },
     {
-     "judul": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-29T09:30:03.000Z",
-     "situs": "BBC News"
-    },
-    {
      "judul": "Your pay, energy bills and savings: How the Budget affects you",
      "tautan": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T16:43:35.000Z",
+     "waktu": "2026-10-29T15:11:35.000Z",
      "situs": "BBC News"
     },
     {
@@ -213,30 +237,6 @@
      "judul": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
      "tautan": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-29T07:54:33.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-     "tautan": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T19:15:58.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Will I get the £100 energy payment and when will I receive it?",
-     "tautan": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T17:47:37.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Tax thresholds remain unchanged - here's what it means for your pay",
-     "tautan": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T18:12:24.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Budget 2026: Key points at a glance",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T16:55:27.000Z",
      "situs": "BBC News"
     }
    ]
