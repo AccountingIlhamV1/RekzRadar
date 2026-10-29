@@ -1,14 +1,62 @@
 {
- "diperbarui": "2026-10-28T22:02:31.265Z",
+ "diperbarui": "2026-10-29T01:53:22.899Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-10-28T17:41:45.196Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-10-29T01:53:22.899Z",
    "berita": [
+    {
+     "judul": "Reliance Sekuritas Jagokan 4 Saham Hari Ini, Ada BBNI hingga MDKA",
+     "tautan": "http://investortrust.id/market/120839/reliance-sekuritas-jagokan-4-saham-hari-ini-ada-bbni-hingga-mdka",
+     "waktu": "2026-10-29T01:49:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Intip Target Harga Terbaru Saham BNI (BBNI), Potensi Cuan hingga 43%",
+     "tautan": "http://investortrust.id/market/120836/intip-target-harga-terbaru-saham-bni-bbni-potensi-cuan-hingga-43",
+     "waktu": "2026-10-29T01:30:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Chandra Asri (TPIA) Perbesar Anggaran Buyback Jadi Rp 2 Triliun, Bidik 1,6 Miliar Saham",
+     "tautan": "http://investortrust.id/market/120833/chandra-asri-tpia-perbesar-anggaran-buyback-jadi-rp-2-triliun-bidik-1-6-miliar-saham",
+     "waktu": "2026-10-29T01:13:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Refinancing Utang, Merdeka Gold (EMAS) Raih Pinjaman US$435 Juta dari Lima Bank",
+     "tautan": "http://investortrust.id/market/120831/refinancing-utang-merdeka-gold-emas-raih-pinjaman-us435-juta-dari-lima-bank",
+     "waktu": "2026-10-29T00:56:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Elang Mahkota Teknologi Kembalo Borong Saham Bukalapak (BUKA), Gelontorkan Rp 70,13 miliar",
+     "tautan": "http://investortrust.id/market/120830/elang-mahkota-teknologi-kembalo-borong-saham-bukalapak-buka-gelontorkan-rp-70-13-miliar",
+     "waktu": "2026-10-29T00:51:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Bitcoin Respons Positif Keputusan The Fed Tahan Suku Bunga, Data Ekonomi AS Jadi Penentu Arah Berikutnya",
+     "tautan": "http://investortrust.id/market/120829/bitcoin-respons-positif-keputusan-the-fed-tahan-suku-bunga-data-ekonomi-as-jadi-penentu-arah-berikutnya",
+     "waktu": "2026-10-29T00:36:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "IHSG Berpotensi Technical Rebound, Tiga Saham Dipimpin DSNG Layak Dilirik",
+     "tautan": "http://investortrust.id/market/120818/ihsg-berpotensi-technical-rebound-tiga-saham-dipimpin-dsng-layak-dilirik",
+     "waktu": "2026-10-28T22:49:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Astra Bukukan Laba Bersih Rp 21,6 T pada Periode Januari-September 2026",
+     "tautan": "http://investortrust.id/market/120815/astra-bukukan-laba-bersih-rp-21-6-t-pada-periode-januari-september-2026",
+     "waktu": "2026-10-28T17:34:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Balikkan Rugi Jadi Laba, Pendapatan Indonesia Paradise (INPP) Stabil di Rp 1,3 Triliun",
      "tautan": "http://investortrust.id/market/120811/balikkan-rugi-jadi-laba-pendapatan-indonesia-paradise-inpp-stabil-di-rp-1-3-triliun",
@@ -20,54 +68,6 @@
      "tautan": "http://investortrust.id/market/120791/penjualan-metrodata-mtdl-tembus-rp-22-1-triliun-ditopang-produk-infinix-itel",
      "waktu": "2026-10-28T13:11:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Astra (ASII) Cetak Laba Bersih Rp 24,6 Triliun hingga Kuartal III-2026",
-     "tautan": "http://investortrust.id/market/120784/astra-asii-cetak-laba-bersih-rp-24-6-triliun-di-kuartal-iii-2026",
-     "waktu": "2026-10-28T11:39:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Bos BEI : Danantara Mulai Uji Tuntas untuk Genggam Saham BEI",
-     "tautan": "http://investortrust.id/market/120779/bos-bei-danantara-mulai-uji-tuntas-untuk-genggam-saham-bei",
-     "waktu": "2026-10-28T11:14:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Investor Asing “Ngamuk” Borong Saham BBCA Rp 1,17 Triliun hingga Dorong Rebound IHSG",
-     "tautan": "http://investortrust.id/market/120777/investor-asing-ngamuk-borong-saham-bbca-rp-1-17-triliun-hingga-dorong-rebound-ihsg",
-     "waktu": "2026-10-28T11:02:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Ajaib Sekuritas Ungkap Tren Diversifikasi Investor Indonesia, Saham AS Diminati",
-     "tautan": "http://investortrust.id/market/120774/ajaib-sekuritas-ungkap-tren-diversifikasi-investor-indonesia-saham-as-diminati",
-     "waktu": "2026-10-28T10:45:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Laba Bersih Astra Graphia (ASGR) Tumbuh 15%, Ini Penopangnya",
-     "tautan": "http://investortrust.id/market/120766/laba-bersih-astra-graphia-asgr-tumbuh-15-ini-penopangnya",
-     "waktu": "2026-10-28T09:42:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Rupiah Drops to Rp 18,184 per Dollar as Oil Surges and Fed Rate Bets Mount",
-     "tautan": "http://investortrust.id/market/120759/rupiah-drops-to-rp-18-184-per-dollar-as-oil-surges-and-fed-rate-bets-mount",
-     "waktu": "2026-10-28T09:20:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Analis: GOTO Diprediksi Pertahankan Laba di Kuartal III-2026, Fintech Jadi Penopang",
-     "tautan": "http://investortrust.id/market/120758/analis-goto-diprediksi-pertahankan-laba-di-kuartal-iii-2026-fintech-jadi-penopang",
-     "waktu": "2026-10-28T09:15:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "IHSG Akhirnya Ditutup Naik 0,31% Usai Seharian Dilanda Aksi Jual, BBCA dan ASII Jadi Penopang",
-     "tautan": "http://investortrust.id/market/120757/ihsg-akhirnya-ditutup-naik-0-31-usai-seharian-dilanda-aksi-jual-bbca-dan-asii-jadi-penopang",
-     "waktu": "2026-10-28T09:15:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -75,10 +75,22 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-10-28T17:41:45.196Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-10-29T01:53:22.899Z",
    "berita": [
+    {
+     "judul": "Merekonstruksi Program Pengentasan Kemiskinan",
+     "tautan": "http://investortrust.id/macro/120824/merekonstruksi-program-pengentasan-kemiskinan",
+     "waktu": "2026-10-29T00:17:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Ekonomi Tumbuh, tapi Mesin Pertumbuhannya Tidak Sama Kuat",
+     "tautan": "http://investortrust.id/macro/120823/ekonomi-tumbuh-tapi-mesin-pertumbuhannya-tidak-sama-kuat",
+     "waktu": "2026-10-28T23:56:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "BI: Penyaluran Kredit ke UMKM tumbuh Positif pada September 2026",
      "tautan": "http://investortrust.id/macro/120799/bi-penyaluran-kredit-ke-umkm-tumbuh-positif-pada-september-2026",
@@ -126,18 +138,6 @@
      "tautan": "http://investortrust.id/macro/120638/pemerintah-sebut-sudah-ada-60-juta-orang-terdata-untuk-terima-bansos-digital",
      "waktu": "2026-10-27T10:06:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "1,1 Juta Jiwa Lepas dari Kemiskinan Ekstrem, Pemerintah Bidik Target Nol Persen Tahun Ini",
-     "tautan": "http://investortrust.id/macro/120634/1-1-juta-jiwa-lepas-dari-kemiskinan-ekstrem-pemerintah-bidik-target-nol-persen-tahun-ini",
-     "waktu": "2026-10-27T09:52:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Cak Imin Akui Serapan UMKM di Program MBG Rendah, Aturan Belanja Pemerintah Akan Direvisi",
-     "tautan": "http://investortrust.id/macro/120633/cak-imin-akui-serapan-umkm-di-program-mbg-rendah-aturan-belanja-pemerintah-akan-direvisi",
-     "waktu": "2026-10-27T09:43:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,8 +147,14 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-28T22:02:31.265Z",
+   "diambil": "2026-10-29T01:53:22.899Z",
    "berita": [
+    {
+     "judul": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T00:00:25.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Healey unveils £100 for energy bills and bank tax in first Budget",
      "tautan": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
@@ -174,21 +180,33 @@
      "situs": "BBC News"
     },
     {
+     "judul": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T00:00:15.000Z",
+     "situs": "BBC News"
+    },
+    {
      "judul": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
      "tautan": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-28T19:51:01.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "Will I get the £100 energy payment and when will I receive it?",
-     "tautan": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T17:47:37.000Z",
+     "judul": "Microsoft profits soar days after announcing thousands of layoffs",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T01:27:40.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
      "tautan": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-28T19:15:58.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Will I get the £100 energy payment and when will I receive it?",
+     "tautan": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T17:47:37.000Z",
      "situs": "BBC News"
     },
     {
@@ -219,24 +237,6 @@
      "judul": "You may get the right to find out what your colleagues earn - here's why",
      "tautan": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-28T10:42:39.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Donald Trump's biggest economic problem looks strangely familiar",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-27T06:01:11.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T10:31:22.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "China's families are now supporting more old people than kids",
-     "tautan": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-27T23:16:08.000Z",
      "situs": "BBC News"
     }
    ]
