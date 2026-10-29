@@ -1,14 +1,26 @@
 {
- "diperbarui": "2026-10-29T19:58:53.294Z",
+ "diperbarui": "2026-10-29T23:49:32.486Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-10-29T14:49:51.608Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-10-29T23:49:32.486Z",
    "berita": [
+    {
+     "judul": "IHSG Diprediksi Lanjutkan Pergerakan Bearish Akhir Pekan Ini, Tiga Saham Dipimpin JARR Layak Dilirik",
+     "tautan": "http://investortrust.id/market/120939/ihsg-diprediksi-lanjutkan-pergerakan-bearish-akhir-pekan-ini-tiga-saham-dipimpin-jarr-layak-dilirik",
+     "waktu": "2026-10-29T22:48:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Laba PGE (PGEO) Naik 21,45%, Produksi Panas Bumi Cetak Rekor",
+     "tautan": "http://investortrust.id/market/120927/laba-pge-pgeo-naik-21-45-produksi-panas-bumi-cetak-rekor",
+     "waktu": "2026-10-29T15:32:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Indosat ISAT Raih Laba Rp 4,9 Triliun Hingga Kuartal III 2026 Ditopang Bisnis AI",
      "tautan": "http://investortrust.id/market/120918/indosat-isat-raih-laba-rp-4-9-triliun-hingga-kuartal-iii-2026-ditopang-bisnis-ai",
@@ -56,18 +68,6 @@
      "tautan": "http://investortrust.id/market/120896/laba-goto-tembus-rp-864-miliar-hingga-september-2026-target-ebitda-direvisi-naik",
      "waktu": "2026-10-29T10:57:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "IHSG Ditutup Babak Belur! Ambruk 3,49% ke 5.098, Saham Big Cap Berguguran",
-     "tautan": "http://investortrust.id/market/120880/ihsg-ditutup-babak-belur-ambruk-3-49-ke-5098-saham-big-cap-berguguran",
-     "waktu": "2026-10-29T09:13:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "U.S. Veteran Investor Chapman Taylor Sees Over 50% Odds Indonesia Averts MSCI Standalone Demotion",
-     "tautan": "http://investortrust.id/market/120879/us-veteran-investor-chapman-taylor-sees-over-50-odds-indonesia-averts-msci-standalone-demotion",
-     "waktu": "2026-10-29T09:10:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -75,10 +75,28 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-10-29T14:49:51.608Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-10-29T23:49:32.486Z",
    "berita": [
+    {
+     "judul": "Ditanya James Riady Soal Dampak MSCI ke Rupiah, Gubernur BI: Itu Jangka Pendek",
+     "tautan": "http://investortrust.id/macro/120928/ditanya-james-riady-soal-dampak-msci-ke-rupiah-gubernur-bi-itu-jangka-pendek",
+     "waktu": "2026-10-29T16:27:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Gubernur BI: Penilaian MSCI Hambat Minat Investor Asing ke Indonesia",
+     "tautan": "http://investortrust.id/macro/120924/gubernur-bi-penilaian-msci-hambat-minat-investor-asing-ke-indonesia",
+     "waktu": "2026-10-29T14:49:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Pemerintah Ingin Tiru Model Ekonomi Bali Menjaga Pasokan Dolar AS",
+     "tautan": "http://investortrust.id/macro/120922/pemerintah-ingin-tiru-model-ekonomi-bali-menjaga-pasokan-dolar-as",
+     "waktu": "2026-10-29T14:11:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Hashim Sebut Indonesia Kurang Pungut Rp 1.500 Triliun, Dorong Pajak Digital Mulai November 2026",
      "tautan": "http://investortrust.id/macro/120914/hashim-sebut-indonesia-kurang-pungut-rp-1500-triliun-dorong-pajak-digital-mulai-november-2026",
@@ -120,24 +138,6 @@
      "tautan": "http://investortrust.id/macro/120769/muhaimin-sentil-anggaran-pemberdayaan-di-apbn-jangan-lagi-jadi-anak-tiri",
      "waktu": "2026-10-28T09:44:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Investor Borong SBN Tenor 5 Tahun dengan Imbal Hasil 7,25%",
-     "tautan": "http://investortrust.id/macro/120724/investor-borong-sbn-tenor-5-tahun-dengan-imbal-hasil-7-25",
-     "waktu": "2026-10-28T04:37:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Rupiah Kian Terpukul, Dekati Level Rp 18.200 per Dolar AS",
-     "tautan": "http://investortrust.id/macro/120710/rupiah-kain-terpukul-dekati-level-rp-18200-per-dolar-as",
-     "waktu": "2026-10-28T03:05:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Pemerintah Dorong Keluarga 'Naik Kelas', 44.200 Anak Miskin Bersekolah Gratis",
-     "tautan": "http://investortrust.id/macro/120661/pemerintah-dorong-keluarga-naik-kelas-44200-anak-miskin-bersekolah-gratis",
-     "waktu": "2026-10-27T12:03:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,8 +147,14 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-29T19:58:53.294Z",
+   "diambil": "2026-10-29T23:49:32.486Z",
    "berita": [
+    {
+     "judul": "Google value plunges by $500bn as AI fears rattle Wall Street",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T22:17:52.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
      "tautan": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
@@ -174,15 +180,15 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Bereaved families will not face tax bill over pension delays under new rules",
-     "tautan": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-29T15:18:04.000Z",
-     "situs": "BBC News"
-    },
-    {
      "judul": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
      "tautan": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-29T09:30:03.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Bereaved families will not face tax bill over pension delays under new rules",
+     "tautan": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T15:18:04.000Z",
      "situs": "BBC News"
     },
     {
@@ -231,12 +237,6 @@
      "judul": "Microsoft profits soar days after announcing thousands of layoffs",
      "tautan": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-29T01:27:40.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-     "tautan": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-29T07:54:33.000Z",
      "situs": "BBC News"
     }
    ]
