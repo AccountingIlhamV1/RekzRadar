@@ -1,12 +1,12 @@
 {
- "diperbarui": "2026-10-29T01:53:22.899Z",
+ "diperbarui": "2026-10-29T07:51:39.529Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-10-29T01:53:22.899Z",
    "berita": [
     {
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-10-29T01:53:22.899Z",
    "berita": [
     {
@@ -147,18 +147,12 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-29T01:53:22.899Z",
+   "diambil": "2026-10-29T07:51:39.529Z",
    "berita": [
     {
      "judul": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
      "tautan": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-29T00:00:25.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Healey unveils £100 for energy bills and bank tax in first Budget",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T18:45:09.000Z",
      "situs": "BBC News"
     },
     {
@@ -180,6 +174,12 @@
      "situs": "BBC News"
     },
     {
+     "judul": "Healey unveils £100 for energy bills and bank tax in first Budget",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T18:45:09.000Z",
+     "situs": "BBC News"
+    },
+    {
      "judul": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
      "tautan": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-29T00:00:15.000Z",
@@ -195,6 +195,12 @@
      "judul": "Microsoft profits soar days after announcing thousands of layoffs",
      "tautan": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-29T01:27:40.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+     "tautan": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T03:16:19.000Z",
      "situs": "BBC News"
     },
     {
@@ -222,21 +228,15 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Healey tells departments to make 1% cuts to fund defence",
-     "tautan": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T19:01:34.000Z",
+     "judul": "'An annoying buzz': The search for stealthier drones",
+     "tautan": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-28T00:01:10.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "How much is the minimum wage going up by?",
-     "tautan": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T14:53:29.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "You may get the right to find out what your colleagues earn - here's why",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T10:42:39.000Z",
+     "judul": "The Indian workers filming their work to train AI",
+     "tautan": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-23T08:04:17.000Z",
      "situs": "BBC News"
     }
    ]
