@@ -1,72 +1,72 @@
 {
- "diperbarui": "2026-10-29T07:51:39.529Z",
+ "diperbarui": "2026-10-29T14:49:51.608Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-10-29T01:53:22.899Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-10-29T14:49:51.608Z",
    "berita": [
     {
-     "judul": "Reliance Sekuritas Jagokan 4 Saham Hari Ini, Ada BBNI hingga MDKA",
-     "tautan": "http://investortrust.id/market/120839/reliance-sekuritas-jagokan-4-saham-hari-ini-ada-bbni-hingga-mdka",
-     "waktu": "2026-10-29T01:49:00.000Z",
+     "judul": "Indosat ISAT Raih Laba Rp 4,9 Triliun Hingga Kuartal III 2026 Ditopang Bisnis AI",
+     "tautan": "http://investortrust.id/market/120918/indosat-isat-raih-laba-rp-4-9-triliun-hingga-kuartal-iii-2026-ditopang-bisnis-ai",
+     "waktu": "2026-10-29T13:10:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Intip Target Harga Terbaru Saham BNI (BBNI), Potensi Cuan hingga 43%",
-     "tautan": "http://investortrust.id/market/120836/intip-target-harga-terbaru-saham-bni-bbni-potensi-cuan-hingga-43",
-     "waktu": "2026-10-29T01:30:00.000Z",
+     "judul": "Hashim Minta Anggota Kadin Tak Goreng Saham, Bisa Bikin Rupiah Tembus Rp 22.000 per Dolar AS",
+     "tautan": "http://investortrust.id/market/120905/hashim-minta-anggota-kadin-tak-goreng-saham-bisa-bikin-rupiah-tembus-rp-22000-per-dolar-as",
+     "waktu": "2026-10-29T12:09:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Chandra Asri (TPIA) Perbesar Anggaran Buyback Jadi Rp 2 Triliun, Bidik 1,6 Miliar Saham",
-     "tautan": "http://investortrust.id/market/120833/chandra-asri-tpia-perbesar-anggaran-buyback-jadi-rp-2-triliun-bidik-1-6-miliar-saham",
-     "waktu": "2026-10-29T01:13:00.000Z",
+     "judul": "Ketum Kadin Anindya Bakrie Dukung Imbauan Hashim: Anggota Kadin Jangan Goreng Saham!",
+     "tautan": "http://investortrust.id/market/120904/ketum-kadin-anindya-bakrie-dukung-imbauan-hashim-anggota-kadin-jangan-goreng-saham",
+     "waktu": "2026-10-29T12:01:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Refinancing Utang, Merdeka Gold (EMAS) Raih Pinjaman US$435 Juta dari Lima Bank",
-     "tautan": "http://investortrust.id/market/120831/refinancing-utang-merdeka-gold-emas-raih-pinjaman-us435-juta-dari-lima-bank",
-     "waktu": "2026-10-29T00:56:00.000Z",
+     "judul": "Usai Lepas Komut TRIN, Rahayu Saraswati Jadi Wakil Komut Victorai Care (VICI)",
+     "tautan": "http://investortrust.id/market/120900/usai-lepas-komut-trin-rahayu-saraswati-jadi-wakil-komut-victorai-care-vici",
+     "waktu": "2026-10-29T11:37:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Elang Mahkota Teknologi Kembalo Borong Saham Bukalapak (BUKA), Gelontorkan Rp 70,13 miliar",
-     "tautan": "http://investortrust.id/market/120830/elang-mahkota-teknologi-kembalo-borong-saham-bukalapak-buka-gelontorkan-rp-70-13-miliar",
-     "waktu": "2026-10-29T00:51:00.000Z",
+     "judul": "Teladan Prima (TLDN) Raup Laba Rp 875 Miliar hingga Kuartal III, Ini Penopangnya",
+     "tautan": "http://investortrust.id/market/120899/teladan-prima-tldn-raup-laba-rp-875-miliar-hingga-kuartal-iii-ini-penopangnya",
+     "waktu": "2026-10-29T11:29:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Bitcoin Respons Positif Keputusan The Fed Tahan Suku Bunga, Data Ekonomi AS Jadi Penentu Arah Berikutnya",
-     "tautan": "http://investortrust.id/market/120829/bitcoin-respons-positif-keputusan-the-fed-tahan-suku-bunga-data-ekonomi-as-jadi-penentu-arah-berikutnya",
-     "waktu": "2026-10-29T00:36:00.000Z",
+     "judul": "Avia Avian (AVIA) Sukses Pertahankan Pertumbuhan Kinerja Dua Digit, Laba Capai Rp 1,38 Triliun",
+     "tautan": "http://investortrust.id/market/120898/avia-avian-avia-sukses-pertahankan-pertumbuhan-kinerja-dua-digit-laba-capai-rp-1-38-triliun",
+     "waktu": "2026-10-29T11:22:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "IHSG Berpotensi Technical Rebound, Tiga Saham Dipimpin DSNG Layak Dilirik",
-     "tautan": "http://investortrust.id/market/120818/ihsg-berpotensi-technical-rebound-tiga-saham-dipimpin-dsng-layak-dilirik",
-     "waktu": "2026-10-28T22:49:00.000Z",
+     "judul": "Net Sell Jumbo Rp 1,07 Triliun, Pemodal Asing Obral BBCA hingga BUMN Ini",
+     "tautan": "http://investortrust.id/market/120897/net-sell-jumbo-rp-1-07-triliun-pemodal-asing-obral-bbca-hingga-bumn-ini",
+     "waktu": "2026-10-29T11:05:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Astra Bukukan Laba Bersih Rp 21,6 T pada Periode Januari-September 2026",
-     "tautan": "http://investortrust.id/market/120815/astra-bukukan-laba-bersih-rp-21-6-t-pada-periode-januari-september-2026",
-     "waktu": "2026-10-28T17:34:00.000Z",
+     "judul": "Laba GOTO Tembus Rp 864 Miliar hingga September 2026, Target EBITDA Direvisi Naik",
+     "tautan": "http://investortrust.id/market/120896/laba-goto-tembus-rp-864-miliar-hingga-september-2026-target-ebitda-direvisi-naik",
+     "waktu": "2026-10-29T10:57:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Balikkan Rugi Jadi Laba, Pendapatan Indonesia Paradise (INPP) Stabil di Rp 1,3 Triliun",
-     "tautan": "http://investortrust.id/market/120811/balikkan-rugi-jadi-laba-pendapatan-indonesia-paradise-inpp-stabil-di-rp-1-3-triliun",
-     "waktu": "2026-10-28T16:21:00.000Z",
+     "judul": "IHSG Ditutup Babak Belur! Ambruk 3,49% ke 5.098, Saham Big Cap Berguguran",
+     "tautan": "http://investortrust.id/market/120880/ihsg-ditutup-babak-belur-ambruk-3-49-ke-5098-saham-big-cap-berguguran",
+     "waktu": "2026-10-29T09:13:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Penjualan Metrodata (MTDL) Tembus Rp 22,1 Triliun, Ditopang Produk Infinix & Itel",
-     "tautan": "http://investortrust.id/market/120791/penjualan-metrodata-mtdl-tembus-rp-22-1-triliun-ditopang-produk-infinix-itel",
-     "waktu": "2026-10-28T13:11:00.000Z",
+     "judul": "U.S. Veteran Investor Chapman Taylor Sees Over 50% Odds Indonesia Averts MSCI Standalone Demotion",
+     "tautan": "http://investortrust.id/market/120879/us-veteran-investor-chapman-taylor-sees-over-50-odds-indonesia-averts-msci-standalone-demotion",
+     "waktu": "2026-10-29T09:10:00.000Z",
      "situs": "Investortrust"
     }
    ]
@@ -75,10 +75,22 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-10-29T01:53:22.899Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-10-29T14:49:51.608Z",
    "berita": [
+    {
+     "judul": "Hashim Sebut Indonesia Kurang Pungut Rp 1.500 Triliun, Dorong Pajak Digital Mulai November 2026",
+     "tautan": "http://investortrust.id/macro/120914/hashim-sebut-indonesia-kurang-pungut-rp-1500-triliun-dorong-pajak-digital-mulai-november-2026",
+     "waktu": "2026-10-29T12:39:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Rupiah dan Sejumlah Mata Uang di Asia Menguat, Imbas The Fed Tahan FFR",
+     "tautan": "http://investortrust.id/macro/120848/rupiah-dan-sejumlah-mata-uang-di-asia-menguat-imbas-the-fed-tahan-ffr",
+     "waktu": "2026-10-29T03:09:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Merekonstruksi Program Pengentasan Kemiskinan",
      "tautan": "http://investortrust.id/macro/120824/merekonstruksi-program-pengentasan-kemiskinan",
@@ -126,18 +138,6 @@
      "tautan": "http://investortrust.id/macro/120661/pemerintah-dorong-keluarga-naik-kelas-44200-anak-miskin-bersekolah-gratis",
      "waktu": "2026-10-27T12:03:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Apresiasi Pejuang Pemberdayaan, Menko Muhaimin Serahkan Mandaya dan Innovilleague Awards 2026",
-     "tautan": "http://investortrust.id/macro/120659/apresiasi-pejuang-pemberdayaan-menko-muhaimin-serahkan-mandaya-dan-innovilleague-awards-2026",
-     "waktu": "2026-10-27T11:42:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Pemerintah Sebut Sudah Ada 60 Juta Orang Terdata untuk Terima Bansos Digital",
-     "tautan": "http://investortrust.id/macro/120638/pemerintah-sebut-sudah-ada-60-juta-orang-terdata-untuk-terima-bansos-digital",
-     "waktu": "2026-10-27T10:06:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,12 +147,24 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-29T07:51:39.529Z",
+   "diambil": "2026-10-29T14:49:51.608Z",
    "berita": [
+    {
+     "judul": "Poundland's future hangs in the balance as chain edges towards collapse",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T14:22:34.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T13:19:24.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
      "tautan": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-29T00:00:25.000Z",
+     "waktu": "2026-10-29T11:52:55.000Z",
      "situs": "BBC News"
     },
     {
@@ -168,6 +180,12 @@
      "situs": "BBC News"
     },
     {
+     "judul": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-29T09:30:03.000Z",
+     "situs": "BBC News"
+    },
+    {
      "judul": "Your pay, energy bills and savings: How the Budget affects you",
      "tautan": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-28T16:43:35.000Z",
@@ -180,13 +198,7 @@
      "situs": "BBC News"
     },
     {
-     "judul": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-29T00:00:15.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+     "judul": "Healey provides some breathing space but things still set to get worse for most",
      "tautan": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-28T19:51:01.000Z",
      "situs": "BBC News"
@@ -200,7 +212,7 @@
     {
      "judul": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
      "tautan": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-29T03:16:19.000Z",
+     "waktu": "2026-10-29T07:54:33.000Z",
      "situs": "BBC News"
     },
     {
@@ -225,18 +237,6 @@
      "judul": "Budget 2026: Key points at a glance",
      "tautan": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-28T16:55:27.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "'An annoying buzz': The search for stealthier drones",
-     "tautan": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-28T00:01:10.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "The Indian workers filming their work to train AI",
-     "tautan": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-23T08:04:17.000Z",
      "situs": "BBC News"
     }
    ]
