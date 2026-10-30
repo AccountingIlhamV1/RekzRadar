@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-10-30T16:53:38.065Z",
+ "diperbarui": "2026-10-30T21:15:54.983Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,7 +7,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-30T16:53:38.065Z",
+   "diambil": "2026-10-30T21:15:54.983Z",
    "berita": [
     {
      "judul": "BEI Luncurkan Indeks IDX Commodity 20, Hadirkan Acuan Investasi Saham Berbasis Komoditas",
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-30T16:53:38.065Z",
+   "diambil": "2026-10-30T21:15:54.983Z",
    "berita": [
     {
      "judul": "Menkeu Suahasil Ajak Kadin Indonesia Wujudkan Pertumbuhan Investasi 7% pada 2027",
@@ -147,18 +147,42 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-30T16:53:38.065Z",
+   "diambil": "2026-10-30T21:15:54.983Z",
    "berita": [
     {
-     "judul": "US tech stocks see sharp falls over AI cost fears",
+     "judul": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "tautan": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-30T21:13:14.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "US tech stocks see sharp falls as AI spending nears $1tn",
      "tautan": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-30T15:46:28.000Z",
+     "waktu": "2026-10-30T20:34:46.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "What we know about Binance's $6.3bn hack",
      "tautan": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-30T12:27:28.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "City of London chief tops UK Black Powerlist",
+     "tautan": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-30T18:00:24.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "How Poundland grew from a market stall to a high street giant",
+     "tautan": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-30T06:08:22.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "How video game remakes tap the power of nostalgia",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-30T07:45:00.000Z",
      "situs": "BBC News"
     },
     {
@@ -171,12 +195,6 @@
      "judul": "Yorkshire Water boss resigns after firm downgraded",
      "tautan": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-30T16:04:55.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "How video game remakes tap the power of nostalgia",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-30T07:45:00.000Z",
      "situs": "BBC News"
     },
     {
@@ -219,24 +237,6 @@
      "judul": "'Painful' years ahead, think tanks warn, as living standards set to fall",
      "tautan": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-29T13:19:24.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Bereaved families will not face tax bill over pension delays under new rules",
-     "tautan": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-29T15:18:04.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-29T11:52:55.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-29T15:05:15.000Z",
      "situs": "BBC News"
     }
    ]
