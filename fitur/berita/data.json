@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-10-31T13:13:58.812Z",
+ "diperbarui": "2026-10-31T17:51:19.080Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,7 +7,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-31T13:13:58.812Z",
+   "diambil": "2026-10-31T17:51:19.080Z",
    "berita": [
     {
      "judul": "Jeffrey Hendrik Optimistis Peluang Indonesia Bertahan di Emerging Market MSCI di Atas 50%",
@@ -77,8 +77,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-31T13:13:58.812Z",
+   "diambil": "2026-10-31T17:51:19.080Z",
    "berita": [
+    {
+     "judul": "Menkeu: Untuk Capai Pertumbuhan 6%, Investasi Harus Naik 7%, Danantara dan Swasta Jadi Penggerak Utama",
+     "tautan": "http://investortrust.id/macro/121129/menkeu-untuk-capai-pertumbuhan-6-investasi-harus-naik-7-danantara-dan-swasta-jadi-penggerak-utama",
+     "waktu": "2026-10-31T14:18:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Penyaluran Kredit Program Capai Rp2.440 Triliun, Indonesia Bagikan Praktik Baik KUR",
      "tautan": "http://investortrust.id/macro/121098/penyaluran-kredit-program-capai-rp2440-triliun-indonesia-bagikan-praktik-baik-kur",
@@ -132,12 +138,6 @@
      "tautan": "http://investortrust.id/macro/121003/rupiah-tembus-rekor-terlemah-rp-18183-ini-penyebab-utama-versi-analis",
      "waktu": "2026-10-30T06:19:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Ramai Bicara Rupiah 22.000/USD, Bisakah Rupiah Benar-benar ke Sana?",
-     "tautan": "http://investortrust.id/macro/120991/ramai-bicara-rupiah-22000usd-bisakah-rupiah-benar-benar-ke-sana",
-     "waktu": "2026-10-30T03:39:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-10-31T13:13:58.812Z",
+   "diambil": "2026-10-31T17:51:19.080Z",
    "berita": [
     {
      "judul": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
