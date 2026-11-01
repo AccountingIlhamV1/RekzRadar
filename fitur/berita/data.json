@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-01T10:44:34.893Z",
+ "diperbarui": "2026-11-01T16:58:03.777Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,20 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-01T10:44:34.893Z",
+   "diambil": "2026-11-01T16:58:03.777Z",
    "berita": [
+    {
+     "judul": "Kinerja Bakrie & Brothers (BNBR) hingga Kuartal III-2026: ‘Revenue’ Melonjak 55,45%, ‘Gross Profit’ Melesat 127,82%",
+     "tautan": "http://investortrust.id/market/121183/kinerja-bakrie-brothers-bnbr-hingga-kuartal-iii-2026-revenue-melonjak-55-45-gross-profit-melesat-127-82",
+     "waktu": "2026-11-01T15:07:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Dirut BEI: Daya Tahan Saham Syariah Lebih Baik di Tengah Tekanan Pasar",
+     "tautan": "http://investortrust.id/market/121182/dirut-bei-daya-tahan-saham-syariah-lebih-baik-di-tengah-tekanan-pasar",
+     "waktu": "2026-11-01T13:51:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "OJK Pastikan Tak Ada Rush Kripto di Indonesia Usai Binance Diretas hingga Gangguan yang Dialami Indodax dan Tokocrypto",
      "tautan": "http://investortrust.id/market/121172/ojk-pastikan-tak-ada-rush-kripto-di-indonesia-usai-binance-diretas-hingga-gangguan-yang-dialami-indodax-dan-tokocrypto",
@@ -56,18 +68,6 @@
      "tautan": "http://investortrust.id/market/121158/ojk-pantau-transaksi-bayan-ganti-pengendali-wajib-tender-offer",
      "waktu": "2026-11-01T02:33:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Hasan Tegaskan Sanksi Pelaku Transaksi Semu, Kejar Efek Jera",
-     "tautan": "http://investortrust.id/market/121154/hasan-tegaskan-sanksi-pelaku-transaksi-semu-kejar-efek-jera",
-     "waktu": "2026-11-01T02:15:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Respons Permintaan MSCI, OJK Berikan Sanksi Tegas Pelaku Pelanggaran di Awal November 2026",
-     "tautan": "http://investortrust.id/market/121153/respons-permintaan-msci-ojk-berikan-sanksi-tegas-pelaku-pelanggaran-di-awal-november-2026",
-     "waktu": "2026-11-01T02:14:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-01T10:44:34.893Z",
+   "diambil": "2026-11-01T16:58:03.777Z",
    "berita": [
     {
      "judul": "Menkeu: Untuk Capai Pertumbuhan 6%, Investasi Harus Naik 7%, Danantara dan Swasta Jadi Penggerak Utama",
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-01T10:44:34.893Z",
+   "diambil": "2026-11-01T16:58:03.777Z",
    "berita": [
     {
      "judul": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
@@ -156,9 +156,9 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-30T21:13:14.000Z",
+     "judul": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "tautan": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-01T13:11:37.000Z",
      "situs": "BBC News"
     },
     {
@@ -189,6 +189,12 @@
      "judul": "How Poundland grew from a market stall to a high street giant",
      "tautan": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-30T06:08:22.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "tautan": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-10-30T21:13:14.000Z",
      "situs": "BBC News"
     },
     {
@@ -231,12 +237,6 @@
      "judul": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
      "tautan": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-30T09:33:51.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "US interest rates held steady and economy grows - what it means for you",
-     "tautan": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-29T17:15:05.000Z",
      "situs": "BBC News"
     }
    ]
