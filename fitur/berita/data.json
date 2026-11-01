@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-01T16:58:03.777Z",
+ "diperbarui": "2026-11-01T20:58:04.163Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,7 +7,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-01T16:58:03.777Z",
+   "diambil": "2026-11-01T20:58:04.163Z",
    "berita": [
     {
      "judul": "Kinerja Bakrie & Brothers (BNBR) hingga Kuartal III-2026: ‘Revenue’ Melonjak 55,45%, ‘Gross Profit’ Melesat 127,82%",
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-01T16:58:03.777Z",
+   "diambil": "2026-11-01T20:58:04.163Z",
    "berita": [
     {
      "judul": "Menkeu: Untuk Capai Pertumbuhan 6%, Investasi Harus Naik 7%, Danantara dan Swasta Jadi Penggerak Utama",
@@ -147,8 +147,14 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-01T16:58:03.777Z",
+   "diambil": "2026-11-01T20:58:04.163Z",
    "berita": [
+    {
+     "judul": "Thousands of jobs at Virgin Media O2 to be cut",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-01T16:57:14.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
      "tautan": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
@@ -177,12 +183,6 @@
      "judul": "City of London chief tops UK Black Powerlist",
      "tautan": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-30T18:00:24.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "How video game remakes tap the power of nostalgia",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-30T07:45:00.000Z",
      "situs": "BBC News"
     },
     {
