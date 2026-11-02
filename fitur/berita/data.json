@@ -1,72 +1,72 @@
 {
- "diperbarui": "2026-11-02T16:42:24.865Z",
+ "diperbarui": "2026-11-02T23:44:47.262Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-02T06:33:15.489Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-02T23:44:47.262Z",
    "berita": [
     {
-     "judul": "OJK Siapkan Jurus Baru Hukum Pelanggar Pasar Modal, Denda atau Pidana?",
-     "tautan": "http://investortrust.id/market/121243/ojk-siapkan-jurus-baru-hukum-pelanggar-pasar-modal-denda-atau-pidana",
-     "waktu": "2026-11-02T06:11:00.000Z",
+     "judul": "IHSG Diprediksi Bergerak Bearish, Tiga Saham Dipimpin INET Layak Dilirik",
+     "tautan": "http://investortrust.id/market/121330/ihsg-diprediksi-bergerak-bearish-tiga-saham-dipimpin-inet-layak-dilirik",
+     "waktu": "2026-11-02T22:36:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "JP Morgan hingga Sucor Kompak Rekomendasi Beli Saham Antam (ANTM), Target Harga Tertinggi Rp 5.500",
-     "tautan": "http://investortrust.id/market/121242/jp-morgan-hingga-sucor-kompak-rekomendasi-beli-saham-antam-antm-target-harga-tertinggi-rp-5500",
-     "waktu": "2026-11-02T06:04:00.000Z",
+     "judul": "Bukan Sekadar Sanksi, OJK Diminta Cegah Pelanggaran Bursa Berulang",
+     "tautan": "http://investortrust.id/market/121320/bukan-sekadar-sanksi-ojk-diminta-cegah-pelanggaran-bursa-berulang",
+     "waktu": "2026-11-02T16:34:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "BEI Rampungkan Kajian Insentif Pajak, Bidik UMKM Naik Kelas Lewat Pasar Modal",
-     "tautan": "http://investortrust.id/market/121239/bei-rampungkan-kajian-insentif-pajak-bidik-umkm-naik-kelas-lewat-pasar-modal",
-     "waktu": "2026-11-02T05:55:00.000Z",
+     "judul": "Merdeka Battery Materials Laporkan Kemajuan HPAL di Kuartal III-2026",
+     "tautan": "http://investortrust.id/market/121319/merdeka-battery-materials-laporkan-kemajuan-hpal-di-kuartal-iii-2026",
+     "waktu": "2026-11-02T16:29:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Majoris Gandeng Bank Muamalat dan Trimegah (TRIM), Kembangkan Filantropi Syariah",
-     "tautan": "http://investortrust.id/market/121235/majoris-gandeng-bank-muamalat-dan-trimegah-trim-kembangkan-filantropi-syariah",
-     "waktu": "2026-11-02T05:42:00.000Z",
+     "judul": "Pendapatan Blue Bird (BIRD) Naik Jadi Rp 4,57 Triliun, Ini Penopangnya",
+     "tautan": "http://investortrust.id/market/121318/pendapatan-blue-bird-bird-naik-jadi-rp-4-57-triliun-ini-penopangnya",
+     "waktu": "2026-11-02T16:25:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "IHSG Berbalik Melesat 0,95% di Sesi I Usai Saham HSC Dikeluarkan dari Perhitungan",
-     "tautan": "http://investortrust.id/market/121230/ihsg-berbalik-melesat-0-95-di-sesi-i-usai-saham-hsc-dikeluarkan-dari-perhitungan",
-     "waktu": "2026-11-02T05:08:00.000Z",
+     "judul": "BEI Luncurkan Go Public Academy, Perluas Akses Pendanaan UMKM",
+     "tautan": "http://investortrust.id/market/121328/bei-luncurkan-go-public-academy-perluas-akses-pendanaan-umkm",
+     "waktu": "2026-11-02T13:15:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Bakrie Plantations (UNSP) Cetak Penjualan Rp2,2 Triliun, Balikkan Ekuitas dari Negatif Jadi Positif",
-     "tautan": "http://investortrust.id/market/121232/bakrie-plantations-unsp-cetak-penjualan-rp-2-2-triliun-balikkan-ekuitas-dari-negatif-jadi-positif",
-     "waktu": "2026-11-02T05:06:00.000Z",
+     "judul": "Net Sell Saham Berlanjut Rp 112,48 Miliar, Terbanyak Landa Dua Bank Ini",
+     "tautan": "http://investortrust.id/market/121295/net-sell-saham-berlanjut-rp-112-48-miliar-terbanyak-landa-dua-bank-ini",
+     "waktu": "2026-11-02T12:44:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Setelah Penarikan Binance Kembali Normal, CZ Sebut 98% Pengguna Pilih Bertahan",
-     "tautan": "http://investortrust.id/market/121226/setelah-penarikan-binance-kembali-normal-cz-sebut-98-pengguna-pilih-bertahan",
-     "waktu": "2026-11-02T04:24:00.000Z",
+     "judul": "Telkom (TLKM) Raup Pendapatan Rp113,5 Triliun hingga Kuartal III-2026, Ini Pendorong Pertumbuhannya",
+     "tautan": "http://investortrust.id/market/121294/telkom-tlkm-raup-pendapatan-rp113-5-triliun-hingga-kuartal-iii-2026-ini-pendorong-pertumbuhannya",
+     "waktu": "2026-11-02T12:34:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Pemeringkatan MI dan Reksa Dana: Dari Perburuan Return Menuju Industri Berbasis Risiko",
-     "tautan": "http://investortrust.id/market/121224/pemeringkatan-mi-dan-reksa-dana-dari-perburuan-return-menuju-industri-berbasis-risiko",
-     "waktu": "2026-11-02T04:19:00.000Z",
+     "judul": "Jelang Pemilu Sela AS, Pakar Sebut Kenaikan Bitcoin US$ 100.000 Sulit Tercapai Tahun Ini",
+     "tautan": "http://investortrust.id/market/121286/jelang-pemilu-sela-as-pakar-sebut-kenaikan-bitcoin-us-100000-sulit-tercapai-tahun-ini",
+     "waktu": "2026-11-02T10:19:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Usai Insiden Binance, Bursa Kripto RI CFX dan ICEx Siapkan Jurus Baru Hadapi Serangan Siber",
-     "tautan": "http://investortrust.id/market/121219/usai-insiden-binance-bursa-kripto-ri-cfx-dan-icex-siapkan-jurus-baru-hadapi-serangan-siber",
-     "waktu": "2026-11-02T03:51:00.000Z",
+     "judul": "Gangguan Selat Hormuz Jadi Ancaman, Chandra Asri (TPIA) Percepat Diversifikasi Pasokan Nafta",
+     "tautan": "http://investortrust.id/market/121280/gangguan-selat-hormuz-jadi-ancaman-chandra-asri-tpia-percepat-diversifikasi-pasokan-nafta",
+     "waktu": "2026-11-02T09:49:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "BEI Percepat Reformasi Pasar Modal, Perkuat Kepercayaan Investor Global",
-     "tautan": "http://investortrust.id/market/121213/bei-percepat-reformasi-pasar-modal-perkuat-kepercayaan-investor-global",
-     "waktu": "2026-11-02T03:25:00.000Z",
+     "judul": "Sawit Sumbermas (SSMS) Tebar Dividen Interim Rp 500 Miliar, Nilai per Saham Segini",
+     "tautan": "http://investortrust.id/market/121278/sawit-sumbermas-ssms-tebar-dividen-interim-rp-500-miliar-nilai-per-saham-segini",
+     "waktu": "2026-11-02T09:35:00.000Z",
      "situs": "Investortrust"
     }
    ]
@@ -75,68 +75,68 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-02T06:33:15.489Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-02T23:44:47.262Z",
    "berita": [
     {
-     "judul": "BPS Catat Surplus Neraca Perdagangan September 2026 Sebesar US$ 3,36 Miliar",
-     "tautan": "http://investortrust.id/macro/121238/bps-catat-surplus-neraca-perdagangan-september-2026-sebesar-us-3-36-miliar",
-     "waktu": "2026-11-02T05:36:00.000Z",
+     "judul": "Penumpang Pesawat Turun, Kereta Terus Melaju",
+     "tautan": "http://investortrust.id/macro/121325/penumpang-pesawat-turun-kereta-terus-melaju",
+     "waktu": "2026-11-02T16:48:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "BPS: Impor pada September 2026 Naik 18,41% Secara Tahunan ke US$ 24,23 Miliar",
-     "tautan": "http://investortrust.id/macro/121229/bps-impor-pada-september-2026-naik-18-41-secara-tahunan-ke-us-24-23-miliar",
-     "waktu": "2026-11-02T04:51:00.000Z",
+     "judul": "Wisman Tembus 12 Juta, Belanja per Kunjungan Naik",
+     "tautan": "http://investortrust.id/macro/121324/wisman-tembus-12-juta-belanja-per-kunjungan-naik",
+     "waktu": "2026-11-02T16:45:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "BPS Catat Ekspor Indonesia September 2026 Capai US$ 27,59 Miliar atau Naik 11,87%, Ditopang Sektor Industri",
-     "tautan": "http://investortrust.id/macro/121228/bps-catat-ekspor-indonesia-september-2026-capai-us-27-59-miliar-atau-naik-11-87-ditopang-sektor-industri",
-     "waktu": "2026-11-02T04:40:00.000Z",
+     "judul": "NTP Naik, Peternak dan Nelayan Masih Tertekan",
+     "tautan": "http://investortrust.id/macro/121323/ntp-naik-peternak-dan-nelayan-masih-tertekan",
+     "waktu": "2026-11-02T16:44:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "BPS: Inflasi Bulanan Oktober 2026 Capai 0,22%, dan 3,23% Secara Tahunan",
-     "tautan": "http://investortrust.id/macro/121225/bps-inflasi-bulanan-oktober-2026-capai-0-22-papua-selatan-catat-angka-tertinggi",
-     "waktu": "2026-11-02T04:24:00.000Z",
+     "judul": "Impor Melonjak, Surplus Dagang Menyusut Tajam",
+     "tautan": "http://investortrust.id/macro/121322/impor-melonjak-surplus-dagang-menyusut-tajam",
+     "waktu": "2026-11-02T16:40:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Perkuat Penerapan Pajak Minimum Global, DJP Tanda Tangani GIR MCAA",
-     "tautan": "http://investortrust.id/macro/121220/perkuat-penerapan-pajak-minimum-global-djp-tanda-tangani-gir-mcaa",
-     "waktu": "2026-11-02T03:54:00.000Z",
+     "judul": "Inflasi Melandai, Harga Pangan Masih Menekan",
+     "tautan": "http://investortrust.id/macro/121321/inflasi-melandai-harga-pangan-masih-menekan",
+     "waktu": "2026-11-02T16:38:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Pajak Digital yang Dikumpulkan Pemerintah per September 2026 Capai Rp 1,52 Triliun",
-     "tautan": "http://investortrust.id/macro/121218/pajak-digital-yang-dikumpulkan-pemerintah-per-september-2026-capai-rp-1-52-triliun",
-     "waktu": "2026-11-02T03:49:00.000Z",
+     "judul": "Pajak Digital Disebut Mulai 9 November, Airlangga: Nanti Kita Lihat",
+     "tautan": "http://investortrust.id/macro/121307/pajak-digital-disebut-mulai-9-november-airlangga-nanti-kita-lihat",
+     "waktu": "2026-11-02T14:19:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Membaca Angka Pertumbuhan Ekonomi Triwulan III dari Dua Sisi",
-     "tautan": "http://investortrust.id/macro/121217/membaca-angka-pertumbuhan-ekonomi-triwulan-iii-dari-dua-sisi",
-     "waktu": "2026-11-02T03:45:00.000Z",
+     "judul": "Lapor ke Prabowo, Airlangga Pastikan Fundamental Ekonomi RI Tetap Kuat",
+     "tautan": "http://investortrust.id/macro/121304/lapor-ke-prabowo-airlangga-pastikan-fundamental-ekonomi-ri-tetap-kuat",
+     "waktu": "2026-11-02T14:02:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Rupiah Melemah pada Perdagangan Mula November 2026",
-     "tautan": "http://investortrust.id/macro/121208/rupiah-melemah-pada-perdagangan-mula-november-2026",
-     "waktu": "2026-11-02T03:06:00.000Z",
+     "judul": "Inflasi Sulawesi Utara 8,07%, Cabai Rawit Naik 269%",
+     "tautan": "http://investortrust.id/macro/121300/inflasi-sulawesi-utara-8-07-cabai-rawit-naik-269",
+     "waktu": "2026-11-02T13:02:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Menkeu: Untuk Capai Pertumbuhan 6%, Investasi Harus Naik 7%, Danantara dan Swasta Jadi Penggerak Utama",
-     "tautan": "http://investortrust.id/macro/121129/menkeu-untuk-capai-pertumbuhan-6-investasi-harus-naik-7-danantara-dan-swasta-jadi-penggerak-utama",
-     "waktu": "2026-10-31T14:18:00.000Z",
+     "judul": "BPS: Ekspor Tembaga Terbang 165% Secara Tahunan pada September 2026",
+     "tautan": "http://investortrust.id/macro/121291/bps-ekspor-tembaga-terbang-165-secara-tahunan-pada-september-2026",
+     "waktu": "2026-11-02T11:25:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Penyaluran Kredit Program Capai Rp2.440 Triliun, Indonesia Bagikan Praktik Baik KUR",
-     "tautan": "http://investortrust.id/macro/121098/penyaluran-kredit-program-capai-rp2440-triliun-indonesia-bagikan-praktik-baik-kur",
-     "waktu": "2026-10-31T05:53:00.000Z",
+     "judul": "Asap Karhutla Batasi Perjalanan, BPS Catat Kunjungan Wisatawan Turun",
+     "tautan": "http://investortrust.id/macro/121282/asap-karhutla-batasi-perjalanan-bps-catat-kunjungan-wisatawan-turun",
+     "waktu": "2026-11-02T10:04:00.000Z",
      "situs": "Investortrust"
     }
    ]
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-02T16:42:24.865Z",
+   "diambil": "2026-11-02T23:44:47.262Z",
    "berita": [
     {
      "judul": "Ryanair says it may freeze workers' pay and raise airfares",
@@ -158,7 +158,7 @@
     {
      "judul": "Shop freezers in seven European countries hit by cyber-attack",
      "tautan": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-02T15:12:22.000Z",
+     "waktu": "2026-11-02T17:38:11.000Z",
      "situs": "BBC News"
     },
     {
