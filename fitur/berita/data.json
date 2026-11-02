@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-01T20:58:04.163Z",
+ "diperbarui": "2026-11-02T00:17:51.159Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,20 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-01T20:58:04.163Z",
+   "diambil": "2026-11-02T00:17:51.159Z",
    "berita": [
+    {
+     "judul": "Prospek Saham Bukit Asam (PTBA) Makin Menarik, Target Rp 3.480 dan Potensi Dividen Rp 242",
+     "tautan": "http://investortrust.id/market/121188/prospek-saham-bukit-asam-ptba-makin-menarik-target-rp-3480-dan-potensi-dividen-rp-242",
+     "waktu": "2026-11-01T23:48:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "IHSG Diprediksi Lanjutk Begerak Bearish, Tiga Saham BBNI hingga HMSP Layak Dilirik",
+     "tautan": "http://investortrust.id/market/121186/ihsg-diprediksi-lanjutk-begerak-bearish-tiga-saham-bbni-hingga-hmsp-layak-dilirik",
+     "waktu": "2026-11-01T22:54:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Kinerja Bakrie & Brothers (BNBR) hingga Kuartal III-2026: ‘Revenue’ Melonjak 55,45%, ‘Gross Profit’ Melesat 127,82%",
      "tautan": "http://investortrust.id/market/121183/kinerja-bakrie-brothers-bnbr-hingga-kuartal-iii-2026-revenue-melonjak-55-45-gross-profit-melesat-127-82",
@@ -56,18 +68,6 @@
      "tautan": "http://investortrust.id/market/121157/terungkap-begini-modus-peretas-kuras-hot-wallet-binance-hingga-rp-100-triliun-lebih",
      "waktu": "2026-11-01T02:38:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Ada Random Checking! BEI Bakal Periksa Laporan Free Float Emiten",
-     "tautan": "http://investortrust.id/market/121156/ada-random-checking-bei-bakal-periksa-laporan-free-float-emiten",
-     "waktu": "2026-11-01T02:34:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "OJK Pantau Transaksi Bayan, Ganti Pengendali Wajib Tender Offer",
-     "tautan": "http://investortrust.id/market/121158/ojk-pantau-transaksi-bayan-ganti-pengendali-wajib-tender-offer",
-     "waktu": "2026-11-01T02:33:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-01T20:58:04.163Z",
+   "diambil": "2026-11-02T00:17:51.159Z",
    "berita": [
     {
      "judul": "Menkeu: Untuk Capai Pertumbuhan 6%, Investasi Harus Naik 7%, Danantara dan Swasta Jadi Penggerak Utama",
@@ -147,8 +147,14 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-01T20:58:04.163Z",
+   "diambil": "2026-11-02T00:17:51.159Z",
    "berita": [
+    {
+     "judul": "Don't get caught out by new Buy Now Pay Later rules",
+     "tautan": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-01T23:34:49.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Thousands of jobs at Virgin Media O2 to be cut",
      "tautan": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
@@ -231,12 +237,6 @@
      "judul": "Faisal Islam: This Budget was micro and that was deliberate",
      "tautan": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-10-29T15:48:44.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-30T09:33:51.000Z",
      "situs": "BBC News"
     }
    ]
