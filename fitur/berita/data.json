@@ -1,12 +1,12 @@
 {
- "diperbarui": "2026-11-02T23:44:47.262Z",
+ "diperbarui": "2026-11-03T04:42:50.374Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-02T23:44:47.262Z",
    "berita": [
     {
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-02T23:44:47.262Z",
    "berita": [
     {
@@ -147,12 +147,12 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-02T23:44:47.262Z",
+   "diambil": "2026-11-03T04:42:50.374Z",
    "berita": [
     {
-     "judul": "Ryanair says it may freeze workers' pay and raise airfares",
-     "tautan": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-02T12:22:10.000Z",
+     "judul": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-03T02:11:13.000Z",
      "situs": "BBC News"
     },
     {
@@ -162,9 +162,33 @@
      "situs": "BBC News"
     },
     {
+     "judul": "North Korea denies being behind record $6.3bn Binance hack",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-03T01:23:03.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Apple unsure when more foldable iPhones will be available after selling out",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-03T00:29:00.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Ryanair says it may freeze workers' pay and raise airfares",
+     "tautan": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-02T12:22:10.000Z",
+     "situs": "BBC News"
+    },
+    {
      "judul": "Poundland's former owner offers to invest as minister prepares to meet board",
      "tautan": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-02T13:40:36.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-03T00:41:36.000Z",
      "situs": "BBC News"
     },
     {
@@ -174,15 +198,15 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Don't get caught out by new Buy Now Pay Later rules",
-     "tautan": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-01T23:34:49.000Z",
-     "situs": "BBC News"
-    },
-    {
      "judul": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
      "tautan": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-01T16:57:14.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Don't get caught out by new Buy Now Pay Later rules",
+     "tautan": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-01T23:34:49.000Z",
      "situs": "BBC News"
     },
     {
@@ -213,30 +237,6 @@
      "judul": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
      "tautan": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-01T13:11:37.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "What we know about Binance's $6.3bn hack",
-     "tautan": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-30T12:27:28.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "How Poundland grew from a market stall to a high street giant",
-     "tautan": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-30T06:08:22.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-30T21:13:14.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "From Levi's to Primark - the fashion chains selling mended clothes",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-30T00:00:35.000Z",
      "situs": "BBC News"
     }
    ]
