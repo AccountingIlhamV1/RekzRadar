@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-03T12:31:28.055Z",
+ "diperbarui": "2026-11-03T19:54:04.597Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,20 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-03T12:31:28.055Z",
+   "diambil": "2026-11-03T19:54:04.597Z",
    "berita": [
+    {
+     "judul": "Gelar CEO Networking 2026, SRO Soroti Tata Kelola dan Transparansi Emiten",
+     "tautan": "http://investortrust.id/market/121454/gelar-ceo-networking-2026-sro-soroti-tata-kelola-dan-transparansi-emiten",
+     "waktu": "2026-11-03T16:19:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Terpangkas 43%, IHSG Cetak Rekor Terburuk di Dunia",
+     "tautan": "http://investortrust.id/market/121449/terpangkas-43-ihsg-cetak-rekor-terburuk-di-dunia",
+     "waktu": "2026-11-03T15:18:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Ekspor Semen Melonjak 55,9%, Laba Indocement (INTP) Tumbuh 22,5%",
      "tautan": "http://investortrust.id/market/121431/ekspor-semen-melonjak-55-9-laba-indocement-intp-tumbuh-22-5",
@@ -56,18 +68,6 @@
      "tautan": "http://investortrust.id/market/121401/ihsg-babak-belur-ambles-192-poin-ke-4904-saham-big-cap-kompak-dihantam-jual",
      "waktu": "2026-11-03T09:10:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Laba Chitose (CINT) Meroket 114,7%, Andalkan Ekspansi Produk dan Diversifikasi Bisnis",
-     "tautan": "http://investortrust.id/market/121398/laba-chitose-cint-meroket-114-7-andalkan-ekspansi-produk-dan-diversifikasi-bisnis",
-     "waktu": "2026-11-03T08:59:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Jasuindo (JTPE) Raup Laba Rp230,1 Miliar hingga September 2026, Ini Strategi Ekspansinya",
-     "tautan": "http://investortrust.id/market/121395/jasuindo-jtpe-raup-laba-rp230-1-miliar-hingga-september-2026-ini-strategi-ekspansinya",
-     "waktu": "2026-11-03T08:55:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-03T12:31:28.055Z",
+   "diambil": "2026-11-03T19:54:04.597Z",
    "berita": [
     {
      "judul": "Gubernur BI Jelaskan Pelemahan Rupiah Hingga Rp 18.145 per Dolar AS",
@@ -147,14 +147,8 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-03T12:31:28.055Z",
+   "diambil": "2026-11-03T19:54:04.597Z",
    "berita": [
-    {
-     "judul": "Drivers may get compensation offers before car finance saga ends",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-03T11:56:31.000Z",
-     "situs": "BBC News"
-    },
     {
      "judul": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
      "tautan": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
@@ -162,9 +156,33 @@
      "situs": "BBC News"
     },
     {
+     "judul": "Drivers may get compensation offers before car finance saga ends",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-03T11:56:31.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Mining giant joins fight to stop killer toad march across Australia",
+     "tautan": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-03T15:05:01.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Asda hires ex-Morrisons boss in bid to grow firm",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-03T15:12:35.000Z",
+     "situs": "BBC News"
+    },
+    {
      "judul": "'Quiet quitting' could be hitting the economy - here's why",
      "tautan": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-03T11:15:51.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-03T07:50:14.000Z",
      "situs": "BBC News"
     },
     {
@@ -177,12 +195,6 @@
      "judul": "North Korea denies being behind record $6.3bn Binance hack",
      "tautan": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-03T08:33:20.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-03T07:50:14.000Z",
      "situs": "BBC News"
     },
     {
@@ -225,18 +237,6 @@
      "judul": "Don't get caught out by new Buy Now Pay Later rules",
      "tautan": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-01T23:34:49.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-     "tautan": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-01T00:17:05.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-     "tautan": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-10-31T02:12:19.000Z",
      "situs": "BBC News"
     }
    ]
