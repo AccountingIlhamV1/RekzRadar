@@ -1,72 +1,72 @@
 {
- "diperbarui": "2026-11-04T06:46:46.002Z",
+ "diperbarui": "2026-11-04T14:58:47.302Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-04T00:17:59.874Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-04T14:58:47.302Z",
    "berita": [
     {
-     "judul": "Nawasena Teken Akuisisi 66,58% Saham Idea Indonesia (IDEA), Jadi Pengendali Baru",
-     "tautan": "http://investortrust.id/market/121471/nawasena-teken-akuisisi-66-58-saham-idea-indonesia-idea-jadi-pengendali-baru",
-     "waktu": "2026-11-03T23:50:00.000Z",
+     "judul": "ABI Nilai Lembaga Penjamin Dana Kripto Berpotensi Tingkatkan Kepercayaan Investor",
+     "tautan": "http://investortrust.id/market/121557/abi-nilai-lembaga-penjamin-dana-kripto-berpotensi-tingkatkan-kepercayaan-investor",
+     "waktu": "2026-11-04T11:35:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Margin Pakan Tertekan, Mirae Asset Ungkap Prospek Saham CPIN",
-     "tautan": "http://investortrust.id/market/121469/margin-pakan-tertekan-mirae-asset-ungkap-prospek-saham-cpin",
-     "waktu": "2026-11-03T23:07:00.000Z",
+     "judul": "Menyusul Insiden Peretasan, Pelaku Industri Dorong Keseragaman Standar Keamanan Exchange Kripto",
+     "tautan": "http://investortrust.id/market/121556/menyusul-insiden-peretasan-pelaku-industri-dorong-keseragaman-standar-keamanan-exchange-kripto",
+     "waktu": "2026-11-04T11:22:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "IHSG Bisa Rebound Teknikal Hari Ini, Tiga Saham Dipimpin INDF Layak Dipantau",
-     "tautan": "http://investortrust.id/market/121468/ihsg-bisa-rebound-teknikal-hari-ini-tiga-saham-dipimpin-indf-layak-dipantau",
-     "waktu": "2026-11-03T22:46:00.000Z",
+     "judul": "Investor Asing Berbalik Net Buy Rp 257,94 Miliar, Saham BBCA hingga TLKM Dilirik",
+     "tautan": "http://investortrust.id/market/121552/investor-asing-berbalik-net-buy-rp-257-94-miliar-saham-bbca-hingga-tlkm-dilirik",
+     "waktu": "2026-11-04T11:01:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Gelar CEO Networking 2026, SRO Soroti Tata Kelola dan Transparansi Emiten",
-     "tautan": "http://investortrust.id/market/121454/gelar-ceo-networking-2026-sro-soroti-tata-kelola-dan-transparansi-emiten",
-     "waktu": "2026-11-03T16:19:00.000Z",
+     "judul": "Sinar Mas Agro (SMAR) Bagikan Dividen Interim Rp 1,4 Triliun, Nilai per Saham Segini",
+     "tautan": "http://investortrust.id/market/121549/sinar-mas-agro-smar-bagikan-dividen-interim-rp-1-4-triliun-nilai-per-saham-segini",
+     "waktu": "2026-11-04T10:18:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Terpangkas 43%, IHSG Cetak Rekor Terburuk di Dunia",
-     "tautan": "http://investortrust.id/market/121449/terpangkas-43-ihsg-cetak-rekor-terburuk-di-dunia",
-     "waktu": "2026-11-03T15:18:00.000Z",
+     "judul": "IHSG Akhirnya Ditutup Rebound 0,32%, Terdorong Saham Berikut",
+     "tautan": "http://investortrust.id/market/121535/ihsg-akhirnya-ditutup-rebound-0-32-terdorong-saham-berikut",
+     "waktu": "2026-11-04T09:15:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Ekspor Semen Melonjak 55,9%, Laba Indocement (INTP) Tumbuh 22,5%",
-     "tautan": "http://investortrust.id/market/121431/ekspor-semen-melonjak-55-9-laba-indocement-intp-tumbuh-22-5",
-     "waktu": "2026-11-03T12:03:00.000Z",
+     "judul": "Trisula Textile (BELL) Raup Kenaikan Laba 54,6% hingga Kuartal III-2026, Ini Penopangnya",
+     "tautan": "http://investortrust.id/market/121529/trisula-textile-bell-raup-kenaikan-laba-54-6-hingga-kuartal-iii-2026-ini-penopangnya",
+     "waktu": "2026-11-04T08:40:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Alarm Bahaya! IHSG Jebol 5.000, Analis Ramal Koreksi Bisa Makin Dalam",
-     "tautan": "http://investortrust.id/market/121430/alarm-bahaya-ihsg-jebol-5000-analis-ramal-koreksi-bisa-makin-dalam",
-     "waktu": "2026-11-03T12:02:00.000Z",
+     "judul": "OJK Penalizes Market Manipulators Over Stock Rigging, Misleading Financials, and Client Account Fraud",
+     "tautan": "http://investortrust.id/market/121523/ojk-penalizes-market-manipulators-over-stock-rigging-misleading-financials-and-client-account-fraud",
+     "waktu": "2026-11-04T08:00:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Net Sell Berlanjut Rp 475 Miliar, Saham BBRI hingga TINS Dilepas Pemodal Asing",
-     "tautan": "http://investortrust.id/market/121425/net-sell-berlanjut-rp-475-miliar-saham-bbri-hingga-tins-dilepas-pemodal-asing",
-     "waktu": "2026-11-03T11:23:00.000Z",
+     "judul": "Lagi, OJK Jatuhkan Sanksi kepada Perusak Pasar Modal",
+     "tautan": "http://investortrust.id/market/121520/lagi-ojk-jatuhkan-sanksi-kepada-perusak-pasar-modal",
+     "waktu": "2026-11-04T07:24:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Valbury Perkuat Akses Investasi Global, Nasabah Tumbuh 70%",
-     "tautan": "http://investortrust.id/market/121426/valbury-perkuat-akses-investasi-global-nasabah-tumbuh-70",
-     "waktu": "2026-11-03T10:20:00.000Z",
+     "judul": "Pandu Sjahrir Sudah Lepas Saham Supra Sekuritas Sejak Juni 2026, Jauh Sebelum Sanksi OJK",
+     "tautan": "http://investortrust.id/market/121516/pandu-sjahrir-sudah-lepas-saham-supra-sekuritas-sejak-juni-2026-jauh-sebelum-sanksi-ojk",
+     "waktu": "2026-11-04T07:04:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Vantage Markets Ekspansi ke Indonesia, Andalkan Emas sebagai Produk Unggulan",
-     "tautan": "http://investortrust.id/market/121409/vantage-markets-ekspansi-ke-indonesia-andalkan-emas-sebagai-produk-unggulan",
-     "waktu": "2026-11-03T10:19:00.000Z",
+     "judul": "Bitget Buka Akses Investasi Pra-IPO Anthropic Lewat Token rANT",
+     "tautan": "http://investortrust.id/market/121512/bitget-buka-akses-investasi-pra-ipo-anthropic-lewat-token-rant",
+     "waktu": "2026-11-04T06:53:00.000Z",
      "situs": "Investortrust"
     }
    ]
@@ -75,10 +75,40 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-04T00:17:59.874Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-04T14:58:47.302Z",
    "berita": [
+    {
+     "judul": "Indonesia Q3 GDP Projected at 5.2% on Manufacturing Export Rebound, but Q4 Headwinds Loom",
+     "tautan": "http://investortrust.id/macro/121527/indonesia-q3-gdp-projected-at-52-on-manufacturing-export-rebound-but-q4-headwinds-loom",
+     "waktu": "2026-11-04T08:13:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Prasasti: Ekonomi RI Kuartal III-2026 Diproyeksi Tumbuh 5,2%, Waspada Tekanan di Kuartal IV",
+     "tautan": "http://investortrust.id/macro/121522/prasasi-ekonomi-ri-kuartal-iii-2026-diproyeksi-tumbuh-5-2-waspada-tekanan-di-kuartal-iv",
+     "waktu": "2026-11-04T07:51:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Pulihkan Ekonomi Pascabencana di Aceh, Kementerian UMKM Gelontorkan Rp 2,6 Miliar untuk Alat Produksi",
+     "tautan": "http://investortrust.id/macro/121515/pulihkan-ekonomi-pascabencana-di-aceh-kementerian-umkm-gelontorkan-rp-2-6-miliar-untuk-alat-produksi",
+     "waktu": "2026-11-04T07:05:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Kunjungan Wisatawan Mancanegara ke Indonesia Tembus 12,01 Juta",
+     "tautan": "http://investortrust.id/macro/121506/kunjungan-wisatawan-mancanegara-ke-indonesia-tembus-12-01-juta",
+     "waktu": "2026-11-04T03:30:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Rupiah Bergerak Menguat Terhadap Dolar AS, Berada di Level Rp 18.118 per Dolar AS",
+     "tautan": "http://investortrust.id/macro/121486/rupiah-bergerak-menguat-terhadap-dolar-as-berada-di-level-rp-18118-per-dolar-as",
+     "waktu": "2026-11-04T03:01:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Seni Menjaga Stabilitas Nilai Tukar Rupiah",
      "tautan": "http://investortrust.id/macro/121448/seni-menjaga-stabilitas-nilai-tukar-rupiah",
@@ -108,36 +138,6 @@
      "tautan": "http://investortrust.id/macro/121416/ketua-kssk-masih-optimistis-pertumbuhan-ekonomi-indonesia-2026-di-rentang-5-4-5-5-secara-tahunan",
      "waktu": "2026-11-03T10:47:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Pimpin Ratas, Prabowo Bahas Stabilitas Ekonomi hingga Efisiensi APBN",
-     "tautan": "http://investortrust.id/macro/121410/pimpin-ratas-prabowo-bahas-stabilitas-ekonomi-hingga-efisiensi-apbn",
-     "waktu": "2026-11-03T10:28:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "OCBC Proyeksi The Fed Naikkan Suku Bunga di Desember 2026, BI Berpotensi Menyusul",
-     "tautan": "http://investortrust.id/macro/121404/ocbc-proyeksi-the-fed-naikkan-suku-bunga-di-desember-2026-bi-berpotensi-menyusul",
-     "waktu": "2026-11-03T10:05:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Menteri UMKM Luruskan Pernyataan Hashim soal Pajak Tukang Pijat",
-     "tautan": "http://investortrust.id/macro/121397/menteri-umkm-luruskan-pernyataan-hashim-soal-pajak-tukang-pijat",
-     "waktu": "2026-11-03T08:57:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Rupiah Bergerak Menguat ke Posisi Rp 18.149 per Dolar AS pada Selasa",
-     "tautan": "http://investortrust.id/macro/121357/rupiah-bergerak-menguat-ke-posisi-rp-18149-per-dolar-as-pada-selasa",
-     "waktu": "2026-11-03T02:24:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Penumpang Pesawat Turun, Kereta Terus Melaju",
-     "tautan": "http://investortrust.id/macro/121325/penumpang-pesawat-turun-kereta-terus-melaju",
-     "waktu": "2026-11-02T16:48:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,12 +147,18 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-04T06:46:46.002Z",
+   "diambil": "2026-11-04T14:58:47.302Z",
    "berita": [
     {
-     "judul": "Poundland supplier 'will lose millions' if retailer collapses",
+     "judul": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+     "tautan": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-04T13:43:16.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Poundland owner in crunch talks as retailer's collapse looms",
      "tautan": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-04T00:03:17.000Z",
+     "waktu": "2026-11-04T12:20:42.000Z",
      "situs": "BBC News"
     },
     {
@@ -162,9 +168,9 @@
      "situs": "BBC News"
     },
     {
-     "judul": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+     "judul": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
      "tautan": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-04T01:36:06.000Z",
+     "waktu": "2026-11-04T14:25:39.000Z",
      "situs": "BBC News"
     },
     {
@@ -174,15 +180,15 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Canva announces major job cuts after 'our hardest year yet'",
-     "tautan": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-04T00:09:35.000Z",
-     "situs": "BBC News"
-    },
-    {
      "judul": "Graduates are managing AI - but are they learning much else?",
      "tautan": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-04T00:04:35.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Canva announces major job cuts after 'our hardest year yet'",
+     "tautan": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-04T00:09:35.000Z",
      "situs": "BBC News"
     },
     {
@@ -231,12 +237,6 @@
      "judul": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
      "tautan": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-03T11:10:37.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Christmas 2026 stamps unveiled by Royal Mail",
-     "tautan": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-03T02:27:50.000Z",
      "situs": "BBC News"
     }
    ]
