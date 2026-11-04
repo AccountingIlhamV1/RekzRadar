@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-04T14:58:47.302Z",
+ "diperbarui": "2026-11-04T21:05:36.766Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,7 +7,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-04T14:58:47.302Z",
+   "diambil": "2026-11-04T21:05:36.766Z",
    "berita": [
     {
      "judul": "ABI Nilai Lembaga Penjamin Dana Kripto Berpotensi Tingkatkan Kepercayaan Investor",
@@ -77,8 +77,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-04T14:58:47.302Z",
+   "diambil": "2026-11-04T21:05:36.766Z",
    "berita": [
+    {
+     "judul": "Seruan STFT Jakarta: Bela Rakyat, Evaluasi MBG, Hentikan Pembungkaman",
+     "tautan": "http://investortrust.id/macro/121564/seruan-stft-jakarta-bela-rakyat-evaluasi-mbg-hentikan-pembungkaman",
+     "waktu": "2026-11-04T15:52:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Indonesia Q3 GDP Projected at 5.2% on Manufacturing Export Rebound, but Q4 Headwinds Loom",
      "tautan": "http://investortrust.id/macro/121527/indonesia-q3-gdp-projected-at-52-on-manufacturing-export-rebound-but-q4-headwinds-loom",
@@ -132,12 +138,6 @@
      "tautan": "http://investortrust.id/macro/121417/gubernur-bi-jelaskan-pelemahan-rupiah-hingga-rp-18145-per-dolar-as",
      "waktu": "2026-11-03T10:55:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Ketua KSSK Masih Optimistis Pertumbuhan Ekonomi Indonesia 2026 di Rentang 5,4%-5,5% Secara Tahunan",
-     "tautan": "http://investortrust.id/macro/121416/ketua-kssk-masih-optimistis-pertumbuhan-ekonomi-indonesia-2026-di-rentang-5-4-5-5-secara-tahunan",
-     "waktu": "2026-11-03T10:47:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,18 +147,18 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-04T14:58:47.302Z",
+   "diambil": "2026-11-04T21:05:36.766Z",
    "berita": [
     {
      "judul": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
      "tautan": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-04T13:43:16.000Z",
+     "waktu": "2026-11-04T15:51:37.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "Poundland owner in crunch talks as retailer's collapse looms",
      "tautan": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-04T12:20:42.000Z",
+     "waktu": "2026-11-04T19:44:46.000Z",
      "situs": "BBC News"
     },
     {
@@ -170,7 +170,7 @@
     {
      "judul": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
      "tautan": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-04T14:25:39.000Z",
+     "waktu": "2026-11-04T19:38:53.000Z",
      "situs": "BBC News"
     },
     {
