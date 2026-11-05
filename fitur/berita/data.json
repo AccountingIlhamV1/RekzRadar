@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-05T16:58:24.760Z",
+ "diperbarui": "2026-11-05T22:34:45.848Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,12 +7,18 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-05T16:58:24.760Z",
+   "diambil": "2026-11-05T22:34:45.848Z",
    "berita": [
     {
      "judul": "Awasi Manipulasi Pasar, OJK Sebut Tak Segan Tempuh Jalur Hukum",
      "tautan": "http://investortrust.id/market/121695/awasi-manipulasi-pasar-ojk-sebut-tak-segan-tempuh-jalur-hukum",
      "waktu": "2026-11-05T14:03:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "CMSE 2026 Ajak Masyarakat Makin Akrab dengan Pasar Modal",
+     "tautan": "http://investortrust.id/market/121704/cmse-2026-ajak-masyarakat-makin-akrab-dengan-pasar-modal",
+     "waktu": "2026-11-05T12:55:00.000Z",
      "situs": "Investortrust"
     },
     {
@@ -62,12 +68,6 @@
      "tautan": "http://investortrust.id/market/121663/komite-hsc-kaji-metodologi-baru-bei-buka-peluang-perubahan-daftar-saham",
      "waktu": "2026-11-05T09:58:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Cegah Pelanggaran Perdagangan Saham, BEI Siapkan Jurus Real-Time Flagging",
-     "tautan": "http://investortrust.id/market/121662/cegah-pelanggaran-perdagangan-saham-bei-siapkan-jurus-real-time-flagging",
-     "waktu": "2026-11-05T09:56:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-05T16:58:24.760Z",
+   "diambil": "2026-11-05T22:34:45.848Z",
    "berita": [
     {
      "judul": "Ekonom Bank Danamon: Pertumbuhan Kuartal III-2026 Terdorong Geliat Ekonomi AS dan China",
@@ -147,12 +147,24 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-05T16:58:24.760Z",
+   "diambil": "2026-11-05T22:34:45.848Z",
    "berita": [
+    {
+     "judul": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-05T22:13:38.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Firms told to publish salaries in job adverts ahead of new law",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-05T22:32:02.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Interest rates hiked to 4% in first increase in over three years",
      "tautan": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-05T16:08:54.000Z",
+     "waktu": "2026-11-05T17:09:55.000Z",
      "situs": "BBC News"
     },
     {
@@ -168,21 +180,15 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-05T16:44:38.000Z",
+     "judul": "Graduates are managing AI - but are they learning much else?",
+     "tautan": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-04T00:04:35.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
      "tautan": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-05T15:27:09.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Graduates are managing AI - but are they learning much else?",
-     "tautan": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-04T00:04:35.000Z",
      "situs": "BBC News"
     },
     {
@@ -231,12 +237,6 @@
      "judul": "Australia's oldest department store David Jones folds after 188 years",
      "tautan": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-05T00:59:22.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-     "tautan": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-03T16:19:29.000Z",
      "situs": "BBC News"
     }
    ]
