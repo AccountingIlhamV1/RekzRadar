@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-06T17:39:10.589Z",
+ "diperbarui": "2026-11-06T22:34:28.219Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,7 +7,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-06T17:39:10.589Z",
+   "diambil": "2026-11-06T22:34:28.219Z",
    "berita": [
     {
      "judul": "Di Tengah Dinamika Ekonomi, Lo Kheng Hong Sebut Tiga Bisnis Emiten Ini Paling Menarik",
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-06T17:39:10.589Z",
+   "diambil": "2026-11-06T22:34:28.219Z",
    "berita": [
     {
      "judul": "BI Siapkan Instrumen agar DHE SDA Tetap Bisa Dimanfaatkan Eksportir",
@@ -147,18 +147,18 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-06T17:39:10.589Z",
+   "diambil": "2026-11-06T22:34:28.219Z",
    "berita": [
     {
      "judul": "AI stocks climb after trillions wiped from market values",
      "tautan": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-06T17:03:02.000Z",
+     "waktu": "2026-11-06T21:06:25.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "Could the US midterms burst the AI bubble?",
+     "judul": "Why the US midterms sparked an AI stock selloff",
      "tautan": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-06T16:14:23.000Z",
+     "waktu": "2026-11-06T18:32:16.000Z",
      "situs": "BBC News"
     },
     {
@@ -168,21 +168,27 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Elon Musk appears to signal the end of the road for Cybertruck",
-     "tautan": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-06T09:57:04.000Z",
+     "judul": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-06T17:19:38.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "PM tells firms to publish salaries in job adverts ahead of new law",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-06T15:25:43.000Z",
+     "judul": "Elon Musk appears to signal the end of the road for Cybertruck",
+     "tautan": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-06T21:49:50.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "The engine parts that 'fight the laws of the universe'",
      "tautan": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-06T00:06:06.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "PM tells firms to publish salaries in job adverts ahead of new law",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-06T15:25:43.000Z",
      "situs": "BBC News"
     },
     {
@@ -231,12 +237,6 @@
      "judul": "Welsh aviation firm AerFin bought in £475m deal",
      "tautan": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-05T11:01:06.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
-     "tautan": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-05T06:01:05.000Z",
      "situs": "BBC News"
     }
    ]
