@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-07T15:48:44.636Z",
+ "diperbarui": "2026-11-07T19:45:43.941Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-07T15:48:44.636Z",
+   "diambil": "2026-11-07T19:45:43.941Z",
    "berita": [
+    {
+     "judul": "Emisi Obligasi dan ‘Rights Issue’ Tembus Rp195,08 Triliun",
+     "tautan": "http://investortrust.id/market/121858/emisi-obligasi-dan-rights-issue-tembus-rp195-08-triliun",
+     "waktu": "2026-11-07T15:30:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Dana IPO di BEI Baru Capai Rp 2,16 Triliun, 9 Perusahaan Masih Antre",
      "tautan": "http://investortrust.id/market/121856/dana-ipo-di-bei-baru-capai-rp-2-16-triliun-9-perusahaan-masih-antre",
@@ -62,12 +68,6 @@
      "tautan": "http://investortrust.id/market/121822/ihsg-bergerak-dramatis-pekan-ini-sempat-sentuh-level-terendah-4824",
      "waktu": "2026-11-07T01:33:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Lo Kheng Hong Bongkar 5 Rahasia Pilih Saham, Terbukti Bertahan dari Lima Kali Krisis",
-     "tautan": "http://investortrust.id/market/121820/lo-kheng-hong-bongkar-5-rahasia-pilih-saham-terbukti-bertahan-dari-lima-kali-krisis",
-     "waktu": "2026-11-07T01:16:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-07T15:48:44.636Z",
+   "diambil": "2026-11-07T19:45:43.941Z",
    "berita": [
     {
      "judul": "Indef: Ekonomi Tumbuh, Petani dan UMKM Tertinggal",
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-07T15:48:44.636Z",
+   "diambil": "2026-11-07T19:45:43.941Z",
    "berita": [
     {
      "judul": "AI stocks climb after trillions wiped from market values",
