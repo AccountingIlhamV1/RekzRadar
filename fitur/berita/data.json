@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-07T09:03:54.889Z",
+ "diperbarui": "2026-11-07T15:48:44.636Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-07T09:03:54.889Z",
+   "diambil": "2026-11-07T15:48:44.636Z",
    "berita": [
+    {
+     "judul": "Dana IPO di BEI Baru Capai Rp 2,16 Triliun, 9 Perusahaan Masih Antre",
+     "tautan": "http://investortrust.id/market/121856/dana-ipo-di-bei-baru-capai-rp-2-16-triliun-9-perusahaan-masih-antre",
+     "waktu": "2026-11-07T12:14:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Samuel Sekuritas Bantah Tuduhan Manipulasi Saham Abadi Lestari (RLCO)",
      "tautan": "http://investortrust.id/market/121847/samuel-sekuritas-bantah-tuduhan-manipulasi-saham-abadi-lestari-rlco",
@@ -62,12 +68,6 @@
      "tautan": "http://investortrust.id/market/121820/lo-kheng-hong-bongkar-5-rahasia-pilih-saham-terbukti-bertahan-dari-lima-kali-krisis",
      "waktu": "2026-11-07T01:16:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Di Tengah Dinamika Ekonomi, Lo Kheng Hong Sebut Tiga Bisnis Emiten Ini Paling Menarik",
-     "tautan": "http://investortrust.id/market/121798/di-tengah-dinamika-ekonomi-lo-kheng-hong-sebut-tiga-bisnis-emiten-ini-paling-menarik",
-     "waktu": "2026-11-06T11:44:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-07T09:03:54.889Z",
+   "diambil": "2026-11-07T15:48:44.636Z",
    "berita": [
     {
      "judul": "Indef: Ekonomi Tumbuh, Petani dan UMKM Tertinggal",
@@ -104,7 +104,7 @@
      "situs": "Investortrust"
     },
     {
-     "judul": "Pemerintah Indonesia Dikabarkan Terbitkan Sukuk Global Senilai US$ 3 Miliar",
+     "judul": "Pemerintah Indonesia Terbitkan Sukuk Global Senilai US$ 3 Miliar",
      "tautan": "http://investortrust.id/macro/121793/pemerintah-indonesia-dikabarkan-terbitkan-sukuk-global-senilai-us-3-miliar",
      "waktu": "2026-11-06T10:49:00.000Z",
      "situs": "Investortrust"
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-07T09:03:54.889Z",
+   "diambil": "2026-11-07T15:48:44.636Z",
    "berita": [
     {
      "judul": "AI stocks climb after trillions wiped from market values",
