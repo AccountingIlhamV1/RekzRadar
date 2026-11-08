@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-08T16:27:43.228Z",
+ "diperbarui": "2026-11-08T20:40:33.929Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,7 +7,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-08T16:27:43.228Z",
+   "diambil": "2026-11-08T20:40:33.929Z",
    "berita": [
     {
      "judul": "Perkuat Komunikasi dengan Investor, Trisula International (TRIS) Buka ‘Booth’ di CMSE 2026",
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-08T16:27:43.228Z",
    "berita": [
     {
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-08T16:27:43.228Z",
+   "diambil": "2026-11-08T20:40:33.929Z",
    "berita": [
     {
      "judul": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
