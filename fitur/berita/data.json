@@ -1,12 +1,12 @@
 {
- "diperbarui": "2026-11-07T23:16:24.576Z",
+ "diperbarui": "2026-11-08T02:36:33.571Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-07T23:16:24.576Z",
    "berita": [
     {
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-07T23:16:24.576Z",
    "berita": [
     {
@@ -147,8 +147,14 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-07T23:16:24.576Z",
+   "diambil": "2026-11-08T02:36:33.571Z",
    "berita": [
+    {
+     "judul": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-07T23:02:35.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "AI stocks climb after trillions wiped from market values",
      "tautan": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
@@ -174,15 +180,15 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Elon Musk appears to signal the end of the road for Cybertruck",
-     "tautan": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-06T21:49:50.000Z",
-     "situs": "BBC News"
-    },
-    {
      "judul": "The engine parts that 'fight the laws of the universe'",
      "tautan": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-06T00:06:06.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Elon Musk appears to signal the end of the road for Cybertruck",
+     "tautan": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-06T21:49:50.000Z",
      "situs": "BBC News"
     },
     {
@@ -231,12 +237,6 @@
      "judul": "Pound rises to its highest level since the Brexit referendum",
      "tautan": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-05T04:21:35.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Welsh aviation firm AerFin bought in £475m deal",
-     "tautan": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-05T11:01:06.000Z",
      "situs": "BBC News"
     }
    ]
