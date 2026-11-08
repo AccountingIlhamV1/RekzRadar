@@ -1,14 +1,32 @@
 {
- "diperbarui": "2026-11-08T02:36:33.571Z",
+ "diperbarui": "2026-11-08T09:44:25.180Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-07T23:16:24.576Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-08T09:44:25.180Z",
    "berita": [
+    {
+     "judul": "Cetak Rekor Baru, Pengunjung CMSE 2026 Capai 15.372 Orang",
+     "tautan": "http://investortrust.id/market/121887/cetak-rekor-baru-pengunjung-cmse-2026-capai-15372-orang",
+     "waktu": "2026-11-08T08:17:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Indonesia Capital Market Fundraising Hits Rp 197.24 Trillion as Bond Issuance Outshines Sluggish IPO Activity",
+     "tautan": "http://investortrust.id/market/121877/indonesia-capital-market-fundraising-hits-rp-19724-trillion-as-bond-issuance-outshines-sluggish-ipo-activity",
+     "waktu": "2026-11-08T02:55:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Indonesia Industrial Estate Holding Nets Rp 2.5 Trillion in British and Dutch Investment Pledges in London",
+     "tautan": "http://investortrust.id/market/121876/indonesia-industrial-estate-holding-nets-rp-25-trillion-in-british-and-dutch-investment-pledges-in-london",
+     "waktu": "2026-11-08T02:40:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Emisi Obligasi dan ‘Rights Issue’ Tembus Rp195,08 Triliun",
      "tautan": "http://investortrust.id/market/121858/emisi-obligasi-dan-rights-issue-tembus-rp195-08-triliun",
@@ -50,24 +68,6 @@
      "tautan": "http://investortrust.id/market/121831/indonesia-government-debt-reaches-rp-10-32693-trillion-in-q3-as-ratio-to-gdp-eases-to-403",
      "waktu": "2026-11-07T02:26:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Jadwal Lengkap MSCI: Review November, Penentuan Status Juni 2027",
-     "tautan": "http://investortrust.id/market/121827/jadwal-lengkap-msci-review-november-penentuan-status-juni-2027",
-     "waktu": "2026-11-07T02:09:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Indonesia’s Warren Buffett Reveals Five Stock Selection Rules and Playbook for Surviving Five Financial Crises",
-     "tautan": "http://investortrust.id/market/121826/indonesias-warren-buffett-reveals-five-stock-selection-rules-and-playbook-for-surviving-five-financial-crises",
-     "waktu": "2026-11-07T02:07:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "IHSG Bergerak Dramatis Pekan Ini, Sempat Sentuh Level Terendah 4.824",
-     "tautan": "http://investortrust.id/market/121822/ihsg-bergerak-dramatis-pekan-ini-sempat-sentuh-level-terendah-4824",
-     "waktu": "2026-11-07T01:33:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -75,10 +75,16 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-07T23:16:24.576Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-08T09:44:25.180Z",
    "berita": [
+    {
+     "judul": "Pemerintah Umbar Diskon Tiket Transportasi Sambut Libur Nataru 2026-2027, Sila Cek Besarannya",
+     "tautan": "http://investortrust.id/macro/121883/pemerintah-umbar-diskon-tiket-transportasi-sambut-libur-nataru-2026-2027-sila-cek-besarannya",
+     "waktu": "2026-11-08T05:22:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Indef: Ekonomi Tumbuh, Petani dan UMKM Tertinggal",
      "tautan": "http://investortrust.id/macro/121846/indef-ekonomi-tumbuh-petani-dan-umkm-tertinggal",
@@ -132,12 +138,6 @@
      "tautan": "http://investortrust.id/macro/121775/16-bank-ditunjuk-tampung-dhe-sda-ini-daftarnya",
      "waktu": "2026-11-06T08:41:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Pemerintah Perluas Relaksasi DHE SDA, Jepang hingga Uni Eropa Masuk",
-     "tautan": "http://investortrust.id/macro/121771/pemerintah-perluas-relaksasi-dhe-sda-jepang-hingga-uni-eropa-masuk",
-     "waktu": "2026-11-06T08:29:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-08T02:36:33.571Z",
+   "diambil": "2026-11-08T09:44:25.180Z",
    "berita": [
     {
      "judul": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
