@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-08T20:40:33.929Z",
+ "diperbarui": "2026-11-09T00:22:01.879Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,20 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-08T20:40:33.929Z",
+   "diambil": "2026-11-09T00:22:01.879Z",
    "berita": [
+    {
+     "judul": "Begini Prospek dan Target Terbaru Saham Indofood CBP (ICBP), Sahamnya Layak Diakumulasi?",
+     "tautan": "http://investortrust.id/market/121914/begini-prospek-dan-target-terbaru-saham-indofood-cbp-icbp-sahamnya-layak-diakumulasi",
+     "waktu": "2026-11-08T23:36:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "IHSG Berpeluang Lanjutkan Rebound, Saham BBCA hingga UNVR Layak Dilirik",
+     "tautan": "http://investortrust.id/market/121912/ihsg-berpeluang-lanjutkan-rebound-saham-bbca-hingga-unvr-layak-dilirik",
+     "waktu": "2026-11-08T22:35:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Perkuat Komunikasi dengan Investor, Trisula International (TRIS) Buka ‘Booth’ di CMSE 2026",
      "tautan": "http://investortrust.id/market/121902/perkuat-komunikasi-dengan-investor-trisula-international-tris-buka-booth-di-cmse-2026",
@@ -56,18 +68,6 @@
      "tautan": "http://investortrust.id/market/121835/bank-di-paraguay-kolaps-permintaan-stablecoin-usdt-melonjak",
      "waktu": "2026-11-07T02:34:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Astra International Target Price Raised to Rp 6,950 on Automotive Recovery and Foreign Inflow Support",
-     "tautan": "http://investortrust.id/market/121833/astra-international-target-price-raised-to-rp-6-950-on-automotive-recovery-and-foreign-inflow-support",
-     "waktu": "2026-11-07T02:32:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Industri Kripto di Asia Dibayangi Peningkatan Serangan Siber",
-     "tautan": "http://investortrust.id/market/121832/industri-kripto-di-asia-dibayangi-peningkatan-serangan-siber",
-     "waktu": "2026-11-07T02:26:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -75,10 +75,22 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-08T16:27:43.228Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-09T00:22:01.879Z",
    "berita": [
+    {
+     "judul": "Inilah Analisis Ekonom Prasasti, Mengapa Indonesia Sulit Menembus Pertumbuhan 6%",
+     "tautan": "http://investortrust.id/macro/121905/inilah-analisis-ekonom-prasasti-mengapa-indonesia-sulit-menembus-pertumbuhan-6",
+     "waktu": "2026-11-08T23:02:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Jangan Bertengkar Gara-gara Satu Jam",
+     "tautan": "http://investortrust.id/macro/121906/jangan-bertengkar-gara-gara-satu-jam",
+     "waktu": "2026-11-08T22:55:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Pemerintah Umbar Diskon Tiket Transportasi Sambut Libur Nataru 2026-2027, Sila Cek Besarannya",
      "tautan": "http://investortrust.id/macro/121883/pemerintah-umbar-diskon-tiket-transportasi-sambut-libur-nataru-2026-2027-sila-cek-besarannya",
@@ -126,18 +138,6 @@
      "tautan": "http://investortrust.id/macro/121777/cadangan-devisa-oktober-2026-naik-ke-us-146-8-miliar",
      "waktu": "2026-11-06T09:10:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Capai Porsi 40,3% dari PDB, Posisi Utang Pemerintah per 30 September 2026 Tercatat Rp 10.326,93 Triliun",
-     "tautan": "http://investortrust.id/macro/121776/capai-porsi-40-3-dari-pdb-posisi-utang-pemerintah-per-30-september-2026-tercatat-rp-10326-93-triliun",
-     "waktu": "2026-11-06T09:01:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "16 Bank Ditunjuk Tampung DHE SDA, Ini Daftarnya",
-     "tautan": "http://investortrust.id/macro/121775/16-bank-ditunjuk-tampung-dhe-sda-ini-daftarnya",
-     "waktu": "2026-11-06T08:41:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,8 +147,20 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-08T20:40:33.929Z",
+   "diambil": "2026-11-09T00:22:01.879Z",
    "berita": [
+    {
+     "judul": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+     "tautan": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-09T00:16:49.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Doing these things now will help you save money at Christmas",
+     "tautan": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-09T00:09:14.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
      "tautan": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
@@ -225,18 +237,6 @@
      "judul": "Three ways the interest rate rise could affect you",
      "tautan": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-05T13:08:30.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-05T15:27:09.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-05T09:46:32.000Z",
      "situs": "BBC News"
     }
    ]
