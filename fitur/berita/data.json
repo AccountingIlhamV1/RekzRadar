@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-09T17:11:11.196Z",
+ "diperbarui": "2026-11-10T00:47:00.248Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,26 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-09T17:11:11.196Z",
+   "diambil": "2026-11-10T00:47:00.248Z",
    "berita": [
+    {
+     "judul": "BEI Delisting 18 Saham Mulai Hari Ini, Ada SRIL, TELE, dan COWL",
+     "tautan": "http://investortrust.id/market/122021/bei-delisting-18-saham-mulai-hari-ini-ada-sril-tele-dan-cowl",
+     "waktu": "2026-11-10T00:18:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Prospek Timah Makin Cerah, Target Harga Saham TINS Naik Jadi Rp 5.000",
+     "tautan": "http://investortrust.id/market/122016/prospek-timah-makin-cerah-target-harga-saham-tins-naik-jadi-rp-5000",
+     "waktu": "2026-11-09T23:47:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "IHSG Bisa Lanjutkan Penguatan, Saham BBTN hingga INCO Direkomendasikan Beli",
+     "tautan": "http://investortrust.id/market/122014/ihsg-bisa-lanjutkan-penguatan-saham-bbtn-hingga-inco-direkomendasikan-beli",
+     "waktu": "2026-11-09T22:48:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Pemodal Asing Kembali Net Buy, Saahm BBCA dan ASII Dibidik",
      "tautan": "http://investortrust.id/market/121997/pemodal-asing-kembali-net-buy-saahm-bbca-dan-asii-dibidik",
@@ -50,24 +68,6 @@
      "tautan": "http://investortrust.id/market/121962/bank-rakyat-indonesia-q3-profit-surges-168-to-rp-482-trillion-on-strong-loan-expansion-and-cheap-funding-gains",
      "waktu": "2026-11-09T07:00:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Bitget Terapkan Leverage Bertingkat untuk 21 Pasangan Forex CFD",
-     "tautan": "http://investortrust.id/market/121951/bitget-terapkan-leverage-bertingkat-untuk-21-pasangan-forex-cfd",
-     "waktu": "2026-11-09T06:07:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "IHSG Sesi I Ditutup Melesat 41 Poin, Lima Saham Ditutup Melesat hingga ARA",
-     "tautan": "http://investortrust.id/market/121944/ihsg-sesi-i-ditutup-melesat-41-poin-lima-saham-ditutup-melesat-hingga-ara",
-     "waktu": "2026-11-09T05:15:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Usai Cetak Kenaikan Laba 16,5%, Avia Avian (AVIA) Bagikan Dividen Interim Rp 700 Miliar",
-     "tautan": "http://investortrust.id/market/121936/usai-cetak-kenaikan-laba-16-5-avia-avian-avia-bagikan-dividen-interim-rp-700-miliar",
-     "waktu": "2026-11-09T03:36:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-09T17:11:11.196Z",
+   "diambil": "2026-11-10T00:47:00.248Z",
    "berita": [
     {
      "judul": "Pemerintah akan Perluas Target Insentif PPh 21 DTP pada 2027",
@@ -147,12 +147,36 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-09T17:11:11.196Z",
+   "diambil": "2026-11-10T00:47:00.248Z",
    "berita": [
+    {
+     "judul": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-10T00:34:53.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-09T19:58:01.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+     "tautan": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-09T21:52:28.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Civil servant who secretly held five jobs found guilty of fraud",
      "tautan": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-09T17:09:42.000Z",
+     "waktu": "2026-11-09T17:17:16.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "How a civil servant got away with juggling five jobs for so long",
+     "tautan": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-09T18:40:31.000Z",
      "situs": "BBC News"
     },
     {
@@ -164,19 +188,19 @@
     {
      "judul": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
      "tautan": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-09T15:46:20.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-     "tautan": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-09T07:10:11.000Z",
+     "waktu": "2026-11-09T23:51:22.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "Doing these things now will help you save money at Christmas",
      "tautan": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-09T00:09:14.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+     "tautan": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-09T07:10:11.000Z",
      "situs": "BBC News"
     },
     {
@@ -213,30 +237,6 @@
      "judul": "How does it affect me if share prices fall?",
      "tautan": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-06T09:21:50.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-06T17:19:38.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Elon Musk appears to signal the end of the road for Cybertruck",
-     "tautan": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-06T21:49:50.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "PM tells firms to publish salaries in job adverts ahead of new law",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-06T15:25:43.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "AI stocks climb after trillions wiped from market values",
-     "tautan": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-06T21:06:25.000Z",
      "situs": "BBC News"
     }
    ]
