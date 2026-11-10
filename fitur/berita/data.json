@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-10T15:57:46.150Z",
+ "diperbarui": "2026-11-10T21:39:41.510Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-10T15:57:46.150Z",
+   "diambil": "2026-11-10T21:39:41.510Z",
    "berita": [
+    {
+     "judul": "BEI Bongkar Transaksi 3 Saham Ini, Investigasi Ditargetkan Rampung 45 Hari",
+     "tautan": "http://investortrust.id/market/122131/bei-bongkar-transaksi-3-saham-ini-investigasi-ditargetkan-rampung-45-hari",
+     "waktu": "2026-11-10T15:49:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "BEI Ubah Aturan HSC, Kini 383 Saham Terancam Masuk Radar Pengawasan",
      "tautan": "http://investortrust.id/market/122112/bei-perluas-daftar-hsc-kini-383-saham-terancam-masuk-radar-pengawasan",
@@ -62,12 +68,6 @@
      "tautan": "http://investortrust.id/market/122084/indonesian-vice-president-gibran-submits-resignation-to-president-prabowo-amid-diploma-dispute",
      "waktu": "2026-11-10T08:32:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "BP Follows Shell in Exiting Indonesian Gas Station Retail as Local Partners Take Full Control",
-     "tautan": "http://investortrust.id/market/122082/bp-follows-shell-in-exiting-indonesian-gas-station-retail-as-local-partners-take-full-control",
-     "waktu": "2026-11-10T08:23:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-10T15:57:46.150Z",
+   "diambil": "2026-11-10T21:39:41.510Z",
    "berita": [
     {
      "judul": "Eksportir Asal 8 Negara Ini Dapat Perlakuan Khusus Penempatan DHE SDA",
@@ -147,24 +147,24 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-10T15:57:46.150Z",
+   "diambil": "2026-11-10T21:39:41.510Z",
    "berita": [
     {
-     "judul": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+     "judul": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+     "tautan": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-10T21:06:04.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
      "tautan": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-10T14:46:50.000Z",
+     "waktu": "2026-11-10T17:56:12.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
      "tautan": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-10T15:10:20.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-10T08:23:21.000Z",
      "situs": "BBC News"
     },
     {
@@ -176,7 +176,7 @@
     {
      "judul": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
      "tautan": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-10T09:57:49.000Z",
+     "waktu": "2026-11-10T17:04:55.000Z",
      "situs": "BBC News"
     },
     {
@@ -189,6 +189,12 @@
      "judul": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
      "tautan": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-10T09:23:55.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-10T08:23:21.000Z",
      "situs": "BBC News"
     },
     {
@@ -231,12 +237,6 @@
      "judul": "Civil servant who secretly held five jobs found guilty of fraud",
      "tautan": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-10T13:39:28.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Poundland unable to buy new stock as fears over collapse grow",
-     "tautan": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-09T16:46:40.000Z",
      "situs": "BBC News"
     }
    ]
