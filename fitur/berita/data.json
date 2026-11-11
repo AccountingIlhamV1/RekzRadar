@@ -1,12 +1,12 @@
 {
- "diperbarui": "2026-11-11T16:46:54.200Z",
+ "diperbarui": "2026-11-11T23:14:31.575Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-11T16:46:54.200Z",
    "berita": [
     {
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-11T16:46:54.200Z",
    "berita": [
     {
@@ -147,18 +147,24 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-11T16:46:54.200Z",
+   "diambil": "2026-11-11T23:14:31.575Z",
    "berita": [
     {
      "judul": "Poundland set for more time to secure a rescue deal as emergency talks continue",
      "tautan": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-11T10:03:34.000Z",
+     "waktu": "2026-11-11T22:08:56.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "Christmas toy rush being driven by squishies and building sets",
      "tautan": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-11T07:52:05.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-11T21:42:20.000Z",
      "situs": "BBC News"
     },
     {
@@ -174,15 +180,15 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-10T15:10:20.000Z",
-     "situs": "BBC News"
-    },
-    {
      "judul": "Robot vessels take on the dangerous work of mine hunting",
      "tautan": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-11T00:19:13.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-10T15:10:20.000Z",
      "situs": "BBC News"
     },
     {
@@ -231,12 +237,6 @@
      "judul": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
      "tautan": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-09T19:58:01.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-     "tautan": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-09T21:52:28.000Z",
      "situs": "BBC News"
     }
    ]
