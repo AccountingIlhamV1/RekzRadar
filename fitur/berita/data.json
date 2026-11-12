@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-12T12:13:33.152Z",
+ "diperbarui": "2026-11-12T20:13:16.200Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,32 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-12T12:13:33.152Z",
+   "diambil": "2026-11-12T20:13:16.200Z",
    "berita": [
+    {
+     "judul": "IHSG Berpeluang Tembus 6.000 Akhir 2026, Sejumlah Sentimen Ini Jadi Katalis",
+     "tautan": "http://investortrust.id/market/122403/ihsg-berpeluang-tembus-6000-akhir-2026-sejumlah-sentimen-ini-jadi-katalis",
+     "waktu": "2026-11-12T13:20:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "IHSG Menguat 2,6% Usai Pengumuman MSCI, BEI Sebut Pasar Merespons Positif",
+     "tautan": "http://investortrust.id/market/122402/ihsg-menguat-2-6-usai-pengumuman-msci-bei-sebut-pasar-merespons-positif",
+     "waktu": "2026-11-12T13:10:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Nawasena Resmi Kuasai 66,58% Saham IDEA, Rogoh Kocek Rp 38 Miliar",
+     "tautan": "http://investortrust.id/market/122390/nawasena-resmi-kuasai-66-58-saham-idea-rogoh-kocek-rp-38-miliar",
+     "waktu": "2026-11-12T12:11:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "INDODAX Soroti Ancaman Siber Berbasis AI, Keamanan Aset Kripto Jadi Perhatian",
+     "tautan": "http://investortrust.id/market/122392/indodax-soroti-ancaman-siber-berbasis-ai-keamanan-aset-kripto-jadi-perhatian",
+     "waktu": "2026-11-12T12:00:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Kalimasada Soroti Tantangan Banjir Informasi hingga Integrasi AI di Pasar Kripto",
      "tautan": "http://investortrust.id/market/122388/kalimasada-soroti-tantangan-banjir-informasi-hingga-integrasi-ai-di-pasar-kripto",
@@ -44,30 +68,6 @@
      "tautan": "http://investortrust.id/market/122352/pasar-saham-sambut-positif-sikap-gibran",
      "waktu": "2026-11-12T07:26:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Wamenko Dradjad Siapkan 3 Jurus Pembenahan Pasar Modal, Ini Rinciannya",
-     "tautan": "http://investortrust.id/market/122348/wamenko-dradjad-siapkan-3-jurus-pembenahan-pasar-modal-ini-rinciannya",
-     "waktu": "2026-11-12T06:51:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Pertamina First-Half Profit Jumps 62% to $1.9 Billion Despite Rokan Outages and Global Supply Shocks",
-     "tautan": "http://investortrust.id/market/122347/pertamina-first-half-profit-jumps-62-to-19-billion-despite-rokan-outages-and-global-supply-shocks",
-     "waktu": "2026-11-12T06:49:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Sandiaga: Kondisi Politik Turut Pengaruhi Rencana IPO Perusahaan",
-     "tautan": "http://investortrust.id/market/122346/sandiaga-kondisi-politik-turut-pengaruhi-rencana-ipo-perusahaan",
-     "waktu": "2026-11-12T06:25:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Indonesia Stock Exchange Overhauls Market Rules, Purging 300 Closely Held Stocks from Benchmark Index",
-     "tautan": "http://investortrust.id/market/122342/indonesia-stock-exchange-overhauls-market-rules-purging-300-closely-held-stocks-from-benchmark-index",
-     "waktu": "2026-11-12T06:04:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-12T12:13:33.152Z",
+   "diambil": "2026-11-12T20:13:16.200Z",
    "berita": [
     {
      "judul": "Wamenko Dradjad: Dinamika Politik Tak Ganggu Fundamental Pasar RI",
@@ -147,12 +147,24 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-12T12:13:33.152Z",
+   "diambil": "2026-11-12T20:13:16.200Z",
    "berita": [
     {
-     "judul": "Who could replace Jensen Huang as Nvidia's chief executive?",
+     "judul": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-12T17:11:48.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
      "tautan": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-12T11:21:25.000Z",
+     "waktu": "2026-11-12T15:10:32.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Faisal Islam: Why the UK economy is surprisingly resilient",
+     "tautan": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-12T13:27:09.000Z",
      "situs": "BBC News"
     },
     {
@@ -162,21 +174,15 @@
      "situs": "BBC News"
     },
     {
+     "judul": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+     "tautan": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-12T14:29:59.000Z",
+     "situs": "BBC News"
+    },
+    {
      "judul": "Some under-25s should get fewer benefits, Milburn review to say",
      "tautan": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-12T11:53:01.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-     "tautan": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-12T00:49:05.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Office buildings emptied out but are filling up again - as homes",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-12T00:05:40.000Z",
+     "waktu": "2026-11-12T17:32:14.000Z",
      "situs": "BBC News"
     },
     {
@@ -231,12 +237,6 @@
      "judul": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
      "tautan": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-10T08:23:21.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "The superpower battle over energy – and what it means for your bills",
-     "tautan": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-10T00:08:28.000Z",
      "situs": "BBC News"
     }
    ]
