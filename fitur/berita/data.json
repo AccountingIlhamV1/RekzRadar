@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-13T16:37:04.163Z",
+ "diperbarui": "2026-11-13T22:18:47.223Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,7 +7,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-13T16:37:04.163Z",
+   "diambil": "2026-11-13T22:18:47.223Z",
    "berita": [
     {
      "judul": "Ternyata Tak Semua Saham HSC Dicoret dari IHSG, Ini Penjelasan BEI",
@@ -77,8 +77,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-13T16:37:04.163Z",
+   "diambil": "2026-11-13T22:18:47.223Z",
    "berita": [
+    {
+     "judul": "Prabowo Pimpin Ratas Bahas Ekonomi Nasional: Pertumbuhan 5,47%, Inflasi dan PMI Tetap Terjaga",
+     "tautan": "http://investortrust.id/macro/122526/prabowo-pimpin-ratas-bahas-ekonomi-nasional-pertumbuhan-5-47-inflasi-dan-pmi-tetap-terjaga",
+     "waktu": "2026-11-13T16:05:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Pemerintah Realisasikan Rp 33,69 Triliun untuk Atasi Bencana Selama 2026",
      "tautan": "http://investortrust.id/macro/122513/pemerintah-realisasikan-rp-33-69-triliun-untuk-atasi-bencana-selama-2026",
@@ -132,12 +138,6 @@
      "tautan": "http://investortrust.id/macro/122457/airlangga-tegaskan-berhentinya-gibran-tak-ganggu-ekonomi-fundamental-ri-tetap-kuat",
      "waktu": "2026-11-13T07:10:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Dampak Perang Teluk Persia, Subsidi dan Kompensasi BBM 2026 Tembus Rp415,8 Triliun",
-     "tautan": "http://investortrust.id/macro/122455/dampak-perang-teluk-persia-subsidi-dan-kompensasi-bbm-2026-tembus-rp415-8-triliun",
-     "waktu": "2026-11-13T06:59:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,12 +147,18 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-13T16:37:04.163Z",
+   "diambil": "2026-11-13T22:18:47.223Z",
    "berita": [
     {
-     "judul": "Why is the Microsoft outage lasting so long?",
+     "judul": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-13T21:14:22.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Why is Microsoft's outage lasting so long and will emails be lost?",
      "tautan": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-13T14:21:26.000Z",
+     "waktu": "2026-11-13T18:36:57.000Z",
      "situs": "BBC News"
     },
     {
@@ -162,9 +168,9 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+     "judul": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
      "tautan": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-13T15:40:08.000Z",
+     "waktu": "2026-11-13T19:53:57.000Z",
      "situs": "BBC News"
     },
     {
@@ -231,12 +237,6 @@
      "judul": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
      "tautan": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-10T22:52:15.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-     "tautan": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-10T17:56:12.000Z",
      "situs": "BBC News"
     }
    ]
