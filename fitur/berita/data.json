@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-14T02:33:35.017Z",
+ "diperbarui": "2026-11-14T09:39:43.023Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-14T02:33:35.017Z",
+   "diambil": "2026-11-14T09:39:43.023Z",
    "berita": [
+    {
+     "judul": "FTSE Russell Pertahankan Status Indonesia di Secondary Emerging Market, Apresiasi Reformasi Pasar Modal",
+     "tautan": "http://investortrust.id/market/122557/ftse-russell-pertahankan-status-pasar-modal-indonesia-di-secondary-emerging-market",
+     "waktu": "2026-11-14T05:03:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "10 Saham Top Gainers Sepekan: WMUU Melejit 81,48%, SINI Tembus Rp10.975",
      "tautan": "http://investortrust.id/market/122537/10-saham-top-gainers-sepekan-wmuu-melejit-81-48-sini-tembus-rp10975",
@@ -62,12 +68,6 @@
      "tautan": "http://investortrust.id/market/122488/di-balik-harga-rp-50-ada-asa-emiten-untuk-bangkit",
      "waktu": "2026-11-13T09:25:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "IHSG Ditutup Melambung 1,78%, Semua Sektor Saham Terbang Dipimpin Material Dasar",
-     "tautan": "http://investortrust.id/market/122484/ihsg-ditutup-melambung-1-78-semua-sektor-saham-terbang-dipimpin-material-dasar",
-     "waktu": "2026-11-13T09:17:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,8 +77,26 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-14T02:33:35.017Z",
+   "diambil": "2026-11-14T09:39:43.023Z",
    "berita": [
+    {
+     "judul": "Kemenkeu Akui Luput Proyeksi Gejolak Perang di Timur Tengah dan Gejolak Domestik",
+     "tautan": "http://investortrust.id/macro/122570/kemenkeu-akui-luput-proyeksi-gejolak-perang-di-timur-tengah-dan-gejolak-domestik",
+     "waktu": "2026-11-14T08:39:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Pembayaran Bunga Utang RI Sentuh Rp 494 Triliun per Oktober 2026",
+     "tautan": "http://investortrust.id/macro/122546/pembayaran-bunga-utang-ri-sentuh-rp-494-triliun-per-oktober-2026",
+     "waktu": "2026-11-14T04:11:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Bank Indonesia dan Tiga Bank Sentral ASEAN Sepakati Kerja Sama Transaksi Mata Uang Lokal",
+     "tautan": "http://investortrust.id/macro/122543/bank-indonesia-dan-tiga-bank-sentral-asean-sepakati-kerja-sama-transaksi-mata-uang-lokal",
+     "waktu": "2026-11-14T03:35:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Prabowo Pimpin Ratas Bahas Ekonomi Nasional: Pertumbuhan 5,47%, Inflasi dan PMI Tetap Terjaga",
      "tautan": "http://investortrust.id/macro/122526/prabowo-pimpin-ratas-bahas-ekonomi-nasional-pertumbuhan-5-47-inflasi-dan-pmi-tetap-terjaga",
@@ -120,24 +138,6 @@
      "tautan": "http://investortrust.id/macro/122466/airlangga-yakinkan-dunia-usaha-dan-diplomat-fundamental-ekonomi-indonesia-tetap-kuat",
      "waktu": "2026-11-13T07:52:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Kadin Soroti Kebutuhan Pekerjaan bagi Anak Muda, Dunia Hadapi Kekurangan 800 Juta Lapangan Kerja",
-     "tautan": "http://investortrust.id/macro/122462/kadin-soroti-kebutuhan-pekerjaan-bagi-anak-muda-dunia-hadapi-kekurangan-800-juta-lapangan-kerja",
-     "waktu": "2026-11-13T07:34:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Defisit APBN 2026 Masih dalam Target meski Subsidi dan Kompensasi Capai Rp415,8 Triliun",
-     "tautan": "http://investortrust.id/macro/122459/defisit-apbn-2026-masih-dalam-target-meski-subsidi-dan-kompensasi-capai-rp415-8-triliun",
-     "waktu": "2026-11-13T07:12:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Airlangga Tegaskan Berhentinya Gibran Tak Ganggu Ekonomi, Fundamental RI Tetap Kuat",
-     "tautan": "http://investortrust.id/macro/122457/airlangga-tegaskan-berhentinya-gibran-tak-ganggu-ekonomi-fundamental-ri-tetap-kuat",
-     "waktu": "2026-11-13T07:10:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,12 +147,12 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-14T02:33:35.017Z",
+   "diambil": "2026-11-14T09:39:43.023Z",
    "berita": [
     {
-     "judul": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+     "judul": "Microsoft says services fully restored after day-long global outage",
      "tautan": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-13T21:14:22.000Z",
+     "waktu": "2026-11-14T06:42:27.000Z",
      "situs": "BBC News"
     },
     {
