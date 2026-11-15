@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-15T14:53:08.334Z",
+ "diperbarui": "2026-11-15T20:03:24.079Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,7 +7,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-15T14:53:08.334Z",
+   "diambil": "2026-11-15T20:03:24.079Z",
    "berita": [
     {
      "judul": "FTSE Pertahankan RI di ‘Secondary Emerging Market’, Bos BEI Janji Perkuat Reformasi Pasar Modal",
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-15T14:53:08.334Z",
+   "diambil": "2026-11-15T20:03:24.079Z",
    "berita": [
     {
      "judul": "Kemenkeu Akui Luput Proyeksi Gejolak Perang di Timur Tengah dan Gejolak Domestik",
@@ -147,8 +147,20 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-15T14:53:08.334Z",
+   "diambil": "2026-11-15T20:03:24.079Z",
    "berita": [
+    {
+     "judul": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-15T14:56:21.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Minister backs legal right to job support for young people",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-15T13:06:15.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Beauty advent calendars can cost hundreds but are they value for money?",
      "tautan": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
@@ -168,15 +180,9 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Why is Microsoft's outage lasting so long and will emails be lost?",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-13T18:36:57.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-13T19:53:57.000Z",
+     "judul": "Heat pumps: How much heat does your home really need?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-13T09:29:25.000Z",
      "situs": "BBC News"
     },
     {
@@ -186,9 +192,15 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Heat pumps: How much heat does your home really need?",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-13T09:29:25.000Z",
+     "judul": "Why is Microsoft's outage lasting so long and will emails be lost?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-13T18:36:57.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-13T19:53:57.000Z",
      "situs": "BBC News"
     },
     {
@@ -225,18 +237,6 @@
      "judul": "Poundland gets more time to secure a rescue deal as emergency talks continue",
      "tautan": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-12T14:29:59.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Some under-25s should get fewer benefits, Milburn review to say",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-12T22:51:18.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Christmas toy rush being driven by squishies and building sets",
-     "tautan": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-11T07:52:05.000Z",
      "situs": "BBC News"
     }
    ]
