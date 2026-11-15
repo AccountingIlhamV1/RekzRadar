@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-15T07:23:16.714Z",
+ "diperbarui": "2026-11-15T14:53:08.334Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,26 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-15T07:23:16.714Z",
+   "diambil": "2026-11-15T14:53:08.334Z",
    "berita": [
+    {
+     "judul": "FTSE Pertahankan RI di ‘Secondary Emerging Market’, Bos BEI Janji Perkuat Reformasi Pasar Modal",
+     "tautan": "http://investortrust.id/market/122624/ftse-pertahankan-ri-di-secondary-emerging-market-bos-bei-janji-perkuat-reformasi-pasar-modal",
+     "waktu": "2026-11-15T08:58:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Percepat Reformasi Pasar Modal, Pemerintah Fokus Lindungi 34 Juta Investor",
+     "tautan": "http://investortrust.id/market/122621/percepat-reformasi-pasar-modal-pemerintah-fokus-lindungi-34-juta-investor",
+     "waktu": "2026-11-15T08:37:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Pemerintah Minta OJK dan BEI Percepat Reformasi Pasar Modal",
+     "tautan": "http://investortrust.id/market/122617/pemerintah-minta-ojk-dan-bei-percepat-reformasi-pasar-modal",
+     "waktu": "2026-11-15T08:10:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "ASEAN Opens 49th Summit in Manila With Digital Trade Push, New External Partners, and Call for Regional Unity",
      "tautan": "http://investortrust.id/market/122616/asean-opens-49th-summit-in-manila-with-digital-trade-push-new-external-partners-and-call-for-regional-unity",
@@ -50,24 +68,6 @@
      "tautan": "http://investortrust.id/market/122535/ftse-russell-hapus-14-saham-indonesia-akibat-masuk-hsc-bris-mtel-tbig-hingga-mapi-terdepak",
      "waktu": "2026-11-14T01:09:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "BEI Tampil Maksimal Pekan Ini, IHSG Melonjak 5,82% hingga Net Buy Rp 462,73 Miliar",
-     "tautan": "http://investortrust.id/market/122533/bei-tampil-maksimal-pekan-ini-ihsg-melonjak-5-82-hingga-net-buy-rp-462-73-miliar",
-     "waktu": "2026-11-13T23:54:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Ternyata Tak Semua Saham HSC Dicoret dari IHSG, Ini Penjelasan BEI",
-     "tautan": "http://investortrust.id/market/122505/ternyata-tak-semua-saham-hsc-dicoret-dari-ihsg-ini-penjelasan-bei",
-     "waktu": "2026-11-13T11:12:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Industri Kripto Masuk Fase Baru, FLOQ Soroti Pentingnya Utilitas Blockchain dan Keamanan Investor",
-     "tautan": "http://investortrust.id/market/122504/industri-kripto-masuk-fase-baru-floq-soroti-pentingnya-utilitas-blockchain-dan-keamanan-investor",
-     "waktu": "2026-11-13T11:11:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-15T07:23:16.714Z",
+   "diambil": "2026-11-15T14:53:08.334Z",
    "berita": [
     {
      "judul": "Kemenkeu Akui Luput Proyeksi Gejolak Perang di Timur Tengah dan Gejolak Domestik",
@@ -147,10 +147,10 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-15T07:23:16.714Z",
+   "diambil": "2026-11-15T14:53:08.334Z",
    "berita": [
     {
-     "judul": "Beauty advent calendars can cost hundreds - but are they value for money?",
+     "judul": "Beauty advent calendars can cost hundreds but are they value for money?",
      "tautan": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-15T00:01:07.000Z",
      "situs": "BBC News"
