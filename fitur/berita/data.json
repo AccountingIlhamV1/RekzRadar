@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-15T20:03:24.079Z",
+ "diperbarui": "2026-11-16T00:05:26.116Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-15T20:03:24.079Z",
+   "diambil": "2026-11-16T00:05:26.116Z",
    "berita": [
+    {
+     "judul": "IHSG Berpeluang Menguat Menuju 5.360, Tiga Saham Ini Layak Dilirik",
+     "tautan": "http://investortrust.id/market/122634/ihsg-berpeluang-menguat-menuju-5360-tiga-saham-ini-layak-dilirik",
+     "waktu": "2026-11-15T22:57:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "FTSE Pertahankan RI di ‘Secondary Emerging Market’, Bos BEI Janji Perkuat Reformasi Pasar Modal",
      "tautan": "http://investortrust.id/market/122624/ftse-pertahankan-ri-di-secondary-emerging-market-bos-bei-janji-perkuat-reformasi-pasar-modal",
@@ -62,12 +68,6 @@
      "tautan": "http://investortrust.id/market/122537/10-saham-top-gainers-sepekan-wmuu-melejit-81-48-sini-tembus-rp10975",
      "waktu": "2026-11-14T01:22:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "FTSE Russell Hapus 14 Saham Indonesia Gegara Masuk HSC, Ada BRIS, MTEL, TBIG hingga MAPI",
-     "tautan": "http://investortrust.id/market/122535/ftse-russell-hapus-14-saham-indonesia-akibat-masuk-hsc-bris-mtel-tbig-hingga-mapi-terdepak",
-     "waktu": "2026-11-14T01:09:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,8 +77,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-15T20:03:24.079Z",
+   "diambil": "2026-11-16T00:05:26.116Z",
    "berita": [
+    {
+     "judul": "Ekonomi Tumbuh, Rakyat Mengeluh?",
+     "tautan": "http://investortrust.id/macro/122632/ekonomi-tumbuh-rakyat-mengeluh",
+     "waktu": "2026-11-15T22:56:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Kemenkeu Akui Luput Proyeksi Gejolak Perang di Timur Tengah dan Gejolak Domestik",
      "tautan": "http://investortrust.id/macro/122570/kemenkeu-akui-luput-proyeksi-gejolak-perang-di-timur-tengah-dan-gejolak-domestik",
@@ -132,12 +138,6 @@
      "tautan": "http://investortrust.id/macro/122468/aktivitas-ekonomi-meningkat-penerimaan-pajak-tembus-rp-1796-8-triliun-per-oktober-2026",
      "waktu": "2026-11-13T08:01:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Airlangga Yakinkan Dunia Usaha dan Diplomat, Fundamental Ekonomi Indonesia Tetap Kuat",
-     "tautan": "http://investortrust.id/macro/122466/airlangga-yakinkan-dunia-usaha-dan-diplomat-fundamental-ekonomi-indonesia-tetap-kuat",
-     "waktu": "2026-11-13T07:52:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,12 +147,24 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-15T20:03:24.079Z",
+   "diambil": "2026-11-16T00:05:26.116Z",
    "berita": [
+    {
+     "judul": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-15T22:00:24.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-15T22:30:03.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
      "tautan": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-15T14:56:21.000Z",
+     "waktu": "2026-11-15T22:24:20.000Z",
      "situs": "BBC News"
     },
     {
@@ -180,18 +192,6 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Heat pumps: How much heat does your home really need?",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-13T09:29:25.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-13T00:13:35.000Z",
-     "situs": "BBC News"
-    },
-    {
      "judul": "Why is Microsoft's outage lasting so long and will emails be lost?",
      "tautan": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-13T18:36:57.000Z",
@@ -216,6 +216,18 @@
      "situs": "BBC News"
     },
     {
+     "judul": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-13T00:13:35.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Heat pumps: How much heat does your home really need?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-13T09:29:25.000Z",
+     "situs": "BBC News"
+    },
+    {
      "judul": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
      "tautan": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-12T15:10:32.000Z",
@@ -225,18 +237,6 @@
      "judul": "Faisal Islam: Why the UK economy is surprisingly resilient",
      "tautan": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-12T13:27:09.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "UK economy grows at fastest rate for more than two years",
-     "tautan": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-12T11:20:25.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Poundland gets more time to secure a rescue deal as emergency talks continue",
-     "tautan": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-12T14:29:59.000Z",
      "situs": "BBC News"
     }
    ]
