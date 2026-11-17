@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-16T16:43:58.819Z",
+ "diperbarui": "2026-11-17T00:35:03.644Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,20 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-16T16:43:58.819Z",
+   "diambil": "2026-11-17T00:35:03.644Z",
    "berita": [
+    {
+     "judul": "Proyeksi Laba PGAS Direvisi Naik hingga 35%, Bagaimana dengan Target Harganya?",
+     "tautan": "http://investortrust.id/market/122747/proyeksi-laba-pgas-direvisi-naik-hingga-35-bagaimana-dengan-target-harganya",
+     "waktu": "2026-11-17T00:07:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "IHSG Terbuka Rebound ke 5.360, Tiga Saham Dipimpin EXCL Direkomendasikan Beli",
+     "tautan": "http://investortrust.id/market/122743/ihsg-terbuka-rebound-ke-5360-tiga-saham-dipimpin-excl-direkomendasikan-beli",
+     "waktu": "2026-11-16T22:46:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Gandeng KPK, Telkom Siapkan 49 Penggerak Integritas untuk Perkuat Budaya Antikorupsi",
      "tautan": "http://investortrust.id/market/122726/gandeng-kpk-telkom-siapkan-49-penggerak-integritas-untuk-perkuat-budaya-antikorupsi",
@@ -56,18 +68,6 @@
      "tautan": "http://investortrust.id/market/122680/guncangan-nvidia-mundurnya-jensen-huang-ancaman-efek-domino-ai-hingga-ujian-ipo-anthropic",
      "waktu": "2026-11-16T07:15:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "FTSE Russell Status Retention Cushions Rupiah Slide Toward Record Lows Amid Hawkish Fed Bets",
-     "tautan": "http://investortrust.id/market/122678/ftse-russell-status-retention-cushions-rupiah-slide-toward-record-lows-amid-hawkish-fed-bets",
-     "waktu": "2026-11-16T07:01:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Astra Bidik Realokasi Aset Rp10 Triliun",
-     "tautan": "http://investortrust.id/market/122671/astra-bidik-realokasi-aset-rp10-triliun",
-     "waktu": "2026-11-16T05:39:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-16T16:43:58.819Z",
+   "diambil": "2026-11-17T00:35:03.644Z",
    "berita": [
     {
      "judul": "LMAN Kelola 335 Aset Negara, dari Properti Hingga Kilang LNG",
@@ -147,12 +147,36 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-16T16:43:58.819Z",
+   "diambil": "2026-11-17T00:35:03.644Z",
    "berita": [
     {
-     "judul": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+     "judul": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+     "tautan": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-16T22:32:47.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "California sues OpenAI over Hugging Face attack",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-16T23:12:24.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+     "tautan": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-17T00:00:03.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "We couldn't afford a house alone, so we bought one with strangers",
+     "tautan": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-17T00:00:02.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
      "tautan": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-16T15:31:20.000Z",
+     "waktu": "2026-11-16T22:21:27.000Z",
      "situs": "BBC News"
     },
     {
@@ -162,21 +186,27 @@
      "situs": "BBC News"
     },
     {
+     "judul": "Customers report service outages at major US banks",
+     "tautan": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-17T00:18:01.000Z",
+     "situs": "BBC News"
+    },
+    {
      "judul": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
      "tautan": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-16T15:40:16.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "Intel sued by investors after PC sales slump hits share price",
-     "tautan": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-16T03:04:01.000Z",
-     "situs": "BBC News"
-    },
-    {
      "judul": "Gas starts flowing from Jackdaw after government green light",
      "tautan": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-16T06:24:08.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Intel sued by investors after PC sales slump hits share price",
+     "tautan": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-16T03:04:01.000Z",
      "situs": "BBC News"
     },
     {
@@ -207,36 +237,6 @@
      "judul": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
      "tautan": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-13T23:00:31.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Microsoft says services fully restored after day-long global outage",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-14T06:42:27.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Why is Microsoft's outage lasting so long and will emails be lost?",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-13T18:36:57.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-13T19:53:57.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-13T03:57:01.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Burnham says 'win-win' deal can be agreed between UK and EU",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-13T01:17:58.000Z",
      "situs": "BBC News"
     }
    ]
