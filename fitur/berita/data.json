@@ -1,12 +1,12 @@
 {
- "diperbarui": "2026-11-17T00:35:03.644Z",
+ "diperbarui": "2026-11-17T08:42:16.409Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-17T00:35:03.644Z",
    "berita": [
     {
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-17T00:35:03.644Z",
    "berita": [
     {
@@ -147,24 +147,18 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-17T00:35:03.644Z",
+   "diambil": "2026-11-17T08:42:16.409Z",
    "berita": [
     {
-     "judul": "'Complete system reset' needed to get 440,000 young people into work, says major review",
-     "tautan": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-16T22:32:47.000Z",
+     "judul": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
+     "tautan": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-17T07:21:37.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "California sues OpenAI over Hugging Face attack",
+     "judul": "OpenAI sued by California over Hugging Face attack",
      "tautan": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-16T23:12:24.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
-     "tautan": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T00:00:03.000Z",
      "situs": "BBC News"
     },
     {
@@ -174,9 +168,9 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+     "judul": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
      "tautan": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-16T22:21:27.000Z",
+     "waktu": "2026-11-17T02:37:53.000Z",
      "situs": "BBC News"
     },
     {
@@ -237,6 +231,12 @@
      "judul": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
      "tautan": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-13T23:00:31.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Microsoft says services fully restored after day-long global outage",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-14T06:42:27.000Z",
      "situs": "BBC News"
     }
    ]
