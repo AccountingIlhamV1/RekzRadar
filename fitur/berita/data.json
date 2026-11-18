@@ -1,12 +1,12 @@
 {
- "diperbarui": "2026-11-18T17:25:16.657Z",
+ "diperbarui": "2026-11-18T23:28:14.282Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-18T17:25:16.657Z",
    "berita": [
     {
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-18T17:25:16.657Z",
    "berita": [
     {
@@ -147,8 +147,20 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-18T17:25:16.657Z",
+   "diambil": "2026-11-18T23:28:14.282Z",
    "berita": [
+    {
+     "judul": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T21:28:08.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Gilts v kilts: What is happening with Scottish government bonds?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T23:01:09.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
      "tautan": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
@@ -165,6 +177,12 @@
      "judul": "The seven Anthropic founders who are about to become multi-billionaires",
      "tautan": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-18T13:55:14.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Europe plans to catch the next computer chip wave",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T00:00:24.000Z",
      "situs": "BBC News"
     },
     {
@@ -189,12 +207,6 @@
      "judul": "Government backs welfare shake-up to prevent 'lost generation'",
      "tautan": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-17T18:43:05.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Europe plans to catch the next computer chip wave",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T00:00:24.000Z",
      "situs": "BBC News"
     },
     {
@@ -225,18 +237,6 @@
      "judul": "Where are the most jobs for 18-24 year-olds?",
      "tautan": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-17T12:35:53.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T15:56:04.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "We couldn't afford a house alone, so we bought one with strangers",
-     "tautan": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T00:00:02.000Z",
      "situs": "BBC News"
     }
    ]
