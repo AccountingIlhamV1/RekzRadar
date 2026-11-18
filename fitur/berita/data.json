@@ -1,12 +1,12 @@
 {
- "diperbarui": "2026-11-18T00:48:06.656Z",
+ "diperbarui": "2026-11-18T08:05:56.003Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-18T00:48:06.656Z",
    "berita": [
     {
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-18T00:48:06.656Z",
    "berita": [
     {
@@ -147,36 +147,30 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-18T00:48:06.656Z",
+   "diambil": "2026-11-18T08:05:56.003Z",
    "berita": [
     {
-     "judul": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+     "judul": "Higher petrol and diesel prices push UK inflation to 3.6%",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T07:40:54.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Nvidia says it won't reinstate Huang as it reports soaring sales",
      "tautan": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T00:28:01.000Z",
+     "waktu": "2026-11-18T01:18:18.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T18:24:21.000Z",
+     "judul": "How important are Nvidia and Jensen Huang to the US economy?",
+     "tautan": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T06:04:21.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "Government backs welfare shake-up to prevent 'lost generation'",
-     "tautan": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T18:43:05.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T15:56:04.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Where are the most jobs for 18-24 year-olds?",
-     "tautan": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T12:35:53.000Z",
+     "judul": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T04:00:54.000Z",
      "situs": "BBC News"
     },
     {
@@ -186,9 +180,45 @@
      "situs": "BBC News"
     },
     {
+     "judul": "Government backs welfare shake-up to prevent 'lost generation'",
+     "tautan": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-17T18:43:05.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Security flaw found in Java, world's third-largest programming language",
+     "tautan": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T05:33:13.000Z",
+     "situs": "BBC News"
+    },
+    {
      "judul": "Speed camera fault may have allowed drivers to escape fines",
      "tautan": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-17T20:04:54.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Waymo pulls driverless taxis from all US freeways",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T03:07:22.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+     "tautan": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-17T23:02:12.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Where are the most jobs for 18-24 year-olds?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-17T12:35:53.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-17T15:56:04.000Z",
      "situs": "BBC News"
     },
     {
@@ -204,39 +234,9 @@
      "situs": "BBC News"
     },
     {
-     "judul": "US government confirms investigation into tech firm Megaspeed",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T11:17:32.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Government must act now or lose Royal Mail, former minister warns",
-     "tautan": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T12:43:07.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "OpenAI sued by California over Hugging Face attack",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-16T23:12:24.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-     "tautan": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T02:37:53.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-16T13:19:33.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "US bank services returning to normal after major outage",
-     "tautan": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T15:04:24.000Z",
+     "judul": "How a sex scandal at Nvidia is putting pressure on the White House",
+     "tautan": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-13T12:22:30.000Z",
      "situs": "BBC News"
     }
    ]
