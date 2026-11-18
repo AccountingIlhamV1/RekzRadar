@@ -1,72 +1,72 @@
 {
- "diperbarui": "2026-11-18T08:05:56.003Z",
+ "diperbarui": "2026-11-18T17:25:16.657Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-18T00:48:06.656Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-18T17:25:16.657Z",
    "berita": [
     {
-     "judul": "Wall Street Akumulasi ETF Bitcoin Rp 76,7 Triliun pada Kuartal III 2026",
-     "tautan": "http://investortrust.id/market/122881/wall-street-akumulasi-etf-bitcoin-rp-76-7-triliun-pada-kuartal-iii-2026",
-     "waktu": "2026-11-18T00:08:00.000Z",
+     "judul": "Mirae Asset Pertahankan Rekomendasi Beli EXCL, Target Harga Masih Rp 4.300",
+     "tautan": "http://investortrust.id/market/122990/mirae-asset-pertahankan-rekomendasi-beli-excl-target-harga-masih-rp-4300",
+     "waktu": "2026-11-18T12:44:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Tertekan 57% Sejak Awal Tahun, Saham GOTO Masih Punya Peluang Bangkit?",
-     "tautan": "http://investortrust.id/market/122878/tertekan-57-sejak-awal-tahun-saham-goto-masih-punya-peluang-bangkit",
-     "waktu": "2026-11-17T23:34:00.000Z",
+     "judul": "BRI Danareksa Sekuritas Gandeng Pinnacle, Tambah Produk Investasi di BRIGHTS",
+     "tautan": "http://investortrust.id/market/122987/bri-danareksa-sekuritas-gandeng-pinnacle-tambah-produk-investasi-di-brights",
+     "waktu": "2026-11-18T12:38:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Arah Investasi di Pasar Keuangan dan Strategi Perusahaan 2027",
-     "tautan": "http://investortrust.id/market/122847/arah-investasi-di-pasar-keuangan-dan-strategi-perusahaan-2027",
-     "waktu": "2026-11-17T23:06:00.000Z",
+     "judul": "Aturan Stablecoin Masih Dimatangkan, OJK Tegaskan Bukan Jadi Pengganti Rupiah",
+     "tautan": "http://investortrust.id/market/122980/aturan-stablecoin-masih-dimatangkan-ojk-tegaskan-bukan-jadi-pengganti-rupiah",
+     "waktu": "2026-11-18T12:16:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "IHSG Diprediksi Lanjutkan Konsolidasi, Tiga Saham Dipimpin VKTR Layak Dilirik",
-     "tautan": "http://investortrust.id/market/122876/ihsg-diprediksi-lanjutkan-konsolidasi-tiga-saham-dipimpin-vktr-layak-dilirik",
-     "waktu": "2026-11-17T22:50:00.000Z",
+     "judul": "Investor Kripto Didominasi Anak Muda, PINTU Tekankan Literasi dan Profil Risiko",
+     "tautan": "http://investortrust.id/market/122977/investor-kripto-didominasi-anak-muda-pintu-tekankan-literasi-dan-profil-risiko",
+     "waktu": "2026-11-18T12:03:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Net Sell Berlanjut Rp 484,08 Miliar, Saham BBCA hingga BRPT Diobral Investor Asing",
-     "tautan": "http://investortrust.id/market/122839/net-sell-berlanjut-rp-484-08-miliar-saham-bbca-hingga-brpt-diobral-investor-asing",
-     "waktu": "2026-11-17T11:06:00.000Z",
+     "judul": "Saat Rupiah Tertekan dan Yield Obligasi Naik, Reksa Dana Ini Menarik Dipertimbangkan",
+     "tautan": "http://investortrust.id/market/122971/saat-rupiah-tertekan-dan-yield-obligasi-naik-reksa-dana-ini-menarik-dipertimbangkan",
+     "waktu": "2026-11-18T11:17:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Pendapatan InfraNexia Tembus Rp 10,5 Triliun, Pelanggan Eksternal Bertambah 22,1%",
-     "tautan": "http://investortrust.id/market/122821/pendapatan-infranexia-tembus-rp-10-5-triliun-pelanggan-eksternal-bertambah-22-1",
-     "waktu": "2026-11-17T09:27:00.000Z",
+     "judul": "BEI Ungkap Alasan Cabut Izin Broker Paramitra Alfa Sekuritas, Status Pemegang Saham Tetap",
+     "tautan": "http://investortrust.id/market/122968/bei-ungkap-alasan-cabut-izin-broker-paramitra-alfa-sekuritas-status-pemegang-saham-tetap",
+     "waktu": "2026-11-18T11:11:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Terseret Sentimen Chip Nvidia, Saham MGLV Ambles 9,88% ke Bawah Harga Rights Issue",
-     "tautan": "http://investortrust.id/market/122818/terseret-sentimen-chip-nvidia-saham-mglv-ambles-9-88-ke-bawah-harga-rights-issue",
-     "waktu": "2026-11-17T09:16:00.000Z",
+     "judul": "BRI Danareksa Sekuritas Kantongi 5 Calon Emiten IPO, Siap Ramaikan Bursa pada 2027",
+     "tautan": "http://investortrust.id/market/122966/bri-danareksa-sekuritas-kantongi-5-calon-emiten-ipo-siap-ramaikan-bursa-pada-2027",
+     "waktu": "2026-11-18T11:08:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "IHSG Ditutup Berbalik Turun 0,30%, Sebaliknya Saham AREA, TRIN, hingga MORA Cetak ARA",
-     "tautan": "http://investortrust.id/market/122816/ihsg-ditutup-berbalik-turun-0-30-sebaliknya-saham-area-trin-hingga-mora-cetak-ara",
-     "waktu": "2026-11-17T09:10:00.000Z",
+     "judul": "Investor Asing Borong BBCA Rp 689 Miliar di Tengah IHSG Anjlok, Sebaliknya BBRI Dilepas",
+     "tautan": "http://investortrust.id/market/122964/investor-asing-borong-bbca-rp-689-miliar-di-tengah-ihsg-anjlok-sebaliknya-bbri-dilepas",
+     "waktu": "2026-11-18T11:06:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Sinarmas AM Jadi Lender Pertama, KPEI Perluas Layanan Pinjam Meminjam Efek Reksa Dana",
-     "tautan": "http://investortrust.id/market/122809/sinarmas-am-jadi-lender-pertama-kpei-perluas-layanan-pinjam-meminjam-efek-reksa-dana",
-     "waktu": "2026-11-17T08:39:00.000Z",
+     "judul": "Ajaib Kripto Hadirkan ‘Tokenized Stock’ Perpetual SpaceX, NVIDIA, dan Tesla; Diperdagangkan 24 Jam dengan Rupiah",
+     "tautan": "http://investortrust.id/market/122970/ajaib-kripto-hadirkan-tokenized-stock-perpetual-spacex-nvidia-dan-tesla-diperdagangkan-24-jam-dengan-rupiah",
+     "waktu": "2026-11-18T11:04:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Meski Hadapi Kebijakan MSCI, Saham Telekomunikasi Diprediksi Tetap Cerah",
-     "tautan": "http://investortrust.id/market/122806/meski-hadapi-kebijakan-msci-saham-telekomunikasi-diprediksi-tetap-cerah",
-     "waktu": "2026-11-17T08:12:00.000Z",
+     "judul": "IHSG Ditutup Anjlok 1,07% Usai BI Rate Naik ke 6%, Sebaliknya BBCA Jadi Penahan Kejatuhan",
+     "tautan": "http://investortrust.id/market/122945/ihsg-ditutup-anjlok-1-07-usai-bi-rate-naik-ke-6-sebaliknya-bbca-jadi-penahan-kejatuhan",
+     "waktu": "2026-11-18T09:03:00.000Z",
      "situs": "Investortrust"
     }
    ]
@@ -75,68 +75,68 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-18T00:48:06.656Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-18T17:25:16.657Z",
    "berita": [
     {
-     "judul": "Kebocoran Anggaran",
-     "tautan": "http://investortrust.id/macro/122849/kebocoran-anggaran",
-     "waktu": "2026-11-17T23:16:00.000Z",
+     "judul": "Indef Proyeksi Ekonomi Indonesia 2027 Tumbuh 5,2%, Ini Risikonya",
+     "tautan": "http://investortrust.id/macro/122992/indef-proyeksi-ekonomi-indonesia-2027-tumbuh-5-2-ini-risikonya",
+     "waktu": "2026-11-18T12:46:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Konsumsi Rumah Tangga Topang Pertumbuhan Ekonomi, Pemerintah Diminta Jaga Daya Beli",
-     "tautan": "http://investortrust.id/macro/122850/konsumsi-rumah-tangga-topang-pertumbuhan-ekonomi-pemerintah-diminta-jaga-daya-beli",
-     "waktu": "2026-11-17T12:51:00.000Z",
+     "judul": "BI Rate Naik, BI Beri “Pemanis” Agar Kredit Tak Seret",
+     "tautan": "http://investortrust.id/macro/122982/bi-rate-naik-bi-beri-pemanis-agar-kredit-tak-seret",
+     "waktu": "2026-11-18T12:01:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Bapanas Pastikan Pangan Aman, Perkuat Intervensi Harga Jelang Nataru",
-     "tautan": "http://investortrust.id/macro/122845/bapanas-pastikan-pangan-aman-perkuat-intervensi-harga-jelang-nataru",
-     "waktu": "2026-11-17T12:34:00.000Z",
+     "judul": "Ketidakpastian dan Sentimen Investor di Pasar Saham, Bikin Rupiah Melemah ke Rp 18.425 per Dolar AS",
+     "tautan": "http://investortrust.id/macro/122958/ketidakpastian-dan-sentimen-investor-di-pasar-saham-bikin-rupiah-melemah-ke-rp-18425-per-dolar-as",
+     "waktu": "2026-11-18T10:31:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Keberlanjutan Pertumbuhan Jadi Tantangan Ekonomi Vietnam",
-     "tautan": "http://investortrust.id/macro/122803/keberlanjutan-pertumbuhan-jadi-tantangan-ekonomi-vietnam",
-     "waktu": "2026-11-17T07:35:00.000Z",
+     "judul": "Kenaikan BI Rate 25 Bps, Antisipasi The Fed Naikkan FFR pada Desember 2026",
+     "tautan": "http://investortrust.id/macro/122943/kenaikan-bi-rate-25-bps-antisipasi-the-fed-naikkan-ffr-pada-desember-2026",
+     "waktu": "2026-11-18T08:11:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Indonesian Bank Credit Grows 13.26% in September 2026 as OJK Eyes Full-Year Target",
-     "tautan": "http://investortrust.id/macro/122776/indonesian-bank-credit-grows-1326-in-september-2026-as-ojk-eyes-full-year-target",
-     "waktu": "2026-11-17T05:19:00.000Z",
+     "judul": "Tok! BI Naikkan BI Rate 25 bps Jadi 6%",
+     "tautan": "http://investortrust.id/macro/122935/tok-bi-naikkan-bi-rate-25-bps-jadi-6",
+     "waktu": "2026-11-18T07:28:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Indonesia’s External Debt Climbs to $458.9 Billion in Q3 2026 on Higher Government Borrowing",
-     "tautan": "http://investortrust.id/macro/122774/indonesias-external-debt-climbs-to-4589-billion-in-q3-2026-on-higher-government-borrowing",
-     "waktu": "2026-11-17T04:48:00.000Z",
+     "judul": "Gubernur BI Proyeksi Kebijakan Moneter Global Ketat Bakal Terjadi Hingga Akhir Tahun",
+     "tautan": "http://investortrust.id/macro/122933/gubernur-bi-proyeksi-kebijakan-moneter-global-ketat-bakal-terjadi-hingga-akhir-tahun",
+     "waktu": "2026-11-18T07:18:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Vietnam Charges Toward High-Income Status as GDP Growth Hits 9.01%, Surpassing Indonesia in Per Capita Output",
-     "tautan": "http://investortrust.id/macro/122763/vietnam-charges-toward-high-income-status-as-gdp-growth-hits-901-surpassing-indonesia-in-per-capita-output",
-     "waktu": "2026-11-17T02:38:00.000Z",
+     "judul": "Dilema RDG BI November 2026, Antara Tahan BI Rate atau Naik 25 Bps demi Redam Volatilitas Kurs",
+     "tautan": "http://investortrust.id/macro/122916/dilema-rdg-bi-november-2026-antara-tahan-bi-rate-atau-naik-25-bps-demi-redam-volatilitas-kurs",
+     "waktu": "2026-11-18T04:29:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "LMAN Kelola 335 Aset Negara, dari Properti Hingga Kilang LNG",
-     "tautan": "http://investortrust.id/macro/122723/lman-kelola-335-aset-negara-dari-properti-hingga-kilang-lng",
-     "waktu": "2026-11-16T12:42:00.000Z",
+     "judul": "Rupiah Edges Up and Indonesian Stocks Rebound Ahead of Pivotal Bank Indonesia Rate Decision",
+     "tautan": "http://investortrust.id/macro/122897/rupiah-edges-up-and-indonesian-stocks-rebound-ahead-of-pivotal-bank-indonesia-rate-decision",
+     "waktu": "2026-11-18T02:54:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Utang Luar Negeri Pemerintah Naik, Posisi Utang Luar Negeri Indonesia Meningkat ke US$ 458,9 Miliar",
-     "tautan": "http://investortrust.id/macro/122695/utang-luar-negeri-pemerintah-naik-posisi-utang-luar-negeri-indonesia-meningkat-ke-us-458-9-miliar",
-     "waktu": "2026-11-16T08:23:00.000Z",
+     "judul": "Jelang Pengumuman RDG BI Rupiah Bergerak Menguat atas Dolar AS",
+     "tautan": "http://investortrust.id/macro/122894/jelang-pengumuman-rdg-bi-rupiah-bergerak-menguat-atas-dolar-as",
+     "waktu": "2026-11-18T02:39:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Indonesia Posts 5.47% Third-Quarter Growth, Yet Economists Warn Headline Gains Mask Household Strain",
-     "tautan": "http://investortrust.id/macro/122656/indonesia-posts-547-third-quarter-growth-yet-economists-warn-headline-gains-mask-household-strain",
-     "waktu": "2026-11-16T03:11:00.000Z",
+     "judul": "Menanti Keputusan BI-Rate November 2026, Hans Kwee Prediksi Suku Bunga Tetap 5,75%",
+     "tautan": "http://investortrust.id/macro/122891/menanti-keputusan-bi-rate-november-2026-hans-kwee-prediksi-suku-bunga-tetap-5-75",
+     "waktu": "2026-11-18T02:25:00.000Z",
      "situs": "Investortrust"
     }
    ]
@@ -147,12 +147,24 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-18T08:05:56.003Z",
+   "diambil": "2026-11-18T17:25:16.657Z",
    "berita": [
     {
-     "judul": "Higher petrol and diesel prices push UK inflation to 3.6%",
+     "judul": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
      "tautan": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T07:40:54.000Z",
+     "waktu": "2026-11-18T13:17:06.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+     "tautan": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T13:10:01.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "The seven Anthropic founders who are about to become multi-billionaires",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T13:55:14.000Z",
      "situs": "BBC News"
     },
     {
@@ -168,15 +180,9 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+     "judul": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
      "tautan": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-18T04:00:54.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Europe plans to catch the next computer chip wave",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T00:00:24.000Z",
      "situs": "BBC News"
     },
     {
@@ -186,15 +192,21 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Security flaw found in Java, world's third-largest programming language",
-     "tautan": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T05:33:13.000Z",
+     "judul": "Europe plans to catch the next computer chip wave",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T00:00:24.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "Speed camera fault may have allowed drivers to escape fines",
      "tautan": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-17T20:04:54.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Security flaw found in Java, world's third-largest programming language",
+     "tautan": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T08:47:06.000Z",
      "situs": "BBC News"
     },
     {
@@ -225,18 +237,6 @@
      "judul": "We couldn't afford a house alone, so we bought one with strangers",
      "tautan": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-17T00:00:02.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "How new US chip restrictions on South East Asia will hit China",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T14:25:45.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "How a sex scandal at Nvidia is putting pressure on the White House",
-     "tautan": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-13T12:22:30.000Z",
      "situs": "BBC News"
     }
    ]
