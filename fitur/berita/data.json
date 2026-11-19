@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-19T13:39:50.301Z",
+ "diperbarui": "2026-11-19T21:55:56.732Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,7 +7,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-19T13:39:50.301Z",
+   "diambil": "2026-11-19T21:55:56.732Z",
    "berita": [
     {
      "judul": "Misbakhun Soroti Tekanan Ekonomi, Kepercayaan Pasar Modal Jadi PR Besar",
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-19T13:39:50.301Z",
+   "diambil": "2026-11-19T21:55:56.732Z",
    "berita": [
     {
      "judul": "Gubernur BI Optimistis Ruang Pertumbuhan 2027 Cukup Besar",
@@ -147,20 +147,8 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-19T13:39:50.301Z",
+   "diambil": "2026-11-19T21:55:56.732Z",
    "berita": [
-    {
-     "judul": "Anthropic raises $81bn in record-breaking stock market debut",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-19T10:48:04.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-19T00:00:59.000Z",
-     "situs": "BBC News"
-    },
     {
      "judul": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
      "tautan": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
@@ -171,6 +159,12 @@
      "judul": "The seven Anthropic founders who are about to become multi-billionaires",
      "tautan": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-18T23:42:07.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-19T00:00:59.000Z",
      "situs": "BBC News"
     },
     {
@@ -213,6 +207,12 @@
      "judul": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
      "tautan": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-18T13:17:06.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Anthropic raises $81bn in record-breaking stock market debut",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-19T15:58:58.000Z",
      "situs": "BBC News"
     },
     {
