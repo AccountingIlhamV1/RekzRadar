@@ -1,72 +1,72 @@
 {
- "diperbarui": "2026-11-18T23:28:14.282Z",
+ "diperbarui": "2026-11-19T04:24:03.885Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-18T17:25:16.657Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-19T04:24:03.885Z",
    "berita": [
     {
-     "judul": "Mirae Asset Pertahankan Rekomendasi Beli EXCL, Target Harga Masih Rp 4.300",
-     "tautan": "http://investortrust.id/market/122990/mirae-asset-pertahankan-rekomendasi-beli-excl-target-harga-masih-rp-4300",
-     "waktu": "2026-11-18T12:44:00.000Z",
+     "judul": "Yield SBN Masih Tertekan Usai BI Rate Naik ke 6%, Mirae Ungkap Strategi Investasi Obligasi",
+     "tautan": "http://investortrust.id/market/123048/yield-sbn-masih-tertekan-usai-bi-rate-naik-ke-6-mirae-ungkap-strategi-investasi-obligasi",
+     "waktu": "2026-11-19T03:45:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "BRI Danareksa Sekuritas Gandeng Pinnacle, Tambah Produk Investasi di BRIGHTS",
-     "tautan": "http://investortrust.id/market/122987/bri-danareksa-sekuritas-gandeng-pinnacle-tambah-produk-investasi-di-brights",
-     "waktu": "2026-11-18T12:38:00.000Z",
+     "judul": "OCBC Sekuritas Akuisisi 99,99% Ekuator Swarna Investama",
+     "tautan": "http://investortrust.id/market/123039/ocbc-sekuritas-akuisisi-99-99-ekuator-swarna-investama",
+     "waktu": "2026-11-19T02:15:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Aturan Stablecoin Masih Dimatangkan, OJK Tegaskan Bukan Jadi Pengganti Rupiah",
-     "tautan": "http://investortrust.id/market/122980/aturan-stablecoin-masih-dimatangkan-ojk-tegaskan-bukan-jadi-pengganti-rupiah",
-     "waktu": "2026-11-18T12:16:00.000Z",
+     "judul": "IHSG Jatuh 1,21% ke Bawah 5.200, Semua Sektor Saham di Zona Merah",
+     "tautan": "http://investortrust.id/market/123035/ihsg-jatuh-1-21-ke-bawah-5200-semua-sektor-saham-di-zona-merah",
+     "waktu": "2026-11-19T02:03:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Investor Kripto Didominasi Anak Muda, PINTU Tekankan Literasi dan Profil Risiko",
-     "tautan": "http://investortrust.id/market/122977/investor-kripto-didominasi-anak-muda-pintu-tekankan-literasi-dan-profil-risiko",
-     "waktu": "2026-11-18T12:03:00.000Z",
+     "judul": "Reliance Sekuritas Rekomendasi Beli 4 Saham, Ada BREN hingga TPIA",
+     "tautan": "http://investortrust.id/market/123033/reliance-sekuritas-rekomendasi-beli-4-saham-ada-bren-hingga-tpia",
+     "waktu": "2026-11-19T01:50:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Saat Rupiah Tertekan dan Yield Obligasi Naik, Reksa Dana Ini Menarik Dipertimbangkan",
-     "tautan": "http://investortrust.id/market/122971/saat-rupiah-tertekan-dan-yield-obligasi-naik-reksa-dana-ini-menarik-dipertimbangkan",
-     "waktu": "2026-11-18T11:17:00.000Z",
+     "judul": "Nominasi Investortrust BUMN Awards 2026, Phapros (PEHA) Jadi Bintang di Subsektor BUMN Farmasi",
+     "tautan": "http://investortrust.id/market/123030/nominasi-investortrust-bumn-awards-2026-phapros-peha-jadi-bintang-di-subsektor-bumn-farmasi",
+     "waktu": "2026-11-19T01:30:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "BEI Ungkap Alasan Cabut Izin Broker Paramitra Alfa Sekuritas, Status Pemegang Saham Tetap",
-     "tautan": "http://investortrust.id/market/122968/bei-ungkap-alasan-cabut-izin-broker-paramitra-alfa-sekuritas-status-pemegang-saham-tetap",
-     "waktu": "2026-11-18T11:11:00.000Z",
+     "judul": "Semen Baturaja (SMBR) Masuk Nominasi Investortrust BUMN Awards 2026, Ini Faktor Penopangnya",
+     "tautan": "http://investortrust.id/market/123028/semen-baturaja-smbr-masuk-nominasi-investortrust-bumn-awards-2026-ini-faktor-penopangnya",
+     "waktu": "2026-11-19T00:53:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "BRI Danareksa Sekuritas Kantongi 5 Calon Emiten IPO, Siap Ramaikan Bursa pada 2027",
-     "tautan": "http://investortrust.id/market/122966/bri-danareksa-sekuritas-kantongi-5-calon-emiten-ipo-siap-ramaikan-bursa-pada-2027",
-     "waktu": "2026-11-18T11:08:00.000Z",
+     "judul": "Prospek Ekspor dan Margin Tertekan, Target Saham Mayora (MYOR) Direvisi Turun",
+     "tautan": "http://investortrust.id/market/123020/prospek-ekspor-dan-margin-tertekan-target-saham-mayora-myor-direvisi-turun",
+     "waktu": "2026-11-18T23:55:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Investor Asing Borong BBCA Rp 689 Miliar di Tengah IHSG Anjlok, Sebaliknya BBRI Dilepas",
-     "tautan": "http://investortrust.id/market/122964/investor-asing-borong-bbca-rp-689-miliar-di-tengah-ihsg-anjlok-sebaliknya-bbri-dilepas",
-     "waktu": "2026-11-18T11:06:00.000Z",
+     "judul": "Indonesia Set to Name State-Owned Lender as Second Yuan Clearing Bank as Local Currency Transactions Surge 116%",
+     "tautan": "http://investortrust.id/market/123025/indonesia-set-to-name-state-owned-lender-as-second-yuan-clearing-bank-as-local-currency-transactions-surge-116",
+     "waktu": "2026-11-18T23:40:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Ajaib Kripto Hadirkan ‘Tokenized Stock’ Perpetual SpaceX, NVIDIA, dan Tesla; Diperdagangkan 24 Jam dengan Rupiah",
-     "tautan": "http://investortrust.id/market/122970/ajaib-kripto-hadirkan-tokenized-stock-perpetual-spacex-nvidia-dan-tesla-diperdagangkan-24-jam-dengan-rupiah",
-     "waktu": "2026-11-18T11:04:00.000Z",
+     "judul": "AKR (AKRA) Caplok 90% Saham Vivo Energy, 47 SPBU Vivo Bakal Ganti Jadi BP-AKR",
+     "tautan": "http://investortrust.id/market/123018/akr-akra-caplok-90-saham-vivo-energy-47-spbu-vivo-bakal-ganti-jadi-bp-akr",
+     "waktu": "2026-11-18T23:34:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "IHSG Ditutup Anjlok 1,07% Usai BI Rate Naik ke 6%, Sebaliknya BBCA Jadi Penahan Kejatuhan",
-     "tautan": "http://investortrust.id/market/122945/ihsg-ditutup-anjlok-1-07-usai-bi-rate-naik-ke-6-sebaliknya-bbca-jadi-penahan-kejatuhan",
-     "waktu": "2026-11-18T09:03:00.000Z",
+     "judul": "Dukung Dekarbonisasi Emiten, BEI Gelar IDX Net Zero Bootcamp",
+     "tautan": "http://investortrust.id/market/123017/dukung-dekarbonisasi-emiten-bei-gelar-idx-net-zero-bootcamp",
+     "waktu": "2026-11-18T23:25:00.000Z",
      "situs": "Investortrust"
     }
    ]
@@ -75,10 +75,22 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-18T17:25:16.657Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-19T04:24:03.885Z",
    "berita": [
+    {
+     "judul": "Rupiah Bergerak Melemah Terhadap Dolar AS, Kenaikan BI Rate Batasi Pelemahan",
+     "tautan": "http://investortrust.id/macro/123041/rupiah-bergerak-melemah-terhadap-dolar-as-kenaikan-bi-rate-batasi-pelemahan",
+     "waktu": "2026-11-19T02:46:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "BI Naikkan Suku Bunga Acuan Jadi 6%",
+     "tautan": "http://investortrust.id/macro/123043/bi-naikkan-suku-bunga-acuan-jadi-6",
+     "waktu": "2026-11-18T13:15:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Indef Proyeksi Ekonomi Indonesia 2027 Tumbuh 5,2%, Ini Risikonya",
      "tautan": "http://investortrust.id/macro/122992/indef-proyeksi-ekonomi-indonesia-2027-tumbuh-5-2-ini-risikonya",
@@ -126,18 +138,6 @@
      "tautan": "http://investortrust.id/macro/122897/rupiah-edges-up-and-indonesian-stocks-rebound-ahead-of-pivotal-bank-indonesia-rate-decision",
      "waktu": "2026-11-18T02:54:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Jelang Pengumuman RDG BI Rupiah Bergerak Menguat atas Dolar AS",
-     "tautan": "http://investortrust.id/macro/122894/jelang-pengumuman-rdg-bi-rupiah-bergerak-menguat-atas-dolar-as",
-     "waktu": "2026-11-18T02:39:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Menanti Keputusan BI-Rate November 2026, Hans Kwee Prediksi Suku Bunga Tetap 5,75%",
-     "tautan": "http://investortrust.id/macro/122891/menanti-keputusan-bi-rate-november-2026-hans-kwee-prediksi-suku-bunga-tetap-5-75",
-     "waktu": "2026-11-18T02:25:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,18 +147,54 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-18T23:28:14.282Z",
+   "diambil": "2026-11-19T04:24:03.885Z",
    "berita": [
     {
-     "judul": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+     "judul": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-19T02:20:15.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
      "tautan": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-18T21:28:08.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "The seven Anthropic founders who are about to become multi-billionaires",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T23:42:07.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-19T02:59:06.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-19T00:00:59.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Europe plans to catch the next computer chip wave",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T00:00:24.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "Gilts v kilts: What is happening with Scottish government bonds?",
      "tautan": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-18T23:01:09.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Why has Waymo pulled all its driverless cars from US freeways?",
+     "tautan": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T23:47:46.000Z",
      "situs": "BBC News"
     },
     {
@@ -171,18 +207,6 @@
      "judul": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
      "tautan": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-18T13:10:01.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "The seven Anthropic founders who are about to become multi-billionaires",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T13:55:14.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Europe plans to catch the next computer chip wave",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T00:00:24.000Z",
      "situs": "BBC News"
     },
     {
@@ -213,30 +237,6 @@
      "judul": "Speed camera fault may have allowed drivers to escape fines",
      "tautan": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-17T20:04:54.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Security flaw found in Java, world's third-largest programming language",
-     "tautan": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T08:47:06.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Waymo pulls driverless taxis from all US freeways",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T03:07:22.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-     "tautan": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T23:02:12.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Where are the most jobs for 18-24 year-olds?",
-     "tautan": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-17T12:35:53.000Z",
      "situs": "BBC News"
     }
    ]
