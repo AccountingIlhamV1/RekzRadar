@@ -1,12 +1,12 @@
 {
- "diperbarui": "2026-11-19T21:55:56.732Z",
+ "diperbarui": "2026-11-20T02:47:19.039Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-19T21:55:56.732Z",
    "berita": [
     {
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-19T21:55:56.732Z",
    "berita": [
     {
@@ -147,24 +147,42 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-19T21:55:56.732Z",
+   "diambil": "2026-11-20T02:47:19.039Z",
    "berita": [
     {
-     "judul": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-     "tautan": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T21:28:08.000Z",
+     "judul": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+     "tautan": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-19T23:33:51.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "The seven Anthropic founders who are about to become multi-billionaires",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T23:42:07.000Z",
+     "judul": "GTA 6 breaks records as sales top $2bn - industry estimate",
+     "tautan": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-20T02:13:05.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-19T00:00:59.000Z",
+     "judul": "California targets Nvidia in China AI chip probe",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-19T23:04:30.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-20T00:02:07.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Airbnb's divisive new house rules come into force",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-20T00:12:28.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+     "tautan": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-20T00:08:37.000Z",
      "situs": "BBC News"
     },
     {
@@ -174,9 +192,21 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Europe plans to catch the next computer chip wave",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T00:00:24.000Z",
+     "judul": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T21:28:08.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-19T00:00:59.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "The seven Anthropic founders who are about to become multi-billionaires",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T23:42:07.000Z",
      "situs": "BBC News"
     },
     {
@@ -207,36 +237,6 @@
      "judul": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
      "tautan": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-18T13:17:06.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Anthropic raises $81bn in record-breaking stock market debut",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-19T15:58:58.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-     "tautan": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T13:10:01.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T01:18:18.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "How important are Nvidia and Jensen Huang to the US economy?",
-     "tautan": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T06:04:21.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T04:00:54.000Z",
      "situs": "BBC News"
     }
    ]
