@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-20T10:45:50.195Z",
+ "diperbarui": "2026-11-20T18:55:22.365Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,20 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-20T10:45:50.195Z",
+   "diambil": "2026-11-20T18:55:22.365Z",
    "berita": [
+    {
+     "judul": "Aset Kripto dan Perbankan Diyakini Bisa Tumbuh Berdampingan, Tata Kelola Jadi Kunci",
+     "tautan": "http://investortrust.id/market/123228/aset-kripto-dan-perbankan-diyakini-bisa-tumbuh-berdampingan-tata-kelola-jadi-kunci",
+     "waktu": "2026-11-20T11:29:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Bitcoin Sentuh Level Terendah 4 Bulan, Bakal Turun ke US$ 60.000?",
+     "tautan": "http://investortrust.id/market/123227/bitcoin-sentuh-level-terendah-4-bulan-bakal-turun-ke-us-60000",
+     "waktu": "2026-11-20T11:17:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Semen Indonesia (SMGR) Bakal Buyback Saham, Segini Nilainya",
      "tautan": "http://investortrust.id/market/123211/semen-indonesia-smgr-bakal-buyback-saham-segini-nilainya",
@@ -56,18 +68,6 @@
      "tautan": "http://investortrust.id/market/123163/ihsg-lanjutkan-pelemahan-awal-sesi-sebaliknya-saham-icon-dan-inov-melesat",
      "waktu": "2026-11-20T02:23:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Target Harga Saham Indofood (INDF) Dipangkas Jadi Rp 8.900, Ini Penyebabnya",
-     "tautan": "http://investortrust.id/market/123160/target-harga-saham-indf-dipangkas-jadi-rp-8900-ini-penyebabnya",
-     "waktu": "2026-11-20T01:06:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Inocycle (INOV) Jual 45,8% Saham Anak Usaha Bernilai Rp 260 Miliar, Alasan Ini Diungkap",
-     "tautan": "http://investortrust.id/market/123159/inocycle-inov-jual-45-8-saham-anak-usaha-bernilai-rp-260-miliar-alasan-ini-diungkap",
-     "waktu": "2026-11-20T00:01:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,8 +77,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-20T10:45:50.195Z",
+   "diambil": "2026-11-20T18:55:22.365Z",
    "berita": [
+    {
+     "judul": "Bersiap Tanda Tangani I-EU CEPA, Mendag Budi Bertolak ke Brussels",
+     "tautan": "http://investortrust.id/macro/123230/bersiap-tanda-tangani-i-eu-cepa-mendag-budi-bertolak-ke-brussels",
+     "waktu": "2026-11-20T11:45:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Bank Indonesia and Finance Ministry See Ample Room for 2027 Growth, Targeting 6% Expansion",
      "tautan": "http://investortrust.id/macro/123219/bank-indonesia-and-finance-ministry-see-ample-room-for-2027-growth-targeting-6-expansion",
@@ -132,12 +138,6 @@
      "tautan": "http://investortrust.id/macro/122958/ketidakpastian-dan-sentimen-investor-di-pasar-saham-bikin-rupiah-melemah-ke-rp-18425-per-dolar-as",
      "waktu": "2026-11-18T10:31:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Kenaikan BI Rate 25 Bps, Antisipasi The Fed Naikkan FFR pada Desember 2026",
-     "tautan": "http://investortrust.id/macro/122943/kenaikan-bi-rate-25-bps-antisipasi-the-fed-naikkan-ffr-pada-desember-2026",
-     "waktu": "2026-11-18T08:11:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,8 +147,20 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-20T10:45:50.195Z",
+   "diambil": "2026-11-20T18:55:22.365Z",
    "berita": [
+    {
+     "judul": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-20T17:36:29.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-20T16:41:52.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
      "tautan": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
@@ -156,19 +168,7 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Airbnb's divisive new house rules come into force",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T09:55:20.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-     "tautan": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-19T23:33:51.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+     "judul": "Fish and eggs al desko? The dos and don'ts of lunch at work",
      "tautan": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-20T00:08:37.000Z",
      "situs": "BBC News"
@@ -180,9 +180,15 @@
      "situs": "BBC News"
     },
     {
-     "judul": "GTA 6 breaks records as estimated sales top $2.3bn",
+     "judul": "Airbnb's divisive new house rules come into force",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-20T15:48:35.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
      "tautan": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T02:54:40.000Z",
+     "waktu": "2026-11-20T13:08:30.000Z",
      "situs": "BBC News"
     },
     {
@@ -195,6 +201,12 @@
      "judul": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
      "tautan": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-20T00:02:07.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+     "tautan": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-19T23:33:51.000Z",
      "situs": "BBC News"
     },
     {
@@ -216,27 +228,15 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-19T13:35:52.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "The seven Anthropic founders who are about to become multi-billionaires",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T23:42:07.000Z",
-     "situs": "BBC News"
-    },
-    {
      "judul": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
      "tautan": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-19T00:05:31.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-19T02:59:06.000Z",
+     "judul": "The seven Anthropic founders who are about to become multi-billionaires",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-18T23:42:07.000Z",
      "situs": "BBC News"
     }
    ]
