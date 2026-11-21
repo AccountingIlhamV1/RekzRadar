@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-21T07:53:10.125Z",
+ "diperbarui": "2026-11-21T15:49:35.266Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,26 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-21T07:53:10.125Z",
+   "diambil": "2026-11-21T15:49:35.266Z",
    "berita": [
+    {
+     "judul": "Dorong Lokalisasi Komponen, Dharma Polimetal (DRMA) Ekspansi Kapasitas Produksi",
+     "tautan": "http://investortrust.id/market/123290/dorong-lokalisasi-komponen-dharma-polimetal-drma-ekspansi-kapasitas-produksi",
+     "waktu": "2026-11-21T14:46:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "BEI Tak Langsung Coret Saham HSC dari IDX Commodity 20, Mengapa?",
+     "tautan": "http://investortrust.id/market/123282/bei-tak-langsung-coret-saham-hsc-dari-idx-commodity-20-mengapa",
+     "waktu": "2026-11-21T11:15:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "OJK Beri Sanksi 10 Kasus Pasar Modal, 3 Saham Ini Terseret Manipulasi",
+     "tautan": "http://investortrust.id/market/123277/ojk-beri-sanksi-10-kasus-pasar-modal-3-saham-ini-terseret-manipulasi",
+     "waktu": "2026-11-21T09:49:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Indonesia-China Business Forum 2026 Yields $15 Billion in Investment Deals Amid Global Uncertainty",
      "tautan": "http://investortrust.id/market/123264/indonesia-china-business-forum-2026-yields-15-billion-in-investment-deals-amid-global-uncertainty",
@@ -50,24 +68,6 @@
      "tautan": "http://investortrust.id/market/123250/brpt-hingga-brms-terjun-bebas-ihsg-anjlok-3-71-dalam-sepekan",
      "waktu": "2026-11-21T01:41:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Jangan Berharap Banyak! Kiwoom Prediksi Window Dressing Pasar Saham 2026 Hanya 55%",
-     "tautan": "http://investortrust.id/market/123249/jangan-berharap-banyak-kiwoom-prediksi-window-dressing-pasar-saham-2026-hanya-55",
-     "waktu": "2026-11-21T01:17:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Laba Merdeka Battery (MBMA) Meroket 372% pada Kuartal III-2026, Tembus US$ 92 Juta",
-     "tautan": "http://investortrust.id/market/123248/laba-merdeka-battery-mbma-meroket-372-pada-kuartal-iii-2026-tembus-us-92-juta",
-     "waktu": "2026-11-21T01:11:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Laba Merdeka Copper Gold (MDKA) Berbalik Positif, Tembus US$ 157 Juta hingga September 2026",
-     "tautan": "http://investortrust.id/market/123247/laba-merdeka-copper-gold-mrka-berbalik-positif-tembus-us-157-juta-hingga-september-2026",
-     "waktu": "2026-11-21T00:30:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,8 +77,32 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-21T07:53:10.125Z",
+   "diambil": "2026-11-21T15:49:35.266Z",
    "berita": [
+    {
+     "judul": "Indonesia dan Uni Eropa Resmi Teken IEU-CEPA dan IPA, Perkuat Kerja Sama Perdagangan dan Investasi Berkelanjutan",
+     "tautan": "http://investortrust.id/macro/123293/indonesia-dan-uni-eropa-resmi-teken-ieu-cepa-dan-ipa-perkuat-kerja-sama-perdagangan-dan-investasi-berkelanjutan",
+     "waktu": "2026-11-21T14:23:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "RI-Uni Eropa Resmi Teken IEU-CEPA, Bea Masuk Hampir Seluruh Perdagangan Bakal Dihapus",
+     "tautan": "http://investortrust.id/macro/123286/ri-uni-eropa-resmi-teken-ieu-cepa-bea-masuk-hampir-seluruh-perdagangan-bakal-dihapus",
+     "waktu": "2026-11-21T13:09:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Indonesia dan Uni Eropa Resmi Teken Perjanjian Dagang IEU-CEPA",
+     "tautan": "http://investortrust.id/macro/123285/indonesia-dan-uni-eropa-resmi-teken-perjanjian-dagang-ieu-cepa",
+     "waktu": "2026-11-21T13:04:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Inflasi 2027 Diprediksi Tembus 3%, Ini 4 Kelompok Paling Rentan",
+     "tautan": "http://investortrust.id/macro/123271/inflasi-2027-diprediksi-tembus-3-ini-4-kelompok-paling-rentan",
+     "waktu": "2026-11-21T09:05:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Bersiap Tanda Tangani I-EU CEPA, Mendag Budi Bertolak ke Brussels",
      "tautan": "http://investortrust.id/macro/123230/bersiap-tanda-tangani-i-eu-cepa-mendag-budi-bertolak-ke-brussels",
@@ -114,30 +138,6 @@
      "tautan": "http://investortrust.id/macro/123041/rupiah-bergerak-melemah-terhadap-dolar-as-kenaikan-bi-rate-batasi-pelemahan",
      "waktu": "2026-11-19T02:46:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "BI Naikkan Suku Bunga Acuan Jadi 6%",
-     "tautan": "http://investortrust.id/macro/123043/bi-naikkan-suku-bunga-acuan-jadi-6",
-     "waktu": "2026-11-18T13:15:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Indef Proyeksi Ekonomi Indonesia 2027 Tumbuh 5,2%, Ini Risikonya",
-     "tautan": "http://investortrust.id/macro/122992/indef-proyeksi-ekonomi-indonesia-2027-tumbuh-5-2-ini-risikonya",
-     "waktu": "2026-11-18T12:46:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "BI Rate Naik, BI Beri “Pemanis” Agar Kredit Tak Seret",
-     "tautan": "http://investortrust.id/macro/122982/bi-rate-naik-bi-beri-pemanis-agar-kredit-tak-seret",
-     "waktu": "2026-11-18T12:01:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Ketidakpastian dan Sentimen Investor di Pasar Saham, Bikin Rupiah Melemah ke Rp 18.425 per Dolar AS",
-     "tautan": "http://investortrust.id/macro/122958/ketidakpastian-dan-sentimen-investor-di-pasar-saham-bikin-rupiah-melemah-ke-rp-18425-per-dolar-as",
-     "waktu": "2026-11-18T10:31:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-21T07:53:10.125Z",
+   "diambil": "2026-11-21T15:49:35.266Z",
    "berita": [
     {
      "judul": "Tech stock sell-off drags markets down as Anthropic shares slide",
