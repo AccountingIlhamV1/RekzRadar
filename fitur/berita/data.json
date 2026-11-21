@@ -1,72 +1,72 @@
 {
- "diperbarui": "2026-11-21T00:32:09.523Z",
+ "diperbarui": "2026-11-21T07:53:10.125Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-20T18:55:22.365Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-21T07:53:10.125Z",
    "berita": [
     {
-     "judul": "Aset Kripto dan Perbankan Diyakini Bisa Tumbuh Berdampingan, Tata Kelola Jadi Kunci",
-     "tautan": "http://investortrust.id/market/123228/aset-kripto-dan-perbankan-diyakini-bisa-tumbuh-berdampingan-tata-kelola-jadi-kunci",
-     "waktu": "2026-11-20T11:29:00.000Z",
+     "judul": "Indonesia-China Business Forum 2026 Yields $15 Billion in Investment Deals Amid Global Uncertainty",
+     "tautan": "http://investortrust.id/market/123264/indonesia-china-business-forum-2026-yields-15-billion-in-investment-deals-amid-global-uncertainty",
+     "waktu": "2026-11-21T06:03:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Bitcoin Sentuh Level Terendah 4 Bulan, Bakal Turun ke US$ 60.000?",
-     "tautan": "http://investortrust.id/market/123227/bitcoin-sentuh-level-terendah-4-bulan-bakal-turun-ke-us-60000",
-     "waktu": "2026-11-20T11:17:00.000Z",
+     "judul": "OJK Limpahkan 4 Tersangka Manipulasi Waran, Kerugian Capai Rp 6,97 Miliar",
+     "tautan": "http://investortrust.id/market/123265/ojk-limpahkan-4-tersangka-manipulasi-waran-kerugian-capai-rp-6-97-miliar",
+     "waktu": "2026-11-21T05:20:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Semen Indonesia (SMGR) Bakal Buyback Saham, Segini Nilainya",
-     "tautan": "http://investortrust.id/market/123211/semen-indonesia-smgr-bakal-buyback-saham-segini-nilainya",
-     "waktu": "2026-11-20T09:03:00.000Z",
+     "judul": "Indonesian Stocks Plunge 3.71% Weekly as Kiwoom Puts Year-End Rally Odds at Just 55%",
+     "tautan": "http://investortrust.id/market/123259/indonesian-stocks-plunge-371-weekly-as-kiwoom-puts-year-end-rally-odds-at-just-55",
+     "waktu": "2026-11-21T03:58:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Bukan Saat Deposit, Finex: Kepercayaan pada Pialang Diuji Saat Penarikan Dana",
-     "tautan": "http://investortrust.id/market/123201/bukan-saat-deposit-finex-kepercayaan-pada-pialang-diuji-saat-penarikan-dana",
-     "waktu": "2026-11-20T08:26:00.000Z",
+     "judul": "Merdeka Copper Gold (MDKA) Swings to $157 Million Profit in First Nine Months of 2026",
+     "tautan": "http://investortrust.id/market/123255/merdeka-copper-gold-mdka-swings-to-157-million-profit-in-first-nine-months-of-2026",
+     "waktu": "2026-11-21T03:38:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Indonesia's Financial Regulator Weighs Investor Compensation From Rp 2.1 Trillion DSSA, BREN, and CUAN Fines",
-     "tautan": "http://investortrust.id/market/123184/indonesias-financial-regulator-weighs-investor-compensation-from-rp-21-trillion-dssa-bren-and-cuan-fines",
-     "waktu": "2026-11-20T06:12:00.000Z",
+     "judul": "Laba Merdeka Battery Materials (MBMA) Pecahkan Rekor, Ini Penopangnya",
+     "tautan": "http://investortrust.id/market/123254/laba-merdeka-battery-materials-mbma-pecahkan-rekor-ini-penopangnya",
+     "waktu": "2026-11-21T03:37:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "BFI Finance (BFIN) Tebar Dividen Interim Rp 516 Miliar, Nilai per Saham Segini",
-     "tautan": "http://investortrust.id/market/123174/bfi-finance-bfin-tebar-dividen-interim-rp-516-miliar-nilai-per-saham-segini",
-     "waktu": "2026-11-20T04:43:00.000Z",
+     "judul": "Merdeka Battery (MBMA) Q3 Profit Surges 372% to $92 Million on Record Revenue",
+     "tautan": "http://investortrust.id/market/123253/merdeka-battery-mbma-q3-profit-surges-372-to-92-million-on-record-revenue",
+     "waktu": "2026-11-21T03:28:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "IHSG Sesi I Ditutup Jatuh 1,50%, Sebaliknya Saham YUPI Perkasa",
-     "tautan": "http://investortrust.id/market/123171/ihsg-sesi-i-ditutup-jatuh-1-50-sebaliknya-saham-yupi-perkasa",
-     "waktu": "2026-11-20T04:36:00.000Z",
+     "judul": "BRPT hingga BRMS Turun Dalam, IHSG Anjlok 3,71% dalam Sepekan",
+     "tautan": "http://investortrust.id/market/123250/brpt-hingga-brms-terjun-bebas-ihsg-anjlok-3-71-dalam-sepekan",
+     "waktu": "2026-11-21T01:41:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Gelontorkan Dana Rp 4,06 Triliun, Investasi Sukses tambah 26,667% Saham Surge (WIFI)",
-     "tautan": "http://investortrust.id/market/123170/gelontorkan-dana-rp-4-06-triliun-investasi-sukses-tambah-26-667-saham-surge-wifi",
-     "waktu": "2026-11-20T04:25:00.000Z",
+     "judul": "Jangan Berharap Banyak! Kiwoom Prediksi Window Dressing Pasar Saham 2026 Hanya 55%",
+     "tautan": "http://investortrust.id/market/123249/jangan-berharap-banyak-kiwoom-prediksi-window-dressing-pasar-saham-2026-hanya-55",
+     "waktu": "2026-11-21T01:17:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "XL SMART (EXCL) Siapkan Buyback Saham Rp 1 Triliun, Ternyata Harga Ytd Turun Segini",
-     "tautan": "http://investortrust.id/market/123168/xl-smart-excl-siapkan-buyback-saham-rp-1-triliun-ternyata-harga-ytd-turun-segini",
-     "waktu": "2026-11-20T03:15:00.000Z",
+     "judul": "Laba Merdeka Battery (MBMA) Meroket 372% pada Kuartal III-2026, Tembus US$ 92 Juta",
+     "tautan": "http://investortrust.id/market/123248/laba-merdeka-battery-mbma-meroket-372-pada-kuartal-iii-2026-tembus-us-92-juta",
+     "waktu": "2026-11-21T01:11:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "IHSG Lanjutkan Pelemahan Awal Sesi, Sebaliknya Saham ICON dan INOV Melesat",
-     "tautan": "http://investortrust.id/market/123163/ihsg-lanjutkan-pelemahan-awal-sesi-sebaliknya-saham-icon-dan-inov-melesat",
-     "waktu": "2026-11-20T02:23:00.000Z",
+     "judul": "Laba Merdeka Copper Gold (MDKA) Berbalik Positif, Tembus US$ 157 Juta hingga September 2026",
+     "tautan": "http://investortrust.id/market/123247/laba-merdeka-copper-gold-mrka-berbalik-positif-tembus-us-157-juta-hingga-september-2026",
+     "waktu": "2026-11-21T00:30:00.000Z",
      "situs": "Investortrust"
     }
    ]
@@ -75,9 +75,9 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-20T18:55:22.365Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-21T07:53:10.125Z",
    "berita": [
     {
      "judul": "Bersiap Tanda Tangani I-EU CEPA, Mendag Budi Bertolak ke Brussels",
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-21T00:32:09.523Z",
+   "diambil": "2026-11-21T07:53:10.125Z",
    "berita": [
     {
      "judul": "Tech stock sell-off drags markets down as Anthropic shares slide",
