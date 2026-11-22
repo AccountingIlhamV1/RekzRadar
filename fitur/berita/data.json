@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-22T01:28:00.223Z",
+ "diperbarui": "2026-11-22T08:31:18.088Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,7 +7,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-22T01:28:00.223Z",
+   "diambil": "2026-11-22T08:31:18.088Z",
    "berita": [
     {
      "judul": "Bitcoin Rebound ke US$ 60.000 Usai Terkoreksi ke Level Terendah Dua Tahun",
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-22T01:28:00.223Z",
+   "diambil": "2026-11-22T08:31:18.088Z",
    "berita": [
     {
      "judul": "IEU-CEPA Buka Akses Pasar 730 Juta Penduduk, RI Bidik Peluang Ekspor Lebih Besar",
@@ -147,8 +147,20 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-22T01:28:00.223Z",
+   "diambil": "2026-11-22T08:31:18.088Z",
    "berita": [
+    {
+     "judul": "Employers are being asked to give interview feedback - here's what applicants want",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-22T00:04:07.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Can AI really help spot Black Friday deals? We put it to the test",
+     "tautan": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-21T00:06:11.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Tech stock sell-off drags markets down as Anthropic shares slide",
      "tautan": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
@@ -156,15 +168,33 @@
      "situs": "BBC News"
     },
     {
-     "judul": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T17:49:48.000Z",
-     "situs": "BBC News"
-    },
-    {
      "judul": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
      "tautan": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-20T16:41:52.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+     "tautan": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-22T07:12:41.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Should AI be judging our credit worthiness?",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-20T07:32:19.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "MP criticises Guernsey and Jersey company ownership register plans",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-22T07:22:05.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-20T17:49:48.000Z",
      "situs": "BBC News"
     },
     {
@@ -177,12 +207,6 @@
      "judul": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
      "tautan": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-20T22:53:24.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Should AI be judging our credit worthiness?",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T07:32:19.000Z",
      "situs": "BBC News"
     },
     {
@@ -213,30 +237,6 @@
      "judul": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
      "tautan": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-20T00:02:07.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-     "tautan": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-19T23:33:51.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "California targets Nvidia in China AI chip probe",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-19T23:04:30.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-     "tautan": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-18T21:28:08.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-19T00:00:59.000Z",
      "situs": "BBC News"
     }
    ]
