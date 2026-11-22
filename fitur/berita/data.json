@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-21T21:22:41.832Z",
+ "diperbarui": "2026-11-22T01:28:00.223Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-21T21:22:41.832Z",
+   "diambil": "2026-11-22T01:28:00.223Z",
    "berita": [
+    {
+     "judul": "Bitcoin Rebound ke US$ 60.000 Usai Terkoreksi ke Level Terendah Dua Tahun",
+     "tautan": "http://investortrust.id/market/123308/bitcoin-rebound-ke-us-60000-usai-terkoreksi-ke-level-terendah-dua-tahun",
+     "waktu": "2026-11-22T00:04:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Dorong Lokalisasi Komponen, Dharma Polimetal (DRMA) Ekspansi Kapasitas Produksi",
      "tautan": "http://investortrust.id/market/123290/dorong-lokalisasi-komponen-dharma-polimetal-drma-ekspansi-kapasitas-produksi",
@@ -62,12 +68,6 @@
      "tautan": "http://investortrust.id/market/123253/merdeka-battery-mbma-q3-profit-surges-372-to-92-million-on-record-revenue",
      "waktu": "2026-11-21T03:28:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "BRPT hingga BRMS Turun Dalam, IHSG Anjlok 3,71% dalam Sepekan",
-     "tautan": "http://investortrust.id/market/123250/brpt-hingga-brms-terjun-bebas-ihsg-anjlok-3-71-dalam-sepekan",
-     "waktu": "2026-11-21T01:41:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-21T21:22:41.832Z",
+   "diambil": "2026-11-22T01:28:00.223Z",
    "berita": [
     {
      "judul": "IEU-CEPA Buka Akses Pasar 730 Juta Penduduk, RI Bidik Peluang Ekspor Lebih Besar",
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-21T21:22:41.832Z",
+   "diambil": "2026-11-22T01:28:00.223Z",
    "berita": [
     {
      "judul": "Tech stock sell-off drags markets down as Anthropic shares slide",
