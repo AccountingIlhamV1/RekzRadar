@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-22T08:31:18.088Z",
+ "diperbarui": "2026-11-22T16:48:31.541Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-22T08:31:18.088Z",
+   "diambil": "2026-11-22T16:48:31.541Z",
    "berita": [
+    {
+     "judul": "Indonesia Secures First Paris Agreement Carbon Deal Targeting 12 Million Tons of Emission Cuts at COP31",
+     "tautan": "http://investortrust.id/market/123338/indonesia-secures-first-paris-agreement-carbon-deal-targeting-12-million-tons-of-emission-cuts-at-cop31",
+     "waktu": "2026-11-22T12:58:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Bitcoin Rebound ke US$ 60.000 Usai Terkoreksi ke Level Terendah Dua Tahun",
      "tautan": "http://investortrust.id/market/123308/bitcoin-rebound-ke-us-60000-usai-terkoreksi-ke-level-terendah-dua-tahun",
@@ -62,12 +68,6 @@
      "tautan": "http://investortrust.id/market/123254/laba-merdeka-battery-materials-mbma-pecahkan-rekor-ini-penopangnya",
      "waktu": "2026-11-21T03:37:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Merdeka Battery (MBMA) Q3 Profit Surges 372% to $92 Million on Record Revenue",
-     "tautan": "http://investortrust.id/market/123253/merdeka-battery-mbma-q3-profit-surges-372-to-92-million-on-record-revenue",
-     "waktu": "2026-11-21T03:28:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,8 +77,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-22T08:31:18.088Z",
+   "diambil": "2026-11-22T16:48:31.541Z",
    "berita": [
+    {
+     "judul": "Redam Harga Beras Jelang Akhir Tahun, Bapanas Tambah 100.000 Ton Alokasi Beras SPHP",
+     "tautan": "http://investortrust.id/macro/123329/redam-harga-beras-jelang-akhir-tahun-bapanas-tambah-100000-ton-alokasi-beras-sphp",
+     "waktu": "2026-11-22T10:22:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "IEU-CEPA Buka Akses Pasar 730 Juta Penduduk, RI Bidik Peluang Ekspor Lebih Besar",
      "tautan": "http://investortrust.id/macro/123300/ieu-cepa-buka-akses-pasar-730-juta-penduduk-ri-bidik-peluang-ekspor-lebih-besar",
@@ -132,12 +138,6 @@
      "tautan": "http://investortrust.id/macro/123271/inflasi-2027-diprediksi-tembus-3-ini-4-kelompok-paling-rentan",
      "waktu": "2026-11-21T09:05:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Bersiap Tanda Tangani I-EU CEPA, Mendag Budi Bertolak ke Brussels",
-     "tautan": "http://investortrust.id/macro/123230/bersiap-tanda-tangani-i-eu-cepa-mendag-budi-bertolak-ke-brussels",
-     "waktu": "2026-11-20T11:45:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,8 +147,14 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-22T08:31:18.088Z",
+   "diambil": "2026-11-22T16:48:31.541Z",
    "berita": [
+    {
+     "judul": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-22T13:50:21.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Employers are being asked to give interview feedback - here's what applicants want",
      "tautan": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
@@ -159,12 +165,6 @@
      "judul": "Can AI really help spot Black Friday deals? We put it to the test",
      "tautan": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-21T00:06:11.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Tech stock sell-off drags markets down as Anthropic shares slide",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T22:42:47.000Z",
      "situs": "BBC News"
     },
     {
@@ -183,6 +183,12 @@
      "judul": "Should AI be judging our credit worthiness?",
      "tautan": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-20T07:32:19.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Tech stock sell-off drags markets down as Anthropic shares slide",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-20T22:42:47.000Z",
      "situs": "BBC News"
     },
     {
@@ -231,12 +237,6 @@
      "judul": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
      "tautan": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-20T06:00:33.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T00:02:07.000Z",
      "situs": "BBC News"
     }
    ]
