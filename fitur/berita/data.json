@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-23T11:39:10.068Z",
+ "diperbarui": "2026-11-23T23:07:22.448Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,50 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-23T11:39:10.068Z",
+   "diambil": "2026-11-23T23:07:22.448Z",
    "berita": [
+    {
+     "judul": "OJK Buka Suara soal Pertemuan Prabowo dengan Bos MSCI",
+     "tautan": "http://investortrust.id/market/123476/ojk-buka-suara-soal-pertemuan-prabowo-dengan-bos-msci",
+     "waktu": "2026-11-23T16:17:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Aspebtindo Usul Pemotongan PPh Final PBK Dilakukan Sebulan Sekali",
+     "tautan": "http://investortrust.id/market/123475/aspebtindo-usul-pemotongan-pph-final-pbk-dilakukan-sebulan-sekali",
+     "waktu": "2026-11-23T16:08:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Bidik Trader Ritel, TradePilot.id Hadirkan Platform Analisis Pasar Berbasis AI",
+     "tautan": "http://investortrust.id/market/123473/bidik-trader-ritel-tradepilotid-hadirkan-platform-analisis-pasar-berbasis-ai",
+     "waktu": "2026-11-23T15:56:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Tri Ismardiko Pimpin Venteny (VTNY), Perusahaan Perkuat Transformasi Digital",
+     "tautan": "http://investortrust.id/market/123455/tri-ismardiko-pimpin-venteny-vtny-perusahaan-perkuat-transformasi-digital",
+     "waktu": "2026-11-23T14:17:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Amran Masuk Usulan Cawapres Prabowo, Saham Emiten Haji Isam Jadi Sorotan",
+     "tautan": "http://investortrust.id/market/123447/amran-masuk-usulan-cawapres-prabowo-saham-emiten-haji-isam-jadi-sorotan",
+     "waktu": "2026-11-23T12:47:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Belajar dari Kripto, DJP Pertimbangkan PPh Final untuk Derivatif",
+     "tautan": "http://investortrust.id/market/123437/belajar-dari-kripto-djp-pertimbangkan-pph-final-untuk-derivatif",
+     "waktu": "2026-11-23T12:01:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Bappebti: Kehadiran Bursa Fisik Akan Perkuat Price Discovery dan Pencatatan Penerimaan Negara",
+     "tautan": "http://investortrust.id/market/123434/bappebti-kehadiran-bursa-fisik-akan-perkuat-price-discovery-dan-pencatatan-penerimaan-negara",
+     "waktu": "2026-11-23T11:30:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Pemodal Asing justru Net Sell Jumbo Rp 673,09 Miliar, Meski IHSG ditutup Rebound 1,35%",
      "tautan": "http://investortrust.id/market/123428/pemodal-asing-justru-net-sell-jumbo-rp-673-09-miliar-meski-ihsg-ditutup-rebound-1-35",
@@ -26,48 +68,6 @@
      "tautan": "http://investortrust.id/market/123420/pintu-gelar-edukasi-investasi-kripto-di-black-owl-indonesia",
      "waktu": "2026-11-23T10:09:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Bundamedik (BMHS) Gandeng Mayo Clinic Global Consulting, Kembangkan Program Ini",
-     "tautan": "http://investortrust.id/market/123419/bundamedik-bmhs-gandeng-mayo-clinic-global-consulting-kembangkan-program-ini",
-     "waktu": "2026-11-23T10:06:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Presiden Prabowo Turun Tangan Temui MSCI, Bakal Jadi Katalis Pemulihan IHSG ke Depan?",
-     "tautan": "http://investortrust.id/market/123417/presiden-prabowo-turun-tangan-temui-msci-bakal-jadi-katalis-pemulihan-ihsg-ke-depan",
-     "waktu": "2026-11-23T09:59:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Bappebti Dorong Kepastian Aturan Pajak Final untuk Industri Perdagangan Berjangka Komoditi",
-     "tautan": "http://investortrust.id/market/123414/bappebti-dorong-kepastian-aturan-pajak-final-untuk-industri-perdagangan-berjangka-komoditi",
-     "waktu": "2026-11-23T09:44:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Bappebti Desak PPh Final Segera Berlaku, Ini Alasan dan Dampaknya bagi Industri Berjangka",
-     "tautan": "http://investortrust.id/market/123413/bappebti-desak-pph-final-segera-berlaku-ini-alasan-dan-dampaknya-bagi-industri-berjangka",
-     "waktu": "2026-11-23T09:40:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Genjot Penjualan Aset dan Perkuat Arus Kas, PP Properti (PPRO) Andalkan Tiga Pilar Strategis",
-     "tautan": "http://investortrust.id/market/123410/genjot-penjualan-aset-dan-perkuat-arus-kas-pp-properti-ppro-andalkan-tiga-pilar-strategis",
-     "waktu": "2026-11-23T09:27:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "DJP: PPh Final Bisa Jaga Daya Saing Pasar Derivatif Indonesia",
-     "tautan": "http://investortrust.id/market/123411/djp-pph-final-bisa-jaga-daya-saing-pasar-derivatif-indonesia",
-     "waktu": "2026-11-23T09:24:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "IHSG Ditutup Rebound 1,35%, Saham Emiten Prajogo Dipimpin CUAN Melesat",
-     "tautan": "http://investortrust.id/market/123409/ihsg-ditutup-rebound-1-35-saham-emiten-prajogo-dipimpin-cuan-melesat",
-     "waktu": "2026-11-23T09:11:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,8 +77,20 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-23T11:39:10.068Z",
+   "diambil": "2026-11-23T23:07:22.448Z",
    "berita": [
+    {
+     "judul": "Cegah Kebocoran Rp 400 Triliun, Pemerintah Dorong Penyaluran Bansos Lewat Kopdes Merah Putih",
+     "tautan": "http://investortrust.id/macro/123460/cegah-kebocoran-rp-400-triliun-pemerintah-dorong-penyaluran-bansos-lewat-kopdes-merah-putih",
+     "waktu": "2026-11-23T14:54:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Rupiah Tertekan, BI Andalkan Kenaikan Suku Bunga untuk Tahan Arus Modal Keluar",
+     "tautan": "http://investortrust.id/macro/123445/rupiah-tertekan-bi-andalkan-kenaikan-suku-bunga-untuk-tahan-arus-modal-keluar",
+     "waktu": "2026-11-23T12:32:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Bos MSCI Bertemu Prabowo, BI Sebut Bawa Sentimen Positif bagi Rupiah",
      "tautan": "http://investortrust.id/macro/123429/bos-msci-bertemu-prabowo-bi-sebut-bawa-sentimen-positif-bagi-rupiah",
@@ -126,18 +138,6 @@
      "tautan": "http://investortrust.id/macro/123296/ieu-cepa-resmi-diteken-90-4-produk-ri-bebas-tarif-masuk-pasar-eropa",
      "waktu": "2026-11-21T16:12:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Mendag Bidik Ekspor ke Uni Eropa Naik 50% dalam Lima Tahun Usai IEU-CEPA Diteken",
-     "tautan": "http://investortrust.id/macro/123295/mendag-bidik-ekspor-ke-uni-eropa-naik-50-dalam-lima-tahun-usai-ieu-cepa-diteken",
-     "waktu": "2026-11-21T16:08:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Indonesia dan Uni Eropa Resmi Teken IEU-CEPA dan IPA, Perkuat Kerja Sama Perdagangan dan Investasi Berkelanjutan",
-     "tautan": "http://investortrust.id/macro/123293/indonesia-dan-uni-eropa-resmi-teken-ieu-cepa-dan-ipa-perkuat-kerja-sama-perdagangan-dan-investasi-berkelanjutan",
-     "waktu": "2026-11-21T14:23:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,12 +147,48 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-23T11:39:10.068Z",
+   "diambil": "2026-11-23T23:07:22.448Z",
    "berita": [
+    {
+     "judul": "Faisal Islam: Why Jensen Huang proved too big to fire",
+     "tautan": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-23T17:11:58.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+     "tautan": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-23T21:23:42.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "How important are Nvidia and Jensen Huang to the US economy?",
+     "tautan": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-23T16:12:35.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "The rise and fall and rise again of Jensen Huang",
+     "tautan": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-23T15:49:52.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-23T00:08:00.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Capita shares plunge 70% as boss quits after civil service pensions failure",
      "tautan": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-23T11:24:37.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Next data accessed in cyber breach",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-23T12:34:07.000Z",
      "situs": "BBC News"
     },
     {
@@ -176,13 +212,7 @@
     {
      "judul": "Pip assessments need 'fundamental overhaul', report to say",
      "tautan": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-23T09:37:07.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-23T00:08:00.000Z",
+     "waktu": "2026-11-23T17:59:55.000Z",
      "situs": "BBC News"
     },
     {
@@ -192,51 +222,21 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-22T13:50:21.000Z",
-     "situs": "BBC News"
-    },
-    {
      "judul": "Hundreds of applications, no replies: Inside the job ghosting problem‌",
      "tautan": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-22T00:04:07.000Z",
      "situs": "BBC News"
     },
     {
+     "judul": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-22T13:50:21.000Z",
+     "situs": "BBC News"
+    },
+    {
      "judul": "Can AI really help spot Black Friday deals? We put it to the test",
      "tautan": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-21T00:06:11.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-     "tautan": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-23T00:33:36.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T16:41:52.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "MP criticises Guernsey and Jersey company ownership register plans",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-22T07:22:05.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T17:49:48.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Trump threatens ban on US firms building AI data centres overseas",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T20:54:12.000Z",
      "situs": "BBC News"
     }
    ]
