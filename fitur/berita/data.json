@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-22T22:15:33.408Z",
+ "diperbarui": "2026-11-23T02:56:05.380Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,32 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-22T22:15:33.408Z",
+   "diambil": "2026-11-23T02:56:05.380Z",
    "berita": [
+    {
+     "judul": "Pengamat Nilai Riwayat Investor Pasif Pandu Sjahrir di Supra Sekuritas Tak Terkait Danantara",
+     "tautan": "http://investortrust.id/market/123354/pengamat-nilai-riwayat-investor-pasif-pandu-sjahrir-di-supra-sekuritas-tak-terkait-danantara",
+     "waktu": "2026-11-23T01:06:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Prospek Saham Lonsum (LSIP) Makin Menarik, Laba Melonjak dan Harga CPO Naik",
+     "tautan": "http://investortrust.id/market/123352/prospek-saham-lonsum-lsip-makin-menarik-laba-melonjak-dan-harga-cpo-naik",
+     "waktu": "2026-11-22T23:44:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Nasabah Tumbuh 70%, Valbury Perluas Ekosistem Trading dengan AI dan Produk Global",
+     "tautan": "http://investortrust.id/market/123348/nasabah-tumbuh-70-valbury-perluas-ekosistem-trading-dengan-ai-dan-produk-global",
+     "waktu": "2026-11-22T23:23:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "IHSG Berpeluang Lanjutkan Pelemahan Hari Ini, Tiga Saham Dipimpin EXCL Layak Dilirik",
+     "tautan": "http://investortrust.id/market/123347/ihsg-berpeluang-lanjutkan-pelemahan-hari-ini-tiga-saham-dipimpin-excl-layak-dilirik",
+     "waktu": "2026-11-22T22:31:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Indonesia Secures First Paris Agreement Carbon Deal Targeting 12 Million Tons of Emission Cuts at COP31",
      "tautan": "http://investortrust.id/market/123338/indonesia-secures-first-paris-agreement-carbon-deal-targeting-12-million-tons-of-emission-cuts-at-cop31",
@@ -44,30 +68,6 @@
      "tautan": "http://investortrust.id/market/123264/indonesia-china-business-forum-2026-yields-15-billion-in-investment-deals-amid-global-uncertainty",
      "waktu": "2026-11-21T06:03:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "OJK Limpahkan 4 Tersangka Manipulasi Waran, Kerugian Capai Rp 6,97 Miliar",
-     "tautan": "http://investortrust.id/market/123265/ojk-limpahkan-4-tersangka-manipulasi-waran-kerugian-capai-rp-6-97-miliar",
-     "waktu": "2026-11-21T05:20:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Indonesian Stocks Plunge 3.71% Weekly as Kiwoom Puts Year-End Rally Odds at Just 55%",
-     "tautan": "http://investortrust.id/market/123259/indonesian-stocks-plunge-371-weekly-as-kiwoom-puts-year-end-rally-odds-at-just-55",
-     "waktu": "2026-11-21T03:58:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Merdeka Copper Gold (MDKA) Swings to $157 Million Profit in First Nine Months of 2026",
-     "tautan": "http://investortrust.id/market/123255/merdeka-copper-gold-mdka-swings-to-157-million-profit-in-first-nine-months-of-2026",
-     "waktu": "2026-11-21T03:38:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Laba Merdeka Battery Materials (MBMA) Pecahkan Rekor, Ini Penopangnya",
-     "tautan": "http://investortrust.id/market/123254/laba-merdeka-battery-materials-mbma-pecahkan-rekor-ini-penopangnya",
-     "waktu": "2026-11-21T03:37:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-22T22:15:33.408Z",
+   "diambil": "2026-11-23T02:56:05.380Z",
    "berita": [
     {
      "judul": "Redam Harga Beras Jelang Akhir Tahun, Bapanas Tambah 100.000 Ton Alokasi Beras SPHP",
@@ -147,12 +147,24 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-22T22:15:33.408Z",
+   "diambil": "2026-11-23T02:56:05.380Z",
    "berita": [
     {
      "judul": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
      "tautan": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-22T13:50:21.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "What is going on with Poundland?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-23T00:22:27.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Energy bills will soar - here's how you can ease the pain",
+     "tautan": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-23T01:05:07.000Z",
      "situs": "BBC News"
     },
     {
@@ -168,21 +180,21 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T16:41:52.000Z",
+     "judul": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-23T00:08:00.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
      "tautan": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-22T07:12:41.000Z",
+     "waktu": "2026-11-23T00:33:36.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "Should AI be judging our credit worthiness?",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T07:32:19.000Z",
+     "judul": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-20T16:41:52.000Z",
      "situs": "BBC News"
     },
     {
@@ -222,21 +234,9 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Fish and eggs al desko? The dos and don'ts of lunch at work",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T00:08:37.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Airbnb's divisive new house rules come into force",
-     "tautan": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T15:48:35.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-20T06:00:33.000Z",
+     "judul": "Should AI be judging our credit worthiness?",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-20T07:32:19.000Z",
      "situs": "BBC News"
     }
    ]
