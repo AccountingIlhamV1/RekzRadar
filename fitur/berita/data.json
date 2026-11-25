@@ -1,12 +1,12 @@
 {
- "diperbarui": "2026-11-25T02:51:51.760Z",
+ "diperbarui": "2026-11-25T11:54:33.106Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-25T02:51:51.760Z",
    "berita": [
     {
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-25T02:51:51.760Z",
    "berita": [
     {
@@ -147,42 +147,48 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-25T02:51:51.760Z",
+   "diambil": "2026-11-25T11:54:33.106Z",
    "berita": [
     {
-     "judul": "Households braced for soaring energy bills with new price cap to be announced",
+     "judul": "Energy bills to rise by 26% from January after gas prices surge",
      "tautan": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T00:29:58.000Z",
+     "waktu": "2026-11-25T11:44:26.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "US preparing to unveil new tariffs on global trading partners",
-     "tautan": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T00:38:01.000Z",
+     "judul": "Energy bills will soar - here's how you can ease the pain",
+     "tautan": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-25T10:42:20.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "What will the energy cap changes mean for my bills?",
      "tautan": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T00:33:25.000Z",
+     "waktu": "2026-11-25T09:54:32.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+     "judul": "US preparing to unveil plan for new tariffs on global trading partners",
+     "tautan": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-25T00:38:01.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Trump's rescue of Nvidia's Huang brings political risks",
      "tautan": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-25T01:03:05.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-     "tautan": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T00:30:52.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "Why tiny cars are taking off across Europe",
      "tautan": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-25T00:34:05.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Electric blankets and closed curtains - how we're coping with the energy bill rise",
+     "tautan": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-25T11:23:13.000Z",
      "situs": "BBC News"
     },
     {
@@ -194,13 +200,13 @@
     {
      "judul": "US attorney general dodges questions about Nvidia investigation",
      "tautan": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-24T21:19:42.000Z",
+     "waktu": "2026-11-25T03:44:07.000Z",
      "situs": "BBC News"
     },
     {
-     "judul": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+     "judul": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
      "tautan": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T01:11:57.000Z",
+     "waktu": "2026-11-25T10:52:09.000Z",
      "situs": "BBC News"
     },
     {
@@ -231,12 +237,6 @@
      "judul": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
      "tautan": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-24T00:11:08.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-     "tautan": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-23T21:23:42.000Z",
      "situs": "BBC News"
     }
    ]
