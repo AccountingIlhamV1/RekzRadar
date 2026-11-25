@@ -1,72 +1,72 @@
 {
- "diperbarui": "2026-11-25T11:54:33.106Z",
+ "diperbarui": "2026-11-25T20:53:06.468Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-25T02:51:51.760Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-25T20:53:06.468Z",
    "berita": [
     {
-     "judul": "Kerugian Investor Bitcoin Tembus Level Tertinggi Sejak Keruntuhan FTX 2022?",
-     "tautan": "http://investortrust.id/market/123614/kerugian-investor-bitcoin-tembus-level-tertinggi-sejak-keruntuhan-ftx-2022",
-     "waktu": "2026-11-25T02:27:00.000Z",
+     "judul": "Tingkatkan Kerja Sama Lintas Negara, SIPF Teken MOU dengan SFIPC",
+     "tautan": "http://investortrust.id/market/123699/tingkatkan-kerja-sama-lintas-negara-sipf-teken-mou-dengan-sfipc",
+     "waktu": "2026-11-25T17:17:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "IHSG Dibuka Melemah Tipis, Mayoritas Sektor Saham Dilanda Penurunan",
-     "tautan": "http://investortrust.id/market/123604/ihsg-dibuka-melemah-tipis-mayoritas-sektor-saham-dilanda-penurunan",
-     "waktu": "2026-11-25T02:00:00.000Z",
+     "judul": "Superior Prima (BLES) Optimistis Tutup 2026 dengan Pertumbuhan Dua Digit",
+     "tautan": "http://investortrust.id/market/123698/superior-prima-bles-optimistis-tutup-2026-dengan-pertumbuhan-dua-digit",
+     "waktu": "2026-11-25T17:09:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Penindakan Pelanggaran Pasar Modal, Praktisi Sampaikan Sejumlah Usulan",
-     "tautan": "http://investortrust.id/market/123607/penindakan-pelanggaran-pasar-modal-praktisi-sampaikan-sejumlah-usulan",
-     "waktu": "2026-11-25T02:00:00.000Z",
+     "judul": "Adaro Andalan to Pay $500 Million Interim Dividend in December",
+     "tautan": "http://investortrust.id/market/123679/adaro-andalan-to-pay-500-million-interim-dividend-in-december",
+     "waktu": "2026-11-25T14:00:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Reliance Sekuritas Rekomendasi Beli 4 Saham, Ada ELSA hingga ISAT",
-     "tautan": "http://investortrust.id/market/123601/reliance-sekuritas-rekomendasi-beli-4-saham-ada-elsa-hingga-isat",
-     "waktu": "2026-11-25T01:45:00.000Z",
+     "judul": "Adaro Andalan (AADI) Tebar Dividen Interim US$ 500 Juta, Cek Jadwal Berikut",
+     "tautan": "http://investortrust.id/market/123672/adaro-andalan-aadi-tebar-dividen-interim-us-500-juta-cek-jadwal-berikut",
+     "waktu": "2026-11-25T13:19:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Produksi Emas Digenjot, Saham Merdeka Copper (MDKA) Punya Potensi Kenaikan Segini",
-     "tautan": "http://investortrust.id/market/123599/produksi-emas-digenjot-saham-merdeka-copper-mdka-punya-potensi-kenaikan-segini",
-     "waktu": "2026-11-25T01:39:00.000Z",
+     "judul": "Cegah FOMO, PINTU Bekali Mahasiswa Trisakti dengan Literasi Kripto",
+     "tautan": "http://investortrust.id/market/123673/cegah-fomo-pintu-bekali-mahasiswa-trisakti-dengan-literasi-kripto",
+     "waktu": "2026-11-25T13:11:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Tawarkan Potensi Dividen Yield 13,3%, Prospek Saham Timah (TINS) Menarik",
-     "tautan": "http://investortrust.id/market/123590/tawarkan-potensi-dividen-yield-13-3-prospek-saham-timah-tins-menarik",
-     "waktu": "2026-11-24T23:36:00.000Z",
+     "judul": "BEI Catat Net Sell Rp 336,22 Miliar, Sebaliknya Saham BBCA dan BMRI Diborong Pemodal Asing",
+     "tautan": "http://investortrust.id/market/123666/bei-catat-net-sell-rp-336-22-miliar-sebaliknya-saham-bbca-dan-bmri-diborong-pemodal-asing",
+     "waktu": "2026-11-25T11:17:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "IHSG Berpeluang Lanjutkan Penguatan, Saham ISAT hingga BMRI Layak Dilirik",
-     "tautan": "http://investortrust.id/market/123589/ihsg-berpeluang-lanjutkan-penguatan-saham-isat-hingga-bmri-layak-dilirik",
-     "waktu": "2026-11-24T22:38:00.000Z",
+     "judul": "Danantara Rampingkan 380 Perusahaan BUMN, Targetkan 600 hingga Akhir 2026",
+     "tautan": "http://investortrust.id/market/123662/danantara-rampingkan-380-perusahaan-bumn-targetkan-600-hingga-akhir-2026",
+     "waktu": "2026-11-25T10:27:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Lebih dari Sejam, Presiden dan CEO MSCI Bahas Nasib Bursa Indonesia Lewat Telepon",
-     "tautan": "http://investortrust.id/market/123586/lebih-dari-sejam-presiden-dan-ceo-msci-bahas-nasib-bursa-indonesia-lewat-telepon",
-     "waktu": "2026-11-24T16:50:00.000Z",
+     "judul": "Gelontorkan Rp 162 Triliun hingga Oktober 2026, Ini Gebrakan Investasi Danantara hingga 2027",
+     "tautan": "http://investortrust.id/market/123659/gelontorkan-rp-162-triliun-hingga-oktober-2026-ini-gebrakan-investasi-danantara-hingga-2027",
+     "waktu": "2026-11-25T10:19:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "BSI (BRIS) Akui Laba per Saham Berpotensi Terdilusi dalam Jangka Pendek Imbas Rights Issue",
-     "tautan": "http://investortrust.id/market/123578/bsi-bris-akui-laba-per-saham-berpotensi-terdilusi-dalam-jangka-pendek-imbas-rights-issue",
-     "waktu": "2026-11-24T14:48:00.000Z",
+     "judul": "Jasuindo Tiga Perkasa (JTPE) Bagi Dividen Interim, Segini ‘Jatah’ per Saham",
+     "tautan": "http://investortrust.id/market/123652/jasuindo-tiga-perkasa-jtpe-bagi-dividen-interim-segini-jatah-per-saham",
+     "waktu": "2026-11-25T09:45:00.000Z",
      "situs": "Investortrust"
     },
     {
-     "judul": "Mayoritas Investor Kripto RI dari Kalangan Gen Z, Luno Soroti Fenomena FOMO dan Kesenjangan Literasi",
-     "tautan": "http://investortrust.id/market/123567/mayoritas-investor-kripto-ri-dari-kalangan-gen-z-luno-soroti-fenomena-fomo-dan-kesenjangan-literasi",
-     "waktu": "2026-11-24T13:22:00.000Z",
+     "judul": "Danantara Masih Tunggu Tawaran Regulator soal Porsi Saham BEI",
+     "tautan": "http://investortrust.id/market/123649/danantara-masih-tunggu-tawaran-regulator-soal-porsi-saham-bei",
+     "waktu": "2026-11-25T09:17:00.000Z",
      "situs": "Investortrust"
     }
    ]
@@ -75,10 +75,28 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-25T02:51:51.760Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-25T20:53:06.468Z",
    "berita": [
+    {
+     "judul": "Indonesia dan OECD Luncurkan Laporan Penguatan Ekosistem Semikonduktor Nasional",
+     "tautan": "http://investortrust.id/macro/123657/indonesia-dan-oecd-luncurkan-laporan-penguatan-ekosistem-semikonduktor-nasional",
+     "waktu": "2026-11-25T10:16:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Soal Aksesi Indonesia, Sekjen OECD: Tidak Ada Jadwal Waktu Pasti",
+     "tautan": "http://investortrust.id/macro/123630/soal-aksesi-indonesia-sekjen-oecd-tidak-ada-jadwal-waktu-pasti",
+     "waktu": "2026-11-25T05:50:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Uncertainty Is the Biggest Enemy of Investment, Employers Group Says",
+     "tautan": "http://investortrust.id/macro/123619/uncertainty-is-the-biggest-enemy-of-investment-employers-group-says",
+     "waktu": "2026-11-25T03:01:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Rupiah Melemah Terhadap Dolar AS, Tekanan Eksternal Masih Berlanjut",
      "tautan": "http://investortrust.id/macro/123616/rupiah-melemah-terhadap-dolar-as-tekanan-eksternal-masih-berlanjut",
@@ -120,24 +138,6 @@
      "tautan": "http://investortrust.id/macro/123561/menkeu-pajak-yang-tidak-dipungut-rp-576-4-triliun-atau-2-24-dari-pdb",
      "waktu": "2026-11-24T12:34:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Bos Apindo: Indonesia Hadapi 'Investment Trap' saat ASEAN Kebanjiran Modal",
-     "tautan": "http://investortrust.id/macro/123553/bos-apindo-indonesia-hadapi-investment-trap-saat-asean-kebanjiran-modal",
-     "waktu": "2026-11-24T12:22:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Pemerintah Fasilitasi Pajak untuk Restrukturisasi Danantara, Dukung Pertumbuhan Investasi",
-     "tautan": "http://investortrust.id/macro/123550/pemerintah-fasilitasi-pajak-untuk-restrukturisasi-danantara-dukung-pertumbuhan-investasi",
-     "waktu": "2026-11-24T11:54:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Menkeu: Kredibilitas Fiskal dan Investasi adalah Kunci Capai Pertumbuhan Ekonomi 6%",
-     "tautan": "http://investortrust.id/macro/123549/menkeu-kredibilitas-fiskal-dan-investasi-adalah-kunci-capai-pertumbuhan-ekonomi-6",
-     "waktu": "2026-11-24T11:51:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,36 +147,36 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-25T11:54:33.106Z",
+   "diambil": "2026-11-25T20:53:06.468Z",
    "berita": [
+    {
+     "judul": "Poundland collapses putting 11,000 jobs at risk",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-25T20:43:58.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "What's gone wrong at Poundland?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-25T17:00:32.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "US announces new tariffs on host of countries including China",
+     "tautan": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-25T16:21:34.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "US stocks fall further as fears over AI intensify",
+     "tautan": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-25T17:48:09.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Energy bills to rise by 26% from January after gas prices surge",
      "tautan": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T11:44:26.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Energy bills will soar - here's how you can ease the pain",
-     "tautan": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T10:42:20.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "What will the energy cap changes mean for my bills?",
-     "tautan": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T09:54:32.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "US preparing to unveil plan for new tariffs on global trading partners",
-     "tautan": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T00:38:01.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Trump's rescue of Nvidia's Huang brings political risks",
-     "tautan": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T01:03:05.000Z",
+     "waktu": "2026-11-25T13:42:08.000Z",
      "situs": "BBC News"
     },
     {
@@ -186,9 +186,39 @@
      "situs": "BBC News"
     },
     {
-     "judul": "Electric blankets and closed curtains - how we're coping with the energy bill rise",
+     "judul": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+     "tautan": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-25T16:42:11.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Energy bills will soar - here's how you can ease the pain",
+     "tautan": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-25T10:42:20.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
      "tautan": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T11:23:13.000Z",
+     "waktu": "2026-11-25T12:12:11.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "What will the energy cap changes mean for my bills?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-25T09:54:32.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+     "tautan": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-25T10:03:12.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Trump's rescue of Nvidia's Huang brings political risks",
+     "tautan": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-25T01:03:05.000Z",
      "situs": "BBC News"
     },
     {
@@ -207,36 +237,6 @@
      "judul": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
      "tautan": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-25T10:52:09.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Will I get the £100 energy payment and when will I receive it?",
-     "tautan": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-24T20:16:24.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-     "tautan": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-24T10:53:37.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "World Cup drove profits surge, says Marston's",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-24T13:03:20.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "The shake-up facing renters as a new kind of landlord emerges",
-     "tautan": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-24T00:28:48.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-     "tautan": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-24T00:11:08.000Z",
      "situs": "BBC News"
     }
    ]
