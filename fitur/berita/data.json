@@ -1,12 +1,12 @@
 {
- "diperbarui": "2026-11-26T12:57:12.597Z",
+ "diperbarui": "2026-11-26T22:06:29.346Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-26T12:57:12.597Z",
    "berita": [
     {
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-26T12:57:12.597Z",
    "berita": [
     {
@@ -147,12 +147,48 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-26T12:57:12.597Z",
+   "diambil": "2026-11-26T22:06:29.346Z",
    "berita": [
+    {
+     "judul": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-26T19:55:58.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Millions of people to see average monthly mortgage payments rise by £100",
+     "tautan": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-26T14:00:20.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+     "tautan": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-26T13:40:46.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "New boss appointed to lead Travelodge",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-26T12:03:49.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "When will Poundland shops close? Five key questions answered",
+     "tautan": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-26T17:21:21.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Guitar wars - the transatlantic battle over the Stratocaster",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-26T00:01:37.000Z",
+     "situs": "BBC News"
+    },
     {
      "judul": "Norse Atlantic suspends all flights as it faces potential collapse",
      "tautan": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-26T11:43:38.000Z",
+     "waktu": "2026-11-26T14:28:22.000Z",
      "situs": "BBC News"
     },
     {
@@ -164,25 +200,13 @@
     {
      "judul": "New UK-EU treaty has 10-year termination clause",
      "tautan": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-26T09:59:14.000Z",
+     "waktu": "2026-11-26T15:23:17.000Z",
      "situs": "BBC News"
     },
     {
      "judul": "Car finance compensation payments explained",
      "tautan": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-26T09:39:50.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "UK signs £8bn deal to ensure submarines are 'warfighting ready'",
-     "tautan": "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-26T09:23:46.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Guitar wars - the transatlantic battle over the Stratocaster",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-26T00:01:37.000Z",
      "situs": "BBC News"
     },
     {
@@ -213,30 +237,6 @@
      "judul": "US stocks fall further as fears over AI intensify",
      "tautan": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-25T21:43:18.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Energy bills to rise by 26% from January after gas prices surge",
-     "tautan": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T13:42:08.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-     "tautan": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T16:42:11.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Energy bills will soar - here's how you can ease the pain",
-     "tautan": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T10:42:20.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-     "tautan": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T12:12:11.000Z",
      "situs": "BBC News"
     }
    ]
