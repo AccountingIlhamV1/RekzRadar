@@ -1,14 +1,44 @@
 {
- "diperbarui": "2026-11-26T22:06:29.346Z",
+ "diperbarui": "2026-11-27T04:22:40.690Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-26T12:57:12.597Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-27T04:22:40.690Z",
    "berita": [
+    {
+     "judul": "Empat Kali Beruntun, Cinema XXI (CNMA) Masuk Daftar Perusahaan Terbaik Deloitte",
+     "tautan": "http://investortrust.id/market/123849/empat-kali-beruntun-cinema-xxi-cnma-masuk-daftar-perusahaan-terbaik-deloitte",
+     "waktu": "2026-11-27T03:49:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Airlangga Rules Out 28% U.S. Tariff as Indonesia Prepares for Section 301 Talks",
+     "tautan": "http://investortrust.id/market/123844/airlangga-rules-out-28-us-tariff-as-indonesia-prepares-for-section-301-talks",
+     "waktu": "2026-11-27T03:26:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Pertamina Geothermal (PGEO) Raih Peringkat ‘Stable Outlook’ dari S&P Global",
+     "tautan": "http://investortrust.id/market/123842/pertamina-geothermal-pgeo-raih-peringkat-stable-outlook-dari-sp-global",
+     "waktu": "2026-11-27T03:01:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Pindah ke ICEx, INDODAX Siapkan Inovasi Pasar Kripto di Tahun Depan",
+     "tautan": "http://investortrust.id/market/123827/pindah-ke-icex-indodax-siapkan-inovasi-pasar-kripto-di-tahun-depan",
+     "waktu": "2026-11-27T00:06:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Mirae Asset : Saham Telko Dibayangi Badai MSCI, Dana Asing Rp 15,9 Triliun Terancam Keluar",
+     "tautan": "http://investortrust.id/market/123814/mirae-asset-saham-telko-dibayangi-badai-msci-dana-asing-rp-15-9-triliun-terancam-keluar",
+     "waktu": "2026-11-26T13:10:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Rumor Bisa Menguras Dana Bank, OJK Ajak Media Selalu Cek Fakta",
      "tautan": "http://investortrust.id/market/123798/rumor-bisa-menguras-dana-bank-ojk-ajak-media-selalu-cek-fakta",
@@ -38,36 +68,6 @@
      "tautan": "http://investortrust.id/market/123764/nilai-transaksi-kripto-di-indonesia-capai-rp-30-56-triliun-ini-risiko-yang-perlu-dicermati",
      "waktu": "2026-11-26T08:31:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Bumi Resources (BUMI) Cetak Kenaikan Laba Bersih 404,9% Hingga September 2026",
-     "tautan": "http://investortrust.id/market/123758/bumi-resources-bumi-cetak-kenaikan-laba-bersih-404-9-hingga-september-2026",
-     "waktu": "2026-11-26T08:10:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Travelio Luncurkan 3 Program untuk Pemilik Apartemen, Tawarkan Jaminan Pendapatan hingga Sewa Dibayar di Muka",
-     "tautan": "http://investortrust.id/market/123750/travelio-luncurkan-3-program-untuk-pemilik-apartemen-tawarkan-jaminan-pendapatan-hingga-sewa-dibayar-di-muka",
-     "waktu": "2026-11-26T07:00:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Indonesia and China Advance 162 Km Trans-Kalimantan Coal Rail Project",
-     "tautan": "http://investortrust.id/market/123755/indonesia-and-china-advance-162-km-trans-kalimantan-coal-rail-project",
-     "waktu": "2026-11-26T05:40:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "BRI Chief Executive Hery Gunardi Named Digital Banker of the Year 2026 as BRImo Readies Rebrand",
-     "tautan": "http://investortrust.id/market/123744/bri-chief-executive-hery-gunardi-named-digital-banker-of-the-year-2026-as-brimo-readies-rebrand",
-     "waktu": "2026-11-26T05:33:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Where Rp 131.4 Trillion in SOE Dividends Flows Inside Danantara",
-     "tautan": "http://investortrust.id/market/123743/where-rp-1314-trillion-in-soe-dividends-flows-inside-danantara",
-     "waktu": "2026-11-26T05:21:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -75,10 +75,22 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-26T12:57:12.597Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-27T04:22:40.690Z",
    "berita": [
+    {
+     "judul": "Indonesia Charges Fugitive 'Nickel King' Arif Kurniawan in Rp 153.5 Billion Money Laundering Crackdown",
+     "tautan": "http://investortrust.id/macro/123847/indonesia-charges-fugitive-nickel-king-arif-kurniawan-in-rp-1535-billion-money-laundering-crackdown",
+     "waktu": "2026-11-27T03:36:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Menko Airlangga Jamin Tak Ada Komoditas Ekspor Indonesia ke AS Kena Tarif 28%",
+     "tautan": "http://investortrust.id/macro/123808/menko-airlangga-jamin-tak-ada-komoditas-ekspor-indonesia-ke-as-yang-kena-tarif-28",
+     "waktu": "2026-11-26T12:46:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "OECD Rekomendasikan Kenaikan Tarif PPN 12%, Pemerintah: Belum!",
      "tautan": "http://investortrust.id/macro/123805/oecd-rekomendasikan-kenaikan-tarif-ppn-12-pemerintah-belum",
@@ -126,18 +138,6 @@
      "tautan": "http://investortrust.id/macro/123753/rupiah-sempat-sentuh-rp-18400-per-dolar-as-bi-risk-off-global-dan-kekhawatiran-reklasifikasi-pasar-saham",
      "waktu": "2026-11-26T05:06:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "USTR Usulkan Pengenaan Tarif 18% ke Indonesia karena Praktik Excess Capacity",
-     "tautan": "http://investortrust.id/macro/123741/ustr-usulkan-pengenaan-tarif-18-ke-indonesia-karena-praktik-excess-capacity",
-     "waktu": "2026-11-26T04:28:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Rupiah Bergerak Melemah Kala Sejumlah Mata Uang di Asia Menguat terhadap Dolar AS",
-     "tautan": "http://investortrust.id/macro/123738/rupiah-bergerak-melemah-kala-sejumlah-mata-uang-di-asia-menguat-terhadap-dolar-as",
-     "waktu": "2026-11-26T02:45:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,12 +147,30 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-26T22:06:29.346Z",
+   "diambil": "2026-11-27T04:22:40.690Z",
    "berita": [
     {
      "judul": "Faisal Islam: Why Trump's new tariffs are less of a threat",
      "tautan": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-26T19:55:58.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "UK to pay 'participation' fee to deliver EU deals",
+     "tautan": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-26T23:17:12.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "Asia made a big AI bet on Nvidia. What happens now?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-26T23:08:12.000Z",
+     "situs": "BBC News"
+    },
+    {
+     "judul": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+     "tautan": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-27T00:54:45.000Z",
      "situs": "BBC News"
     },
     {
@@ -168,6 +186,12 @@
      "situs": "BBC News"
     },
     {
+     "judul": "Why is there a shortage of 'wizard' elevator mechanics?",
+     "tautan": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+     "waktu": "2026-11-27T00:02:19.000Z",
+     "situs": "BBC News"
+    },
+    {
      "judul": "New boss appointed to lead Travelodge",
      "tautan": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-26T12:03:49.000Z",
@@ -177,12 +201,6 @@
      "judul": "When will Poundland shops close? Five key questions answered",
      "tautan": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-26T17:21:21.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Guitar wars - the transatlantic battle over the Stratocaster",
-     "tautan": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-26T00:01:37.000Z",
      "situs": "BBC News"
     },
     {
@@ -219,24 +237,6 @@
      "judul": "What's gone wrong at Poundland?",
      "tautan": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
      "waktu": "2026-11-26T10:15:47.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "US announces new tariffs on host of countries including China",
-     "tautan": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-26T04:10:58.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "Musk's plan to send a million SpaceX data satellites into space approved",
-     "tautan": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-26T09:27:44.000Z",
-     "situs": "BBC News"
-    },
-    {
-     "judul": "US stocks fall further as fears over AI intensify",
-     "tautan": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-     "waktu": "2026-11-25T21:43:18.000Z",
      "situs": "BBC News"
     }
    ]
