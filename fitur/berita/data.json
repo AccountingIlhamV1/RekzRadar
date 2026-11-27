@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-27T14:06:07.898Z",
+ "diperbarui": "2026-11-27T22:49:05.587Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,7 +7,7 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-27T14:06:07.898Z",
+   "diambil": "2026-11-27T22:49:05.587Z",
    "berita": [
     {
      "judul": "BEI Lirik Potensi Pasar Modal Syariah Kalimantan Timur, Ini Alasannya",
@@ -77,8 +77,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-27T14:06:07.898Z",
+   "diambil": "2026-11-27T22:49:05.587Z",
    "berita": [
+    {
+     "judul": "Bank Indonesia Targets Rupiah Stability and Inflation Control in 2027 Policy Mix",
+     "tautan": "http://investortrust.id/macro/123903/bank-indonesia-targets-rupiah-stability-and-inflation-control-in-2027-policy-mix",
+     "waktu": "2026-11-27T14:41:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "BI Optimistis Capaian Positif Ekonomi Indonesia akan Berlanjut pada 2027",
      "tautan": "http://investortrust.id/macro/123896/bi-optimistis-capaian-positif-ekonomi-indonesia-akan-berlanjut-pada-2027",
@@ -132,12 +138,6 @@
      "tautan": "http://investortrust.id/macro/123847/indonesia-charges-fugitive-nickel-king-arif-kurniawan-in-rp-1535-billion-money-laundering-crackdown",
      "waktu": "2026-11-27T03:36:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Menko Airlangga Jamin Tak Ada Komoditas Ekspor Indonesia ke AS Kena Tarif 28%",
-     "tautan": "http://investortrust.id/macro/123808/menko-airlangga-jamin-tak-ada-komoditas-ekspor-indonesia-ke-as-yang-kena-tarif-28",
-     "waktu": "2026-11-26T12:46:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-27T14:06:07.898Z",
+   "diambil": "2026-11-27T22:49:05.587Z",
    "berita": [
     {
      "judul": "Faisal Islam: Why Trump's new tariffs are less of a threat",
