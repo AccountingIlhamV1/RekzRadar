@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-28T13:24:15.207Z",
+ "diperbarui": "2026-11-28T21:08:30.271Z",
  "sumber": [
   {
    "id": "pasar",
@@ -7,8 +7,14 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-28T13:24:15.207Z",
+   "diambil": "2026-11-28T21:08:30.271Z",
    "berita": [
+    {
+     "judul": "OJK Luncurkan Portal Transparansi, Investor Bisa Akses Data Emiten",
+     "tautan": "http://investortrust.id/market/123981/ojk-luncurkan-portal-transparansi-investor-bisa-akses-data-emiten",
+     "waktu": "2026-11-28T14:32:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Rescuers Halt Search for 14 Missing Miners After Days of Flooding at Pongkor Illegal Gold Mine",
      "tautan": "http://investortrust.id/market/123970/rescuers-halt-search-for-14-missing-miners-after-days-of-flooding-at-pongkor-illegal-gold-mine",
@@ -62,12 +68,6 @@
      "tautan": "http://investortrust.id/market/123920/ihsg-lompat-3-73-ke-atas-5300-sepekan-saham-bbca-asii-hingga-bmri-jadi-penopang",
      "waktu": "2026-11-27T22:59:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "BEI Lirik Potensi Pasar Modal Syariah Kalimantan Timur, Ini Alasannya",
-     "tautan": "http://investortrust.id/market/123888/bei-lirik-potensi-pasar-modal-syariah-kalimantan-timur-ini-alasannya",
-     "waktu": "2026-11-27T12:24:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -77,8 +77,20 @@
    "bahasa": "id",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-28T13:24:15.207Z",
+   "diambil": "2026-11-28T21:08:30.271Z",
    "berita": [
+    {
+     "judul": "Menko Airlangga: Dinamika Perdagangan Global Perkuat Momentum Penyelesaian IEU-CEPA",
+     "tautan": "http://investortrust.id/macro/123986/menko-airlangga-dinamika-perdagangan-global-perkuat-momentum-penyelesaian-ieu-cepa",
+     "waktu": "2026-11-28T16:19:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "“You Cannot Help the Poor by Destroying the Rich”",
+     "tautan": "http://investortrust.id/macro/123985/you-cannot-help-the-poor-by-destroying-the-rich",
+     "waktu": "2026-11-28T15:39:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Kasus Penyakit Jantung Tembus 29,7 Juta, Prabowo Soroti Beban JKN",
      "tautan": "http://investortrust.id/macro/123975/kasus-penyakit-jantung-tembus-29-7-juta-prabowo-soroti-beban-jkn",
@@ -126,18 +138,6 @@
      "tautan": "http://investortrust.id/macro/123910/tahun-2027-bi-utamakan-stabilitas",
      "waktu": "2026-11-27T15:23:00.000Z",
      "situs": "Investortrust"
-    },
-    {
-     "judul": "Hormati Independensi, Presiden Minta Kepentingan Rakyat Jadi Pegangan BI",
-     "tautan": "http://investortrust.id/macro/123909/hormati-independensi-presiden-minta-kepentingan-rakyat-jadi-pegangan-bi",
-     "waktu": "2026-11-27T15:18:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Bank Indonesia Targets Rupiah Stability and Inflation Control in 2027 Policy Mix",
-     "tautan": "http://investortrust.id/macro/123903/bank-indonesia-targets-rupiah-stability-and-inflation-control-in-2027-policy-mix",
-     "waktu": "2026-11-27T14:41:00.000Z",
-     "situs": "Investortrust"
     }
    ]
   },
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-28T13:24:15.207Z",
+   "diambil": "2026-11-28T21:08:30.271Z",
    "berita": [
     {
      "judul": "Faisal Islam: Why Trump's new tariffs are less of a threat",
