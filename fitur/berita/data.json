@@ -1,12 +1,12 @@
 {
- "diperbarui": "2026-11-27T22:49:05.587Z",
+ "diperbarui": "2026-11-28T04:25:43.279Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-27T22:49:05.587Z",
    "berita": [
     {
@@ -75,8 +75,8 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "ok",
-   "pesan": "",
+   "status": "gagal",
+   "pesan": "HTTP 429",
    "diambil": "2026-11-27T22:49:05.587Z",
    "berita": [
     {
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-27T22:49:05.587Z",
+   "diambil": "2026-11-28T04:25:43.279Z",
    "berita": [
     {
      "judul": "Faisal Islam: Why Trump's new tariffs are less of a threat",
