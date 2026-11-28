@@ -1,72 +1,72 @@
 {
- "diperbarui": "2026-11-28T04:25:43.279Z",
+ "diperbarui": "2026-11-28T13:24:15.207Z",
  "sumber": [
   {
    "id": "pasar",
    "nama": "Pasar (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-27T22:49:05.587Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-28T13:24:15.207Z",
    "berita": [
+    {
+     "judul": "Rescuers Halt Search for 14 Missing Miners After Days of Flooding at Pongkor Illegal Gold Mine",
+     "tautan": "http://investortrust.id/market/123970/rescuers-halt-search-for-14-missing-miners-after-days-of-flooding-at-pongkor-illegal-gold-mine",
+     "waktu": "2026-11-28T12:00:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Investor Saham Syariah Melonjak 150,8% dalam Lima Tahun, BEI Catat 263.742 Investor",
+     "tautan": "http://investortrust.id/market/123932/investor-saham-syariah-melonjak-150-8-dalam-lima-tahun-bei-catat-263742-investor",
+     "waktu": "2026-11-28T11:13:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Gandeng Trimegah, Avrist AM Luncurkan Reksa Dana Berbasis Sukuk",
+     "tautan": "http://investortrust.id/market/123925/gandeng-trimegah-avrist-am-luncurkan-reksa-dana-berbasis-sukuk",
+     "waktu": "2026-11-28T05:24:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Saham Total (TOTL) Masih Menarik, Target Rp1.900 Meski Proyek Data Center Melambat",
+     "tautan": "http://investortrust.id/market/123924/saham-total-totl-masih-menarik-target-rp1900-meski-proyek-data-center-melambat",
+     "waktu": "2026-11-28T04:55:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "BEI Evaluasi Indeks Saham, AMMN dan INCO Masuk JII, MDKA Masuk SRI-KEHATI",
+     "tautan": "http://investortrust.id/market/123922/bei-evaluasi-indeks-saham-ammn-dan-inco-masuk-jii-mdka-masuk-sri-kehati",
+     "waktu": "2026-11-28T04:01:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Pemodal Asing Asing Kembali Borong Saham, BBCA Pimpin Net Buy Rp 1,47 Triliun",
+     "tautan": "http://investortrust.id/market/123921/pemodal-asing-asing-kembali-borong-saham-bbca-pimpin-net-buy-rp-1-47-triliun",
+     "waktu": "2026-11-28T03:10:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Police Detain Three Suspects in Rp 16 Trillion DSSA Stock Manipulation Probe as Prabowo Condemns Share Pumping",
+     "tautan": "http://investortrust.id/market/123961/police-detain-three-suspects-in-rp-16-trillion-dssa-stock-manipulation-probe-as-prabowo-condemns-share-pumping",
+     "waktu": "2026-11-28T02:41:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Penerimaan Pajak Kripto 10 Bulan Ini Hanya Rp 341,6 Miliar, Industri Usulkan Tarif Turun",
+     "tautan": "http://investortrust.id/market/123931/penerimaan-pajak-kripto-10-bulan-ini-hanya-rp-341-6-miliar-industri-usulkan-tarif-turun",
+     "waktu": "2026-11-28T02:40:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "IHSG Lompat 3,73% ke Atas 5.300 Sepekan, Saham BBCA, ASII hingga BMRI Jadi Penopang",
+     "tautan": "http://investortrust.id/market/123920/ihsg-lompat-3-73-ke-atas-5300-sepekan-saham-bbca-asii-hingga-bmri-jadi-penopang",
+     "waktu": "2026-11-27T22:59:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "BEI Lirik Potensi Pasar Modal Syariah Kalimantan Timur, Ini Alasannya",
      "tautan": "http://investortrust.id/market/123888/bei-lirik-potensi-pasar-modal-syariah-kalimantan-timur-ini-alasannya",
      "waktu": "2026-11-27T12:24:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "IHSG Terbang 1,84%, Hampir Semua Sektor Saham Ditutup Menguat",
-     "tautan": "http://investortrust.id/market/123884/ihsg-terbang-1-84-hampir-semua-sektor-saham-ditutup-menguat",
-     "waktu": "2026-11-27T11:59:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Bitcoin Tertekan, Investor Lirik Stablecoin Dolar di Tengah Rupiah Melemah",
-     "tautan": "http://investortrust.id/market/123881/bitcoin-tertekan-investor-lirik-stablecoin-dolar-di-tengah-rupiah-melemah",
-     "waktu": "2026-11-27T10:06:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "OJK Susun Aturan Tokenisasi Aset, Pelaku Industri Ingatkan Soal Edukasi Risiko",
-     "tautan": "http://investortrust.id/market/123876/ojk-susun-aturan-tokenisasi-aset-pelaku-industri-ingatkan-soal-edukasi-risiko",
-     "waktu": "2026-11-27T09:05:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Astra Graphia (ASGR) Bagikan Dividen Rp 297 per Saham, Catat Tanggal Pentingnya",
-     "tautan": "http://investortrust.id/market/123859/astra-graphia-asgr-bagikan-dividen-rp-297-per-saham-catat-tanggal-pentingnya",
-     "waktu": "2026-11-27T05:50:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Rupiah Slides to Rp 18,373 as Industry Weighs Import Relief Amid Global Risks",
-     "tautan": "http://investortrust.id/market/123855/rupiah-slides-to-rp-18-373-as-industry-weighs-import-relief-amid-global-risks",
-     "waktu": "2026-11-27T05:04:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Data Saham ‘Free Float’ Tak Sesuai, 5 Emiten Ini Kena Suspensi BEI",
-     "tautan": "http://investortrust.id/market/123856/data-saham-free-float-tak-sesuai-5-emiten-ini-kena-suspensi-bei",
-     "waktu": "2026-11-27T04:03:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Empat Kali Beruntun, Cinema XXI (CNMA) Masuk Daftar Perusahaan Terbaik Deloitte",
-     "tautan": "http://investortrust.id/market/123849/empat-kali-beruntun-cinema-xxi-cnma-masuk-daftar-perusahaan-terbaik-deloitte",
-     "waktu": "2026-11-27T03:49:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Airlangga Rules Out 28% U.S. Tariff as Indonesia Prepares for Section 301 Talks",
-     "tautan": "http://investortrust.id/market/123844/airlangga-rules-out-28-us-tariff-as-indonesia-prepares-for-section-301-talks",
-     "waktu": "2026-11-27T03:26:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Pertamina Geothermal (PGEO) Raih Peringkat ‘Stable Outlook’ dari S&P Global",
-     "tautan": "http://investortrust.id/market/123842/pertamina-geothermal-pgeo-raih-peringkat-stable-outlook-dari-sp-global",
-     "waktu": "2026-11-27T03:01:00.000Z",
      "situs": "Investortrust"
     }
    ]
@@ -75,68 +75,68 @@
    "id": "makro",
    "nama": "Makro (Indonesia)",
    "bahasa": "id",
-   "status": "gagal",
-   "pesan": "HTTP 429",
-   "diambil": "2026-11-27T22:49:05.587Z",
+   "status": "ok",
+   "pesan": "",
+   "diambil": "2026-11-28T13:24:15.207Z",
    "berita": [
+    {
+     "judul": "Kasus Penyakit Jantung Tembus 29,7 Juta, Prabowo Soroti Beban JKN",
+     "tautan": "http://investortrust.id/macro/123975/kasus-penyakit-jantung-tembus-29-7-juta-prabowo-soroti-beban-jkn",
+     "waktu": "2026-11-28T12:49:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "OECD Urges Indonesia to Overhaul Fuel Subsidies and Nutrition Spending",
+     "tautan": "http://investortrust.id/macro/123964/oecd-urges-indonesia-to-overhaul-fuel-subsidies-and-nutrition-spending",
+     "waktu": "2026-11-28T10:30:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Konsolidasikan Lima Kementerian, Menko Airlangga Pacu Ekonomi Digital hingga Perluasan Akses Pasar Global",
+     "tautan": "http://investortrust.id/macro/123942/konsolidasikan-lima-kementerian-menko-airlangga-pacu-ekonomi-digital-hingga-perluasan-akses-pasar-global",
+     "waktu": "2026-11-28T08:11:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Prabowo Targets $21 Billion Procurement Leak, Vows Crackdown on Price Markup",
+     "tautan": "http://investortrust.id/macro/123929/prabowo-targets-21-billion-procurement-leak-vows-crackdown-on-price-markup",
+     "waktu": "2026-11-28T02:27:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Prabowo Warns Large Corporations Over Land Fires, Stock Manipulation and Credit Concentration",
+     "tautan": "http://investortrust.id/macro/123928/prabowo-warns-large-corporations-over-land-fires-stock-manipulation-and-credit-concentration",
+     "waktu": "2026-11-28T02:07:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Ekonomi Indonesia Tumbuh 5,47% di Tengah Gejolak Global, Prabowo Apresiasi Sinergi Sektor Keuangan",
+     "tautan": "http://investortrust.id/macro/123914/ekonomi-indonesia-tumbuh-5-47-di-tengah-gejolak-global-prabowo-apresiasi-sinergi-sektor-keuangan",
+     "waktu": "2026-11-27T16:06:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Prabowo Ingin Bentuk Lembaga Baru untuk Koordinasi Belanja Barang dan Jasa",
+     "tautan": "http://investortrust.id/macro/123912/prabowo-ingin-bentuk-lembaga-baru-untuk-koordinasi-belanja-barang-dan-jasa",
+     "waktu": "2026-11-27T15:33:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Tahun 2027, BI Utamakan Stabilitas",
+     "tautan": "http://investortrust.id/macro/123910/tahun-2027-bi-utamakan-stabilitas",
+     "waktu": "2026-11-27T15:23:00.000Z",
+     "situs": "Investortrust"
+    },
+    {
+     "judul": "Hormati Independensi, Presiden Minta Kepentingan Rakyat Jadi Pegangan BI",
+     "tautan": "http://investortrust.id/macro/123909/hormati-independensi-presiden-minta-kepentingan-rakyat-jadi-pegangan-bi",
+     "waktu": "2026-11-27T15:18:00.000Z",
+     "situs": "Investortrust"
+    },
     {
      "judul": "Bank Indonesia Targets Rupiah Stability and Inflation Control in 2027 Policy Mix",
      "tautan": "http://investortrust.id/macro/123903/bank-indonesia-targets-rupiah-stability-and-inflation-control-in-2027-policy-mix",
      "waktu": "2026-11-27T14:41:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "BI Optimistis Capaian Positif Ekonomi Indonesia akan Berlanjut pada 2027",
-     "tautan": "http://investortrust.id/macro/123896/bi-optimistis-capaian-positif-ekonomi-indonesia-akan-berlanjut-pada-2027",
-     "waktu": "2026-11-27T13:27:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Prabowo: Ekonomi Harus Tumbuh di Pabrik, Sawah, Pasar, dan Rumah Rakyat Indonesia",
-     "tautan": "http://investortrust.id/macro/123893/prabowo-ekonomi-harus-tumbuh-di-pabrik-sawah-pasar-dan-rumah-rakyat-indonesia",
-     "waktu": "2026-11-27T13:25:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "BI Arahkan Kebijakan Moneter di 2027 untuk Jaga Stabilitas",
-     "tautan": "http://investortrust.id/macro/123894/bi-arahkan-kebijakan-moneter-di-2027-untuk-jaga-stabilitas",
-     "waktu": "2026-11-27T13:20:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "PTBI 2026, Gubernur BI: Indonesia Dibayangi Ketidakpastian Global",
-     "tautan": "http://investortrust.id/macro/123892/ptbi-2026-gubernur-bi-indonesia-dibayangi-ketidakpastian-global",
-     "waktu": "2026-11-27T13:02:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Disambut Gubernur BI Destry Damayanti, Prabowo Hadiri Pertemuan Tahunan Bank Indonesia",
-     "tautan": "http://investortrust.id/macro/123890/disambut-gubernur-bi-destry-damayanti-prabowo-hadiri-pertemuan-tahunan-bank-indonesia",
-     "waktu": "2026-11-27T12:57:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "OECD Sarankan Pemerintah Tata Ulang Belanja Subsidi Energi dan MBG",
-     "tautan": "http://investortrust.id/macro/123871/oecd-sarankan-pemerintah-tata-ulang-belanja-subsidi-energi-dan-mbg",
-     "waktu": "2026-11-27T08:11:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Ini Pandangan OECD tentang Kenaikan BI Rate Jadi 6%",
-     "tautan": "http://investortrust.id/macro/123857/ini-pandangan-oecd-tentang-kenaikan-bi-rate-jadi-6",
-     "waktu": "2026-11-27T05:32:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "IPB Study Finds Home Kitchens Drive Most Sugar Intake Ahead of 2027 Excise Plan",
-     "tautan": "http://investortrust.id/macro/123854/ipb-study-finds-home-kitchens-drive-most-sugar-intake-ahead-of-2027-excise-plan",
-     "waktu": "2026-11-27T04:26:00.000Z",
-     "situs": "Investortrust"
-    },
-    {
-     "judul": "Indonesia Charges Fugitive 'Nickel King' Arif Kurniawan in Rp 153.5 Billion Money Laundering Crackdown",
-     "tautan": "http://investortrust.id/macro/123847/indonesia-charges-fugitive-nickel-king-arif-kurniawan-in-rp-1535-billion-money-laundering-crackdown",
-     "waktu": "2026-11-27T03:36:00.000Z",
      "situs": "Investortrust"
     }
    ]
@@ -147,7 +147,7 @@
    "bahasa": "en",
    "status": "ok",
    "pesan": "",
-   "diambil": "2026-11-28T04:25:43.279Z",
+   "diambil": "2026-11-28T13:24:15.207Z",
    "berita": [
     {
      "judul": "Faisal Islam: Why Trump's new tariffs are less of a threat",
